@@ -1,0 +1,16 @@
+c_ranger_eiko_2@spine.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.9
+Weapon1
+bounds:845,753,704,1295
+Weapon2
+bounds:0,982,844,1066
+Weapon3
+bounds:1392,0,652,1253
+offsets:0,12,652,1265
+rotate:180
+Weapon4
+bounds:54,257,762,1048
+rotate:90
