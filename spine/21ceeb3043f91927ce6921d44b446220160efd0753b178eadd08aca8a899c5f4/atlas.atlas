@@ -1,0 +1,15 @@
+c_ranger_freyja_2@spine.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Shield1_1
+bounds:1,122,553,1399
+Shield1_2
+bounds:624,397,461,1124
+rotate:180
+Shield2_1
+bounds:414,174,379,1176
+rotate:180
+Shield2_2
+bounds:324,1,224,728
+rotate:270
