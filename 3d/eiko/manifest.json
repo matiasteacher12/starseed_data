@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"eiko","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":112,"meshes":5,"clips":52,"playable":52,"issues":["mesh 4331630639602407674: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

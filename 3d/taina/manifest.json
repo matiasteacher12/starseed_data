@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"taina","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":100,"meshes":5,"clips":58,"playable":58,"issues":["mesh 3561950107833227624: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

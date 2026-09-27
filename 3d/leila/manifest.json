@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"leila","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":128,"meshes":5,"clips":64,"playable":64,"issues":["mesh -648599339493372539: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

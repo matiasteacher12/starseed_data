@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"mika","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":123,"meshes":7,"clips":55,"playable":55,"issues":["mesh -6887963421746542164: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

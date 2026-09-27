@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"erica","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":111,"meshes":6,"clips":55,"playable":55,"issues":["mesh 4714795588304693180: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"fei","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":130,"meshes":6,"clips":50,"playable":50,"issues":["mesh 8674258620256610590: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

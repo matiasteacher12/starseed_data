@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"daria","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":111,"meshes":5,"clips":50,"playable":50,"issues":["mesh 2910436949388260824: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

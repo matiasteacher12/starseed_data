@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"arcels","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","meshes":8,"clips":46,"issues":["mesh 2961824129461278779: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

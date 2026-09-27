@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"elodie","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":159,"meshes":12,"clips":54,"playable":54,"issues":["mesh -1349642932772190923: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

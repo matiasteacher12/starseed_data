@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"throaura","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":133,"meshes":6,"clips":18,"playable":18,"issues":["mesh 5891335312113896663: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

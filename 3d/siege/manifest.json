@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"siege","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":111,"meshes":13,"clips":47,"playable":47,"issues":["mesh -9125465710047075876: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

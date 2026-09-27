@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"angelica","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","meshes":4,"clips":49,"issues":["mesh 9015199630655891772: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

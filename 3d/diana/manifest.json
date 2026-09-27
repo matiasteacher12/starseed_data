@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"diana","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":96,"meshes":5,"clips":47,"playable":47,"issues":["mesh -8625085813826396396: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

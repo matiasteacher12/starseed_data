@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"crimson","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":111,"meshes":6,"clips":49,"playable":49,"issues":["mesh -7342962913815180917: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"mana","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":101,"meshes":5,"clips":116,"playable":116,"issues":["mesh 7587217947214636010: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview","renderer -2969133989282080997: no Mesh PPtr"]}]}

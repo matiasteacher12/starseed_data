@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"ambrosia","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","meshes":4,"clips":52,"issues":["mesh 3158890853493384589: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"balencia","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","meshes":5,"clips":50,"issues":["mesh -9211189793647292402: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

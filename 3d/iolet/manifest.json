@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"iolet","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":91,"meshes":5,"clips":13,"playable":13,"issues":["mesh -4179945479131502667: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

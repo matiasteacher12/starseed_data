@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"klairs","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":101,"meshes":5,"clips":48,"playable":48,"issues":["mesh 2163167711054317779: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

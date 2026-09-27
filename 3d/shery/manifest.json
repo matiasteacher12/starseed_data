@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"shery","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":117,"meshes":7,"clips":46,"playable":46,"issues":["mesh -2429982163115544472: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}

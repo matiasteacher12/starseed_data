@@ -1,0 +1,1 @@
+{"schema_version":1,"character":"ino","variants":[{"variant":"basic","label":"기본","model":"basic/model.json","nodes":98,"meshes":8,"clips":58,"playable":58,"issues":["mesh 3837090068608052744: shadow-effect renderer retained as raw provenance, omitted from flat-shader preview"]}]}
