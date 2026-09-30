@@ -1,0 +1,1786 @@
+{
+  "character": "leila",
+  "name": "라일라",
+  "cues": [
+    {
+      "id": "434aa4368eb9b7e8dab123e6",
+      "label": "생일 인사",
+      "label_source": "purpose",
+      "cue": "vo_leila@birth",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/99fe926bfb292737b759639e6a30906e34f3635fa6aea0eb8dfa183dcff96dd6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3503,
+      "audio_duration_ms": [
+        3504
+      ]
+    },
+    {
+      "id": "142b98fbdaeffa0b02a08951",
+      "label": "호출",
+      "label_source": "table",
+      "cue": "vo_leila@call01",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/cacbe60446f35ba0c6bc72e3019466954cbad76317c9b891bfd13a7e349eedcb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "8bb2dd802cc3e6e92ff12aee",
+      "label": "플레이어 호출",
+      "label_source": "table",
+      "cue": "vo_leila@call02",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/bf0a5b07801ea765784bc22cdc03144a876fc6407c0a321b041929ea3968523f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 900,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "1b9b960c2cea3c7eeb76a798",
+      "label": "호출 03",
+      "label_source": "purpose",
+      "cue": "vo_leila@call03",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/f7aee038129af480dc380648aca9a6e9e62e8dcd258e0a4e6363dc5834425802.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1301,
+      "audio_duration_ms": [
+        1301
+      ]
+    },
+    {
+      "id": "92d79166aad6f4e63e9f0570",
+      "label": "일일 인사",
+      "label_source": "purpose",
+      "cue": "vo_leila@daily",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/320d84817687843be9d5baef2df04f48f93721206bbdb0c1fa3800348beadf5e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3570,
+      "audio_duration_ms": [
+        3570
+      ]
+    },
+    {
+      "id": "a5309e2d50fc0eb880f04f98",
+      "label": "메인 로비 대기",
+      "label_source": "table",
+      "cue": "vo_leila@leaving1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/1364bd284f3a35b50455b0623046eb50dc4500c0bf5882e8070b66c315e88b4b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3593,
+      "audio_duration_ms": [
+        3594
+      ]
+    },
+    {
+      "id": "0befcdcd5a8e87cbdc7181f0",
+      "label": "로비 대기 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@leaving2",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/038004a97d9ff4c120675d1ae5468cf78e2f6942e1057dbedbc675aafaa87814.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "a640ce6bc6dfa03b0fce779b",
+      "label": "메인 로비 인사(메일)",
+      "label_source": "table",
+      "cue": "vo_leila@mail",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/9b33a10df54aa04095cc7bd3c8c6195bfacdae2d4f49e1cb56a01ab921d08479.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1534,
+      "audio_duration_ms": [
+        1535
+      ]
+    },
+    {
+      "id": "d632019e7509b3ab0d7ac39c",
+      "label": "소식",
+      "label_source": "purpose",
+      "cue": "vo_leila@news",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/99d11e95f9677ca164c6c408c9070d9398dafe56262facf92e99f076dad10acf.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2335,
+      "audio_duration_ms": [
+        2336
+      ]
+    },
+    {
+      "id": "6c13c46ec8b89e138e6ebb50",
+      "label": "메인 로비 인사(아침)",
+      "label_source": "table",
+      "cue": "vo_leila@time1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/522e1adfacde59ee7aa1c83fe45247075c2b09070eb9cb82ab3a17071c2e1ab8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8008,
+      "audio_duration_ms": [
+        8008
+      ]
+    },
+    {
+      "id": "da40fb50ebcd2e1aa3df038a",
+      "label": "메인 로비 인사(낮)",
+      "label_source": "table",
+      "cue": "vo_leila@time2",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/8ed06137a312d9536c723c0b296134d751640842f7ec2f297d3e7020e1ffde19.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4904,
+      "audio_duration_ms": [
+        4905
+      ]
+    },
+    {
+      "id": "e91761b848f671966393d0a7",
+      "label": "메인 로비 인사(저녁)",
+      "label_source": "table",
+      "cue": "vo_leila@time3",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3ce2e62c82fb950a3d1da6fa43e0d9da40cbc79473b1427337daa84e3103558f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3703,
+      "audio_duration_ms": [
+        3704
+      ]
+    },
+    {
+      "id": "9cf9c0790c44288fb75f0062",
+      "label": "메인 로비 인사(밤)",
+      "label_source": "table",
+      "cue": "vo_leila@time4",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/b7ba311a01e6963ae6f1669b4f1873f66a868465c5aa49f34d686b6c2a39fc78.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2736,
+      "audio_duration_ms": [
+        2736
+      ]
+    },
+    {
+      "id": "0496cb72671adeb5588f05f7",
+      "label": "메인 로비 터치 일반1",
+      "label_source": "table",
+      "cue": "vo_leila@lobby1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/1084c8228b65ce421bd32ac7160a58e76f0fcef8a394a7fda2d7534e51db74f1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4604,
+      "audio_duration_ms": [
+        4605
+      ]
+    },
+    {
+      "id": "0e2d6c1094baa5340510c3a2",
+      "label": "메인 로비 터치 일반2",
+      "label_source": "table",
+      "cue": "vo_leila@lobby2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/a5a86e0520b0f27ddea870d20d6bdbeafdd3a1189d838f4939612224ef920e96.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3069,
+      "audio_duration_ms": [
+        3070
+      ]
+    },
+    {
+      "id": "a77bf6db262d109a73a9fa77",
+      "label": "메인 로비 터치 일반3",
+      "label_source": "table",
+      "cue": "vo_leila@lobby3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/8922c01bbbaacabfacd3187e0af980b842426ad0ebb94cf47664e845881e85d1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2669,
+      "audio_duration_ms": [
+        2669
+      ]
+    },
+    {
+      "id": "6ea58a2a121a2b0c26100ede",
+      "label": "메인 로비 터치 일반4",
+      "label_source": "table",
+      "cue": "vo_leila@lobby4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/7ecb5c3a14d6f4cde4cc5e7f3eadc35bd9e38105450bc8e698dbb35ccfb5f91b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5905,
+      "audio_duration_ms": [
+        5906
+      ]
+    },
+    {
+      "id": "d8f297e6c3309dd67057bbea",
+      "label": "메인 로비 터치 특수1",
+      "label_source": "table",
+      "cue": "vo_leila@lobbyS1-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/c0a605249114c51cca5b155ff4989acf1bb0029175260e27fe2882d3eecda806.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5472,
+      "audio_duration_ms": [
+        5472
+      ]
+    },
+    {
+      "id": "2902f3135fe9dcaec938a3a8",
+      "label": "메인 로비 터치 특수2",
+      "label_source": "table",
+      "cue": "vo_leila@lobbyS1-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/2c37b6012d6afa2599b9fe0c6cf3a30e90bad331e76fe78063b4c5f5b9b1ed67.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5805,
+      "audio_duration_ms": [
+        5806
+      ]
+    },
+    {
+      "id": "61d8713d3963753c4352ae27",
+      "label": "메인 로비 터치 특수3",
+      "label_source": "table",
+      "cue": "vo_leila@lobbyS2-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/e9616e48227ad21f67da7ce2904335938ff4ed7ae65affa2ff5f4ffa797a9acd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4704,
+      "audio_duration_ms": [
+        4705
+      ]
+    },
+    {
+      "id": "8775267c2c87ee82bcad12a6",
+      "label": "메인 로비 터치 특수4",
+      "label_source": "table",
+      "cue": "vo_leila@lobbyS2-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/29209161a6914950eb85e997e42ee9cf98e9f36a803820c0e83aa8d11e7ee6ae.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3703,
+      "audio_duration_ms": [
+        3704
+      ]
+    },
+    {
+      "id": "52a5d1a17e563209e83223d5",
+      "label": "로비 터치 특수 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@lobbyS3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/da143cbdcb012e650b22a43e98ed2ddd3ec1f49d4b682de0cfe413de2ea93f94.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8742,
+      "audio_duration_ms": [
+        8742
+      ]
+    },
+    {
+      "id": "2faab144b42a5111eef2cb7a",
+      "label": "로비 터치 특수 4",
+      "label_source": "purpose",
+      "cue": "vo_leila@lobbyS4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/ba04d3857c2ff52d9b08dcfe0b31e1f7334893049c1629e69afe61da2f3c3e0d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5405,
+      "audio_duration_ms": [
+        5405
+      ]
+    },
+    {
+      "id": "3fb9f1ba8f47c3cae02846b6",
+      "label": "기본 공격 1",
+      "label_source": "table",
+      "cue": "vo_leila@attack1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/cf72896041bc559683bb09df3708b41c0fcf2a85282e00f4fc86f8b5e6cb3767.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "9fdb20ea8ee8eea9b055c2bb",
+      "label": "기본 공격 2",
+      "label_source": "table",
+      "cue": "vo_leila@attack2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/8f12b3001a2f9c6e1c044ee34993691bbfe22595f2be90a997395cc7286ef450.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1668,
+      "audio_duration_ms": [
+        1668
+      ]
+    },
+    {
+      "id": "a23db67864594071dc2d135d",
+      "label": "기본 공격 3",
+      "label_source": "table",
+      "cue": "vo_leila@attack3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/6176cbbb25ac4b3db1912da265b12cb48d792dcaf13ae022f00c70028c8360d9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2068,
+      "audio_duration_ms": [
+        2069
+      ]
+    },
+    {
+      "id": "844198b52d3ef11018541a0a",
+      "label": "기본 공격 4",
+      "label_source": "purpose",
+      "cue": "vo_leila@attack4",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/ce2fc7c6ce4daa1a2c2de69a9f306b555f9df8f9d0d8d7f9d9ab447c64db5474.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 734,
+      "audio_duration_ms": [
+        734
+      ]
+    },
+    {
+      "id": "b0db181f1bd586eefcfc1579",
+      "label": "기본 공격 5",
+      "label_source": "purpose",
+      "cue": "vo_leila@attack5",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/8831035db01ac8c083756b5202ea203e6b5261d02a0216ff2d9d5bdd6b3d5bef.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1034,
+      "audio_duration_ms": [
+        1034
+      ]
+    },
+    {
+      "id": "b4aff50c053fb7fb23401b92",
+      "label": "기타 보이스 · battlestart",
+      "label_source": "cue",
+      "cue": "vo_leila@battlestart",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4da035b8cff364de67aa550489d4b193de8426965d84ebc5c55c5993ad13c210.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4771,
+      "audio_duration_ms": [
+        4771
+      ]
+    },
+    {
+      "id": "942f1d9990a57a98c46b3841",
+      "label": "위기 1",
+      "label_source": "purpose",
+      "cue": "vo_leila@danger1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/c6f7b56444673cc7be92ab9eac35d28f972c325968b54045e1f8ebba3d7e7a06.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5905,
+      "audio_duration_ms": [
+        5906
+      ]
+    },
+    {
+      "id": "195efb292117044402a71ebf",
+      "label": "위기 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@danger2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7cc5503406fb7626a250e43c5742d65ac904fafa7eb41a9a0526675976f421c6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3169,
+      "audio_duration_ms": [
+        3170
+      ]
+    },
+    {
+      "id": "3c69adaf677f7af9093b5a53",
+      "label": "패배 1",
+      "label_source": "purpose",
+      "cue": "vo_leila@defeat1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/0aefd755b2f6419d65c68ae2eedcd1b9792a2fc63c1efdb0542412e4bef5d29c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2102,
+      "audio_duration_ms": [
+        2102
+      ]
+    },
+    {
+      "id": "af02bf98fa21d32acf62a548",
+      "label": "피격 1",
+      "label_source": "purpose",
+      "cue": "vo_leila@hit1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3c48163d726d47e1182d3f4de34cf527872b697fcd0561d0ea2ae4530b9a6568.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1635,
+      "audio_duration_ms": [
+        1635
+      ]
+    },
+    {
+      "id": "acb3c4d81f9a1515080e399f",
+      "label": "피격 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@hit2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/0b07d9e03da23d0d59e0596671d13072ec4df1a17ec32ca85d3b4b2210341d55.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "631c3d1347ed89ab605375d6",
+      "label": "피격 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@hit3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/8cc32dab5b6bd52d87b9221ba81983296a4204c113964280c82d3677ca1d0852.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "413f0f7a2afc24014b6a1f63",
+      "label": "피격 4",
+      "label_source": "purpose",
+      "cue": "vo_leila@hit4",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/2dc9277dc390e1113bbab0d357d880fe5247974d6c0e5c41796365d7286e1eb4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1067,
+      "audio_duration_ms": [
+        1068
+      ]
+    },
+    {
+      "id": "d547552dede494bf16984e72",
+      "label": "퇴각 1",
+      "label_source": "purpose",
+      "cue": "vo_leila@retire1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/c22361055176d22b581aaa08d4a6aa9f6b230b7e9c7efee0c1f62ea9c14537d7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3169,
+      "audio_duration_ms": [
+        3170
+      ]
+    },
+    {
+      "id": "2d9044d0e4265d0147f03f05",
+      "label": "퇴각 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@retire2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3198cd2750a0b7fac97d58f0a1b68c8e48dc3c5e99971335ab06065742bbeb73.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4671,
+      "audio_duration_ms": [
+        4671
+      ]
+    },
+    {
+      "id": "3ecf5b62ae3c939bcc9fe9b2",
+      "label": "편성 배치",
+      "label_source": "table",
+      "cue": "vo_leila@setting",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/5e1fc499854b55bcde54fcd937922f81262f970886c889caa17bad6828bd4420.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2469,
+      "audio_duration_ms": [
+        2469
+      ]
+    },
+    {
+      "id": "082b77c8c88a4a56ca9e9efb",
+      "label": "스킬 1 사용 2",
+      "label_source": "table",
+      "cue": "vo_leila@skill1-2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/b7eda9baf3e33ac3481e59b0ac6ab278de34c617d7f7f5b543837009f354e33f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1868,
+      "audio_duration_ms": [
+        1869
+      ]
+    },
+    {
+      "id": "d84faac0365c742793363930",
+      "label": "스킬 2 사용 1",
+      "label_source": "table",
+      "cue": "vo_leila@skill2-1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/424d347bccea63c361bd26cd51cb7d0c500d689926edf89cc28729d5976166d5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2369,
+      "audio_duration_ms": [
+        2369
+      ]
+    },
+    {
+      "id": "1738c9f4fefdee1d1b97fb91",
+      "label": "스킬 2 사용 2",
+      "label_source": "table",
+      "cue": "vo_leila@skill2-2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/b3de19dde5a2040d8f4ba68c79212a12f22646d2f8c5a5273149efb27900150c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2068,
+      "audio_duration_ms": [
+        2069
+      ]
+    },
+    {
+      "id": "f0181a3f3116d92864843b69",
+      "label": "궁극기 준비",
+      "label_source": "purpose",
+      "cue": "vo_leila@ult-Ready",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/5f609aeedb10f731366f52705be674f2fea0d783ce64f4d90e060874b74a57df.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2802,
+      "audio_duration_ms": [
+        2803
+      ]
+    },
+    {
+      "id": "c9bf19096b74f89cf58adc02",
+      "label": "궁극기 짧게",
+      "label_source": "purpose",
+      "cue": "vo_leila@ult-short",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/90ae6c5fb6c9a078acd53c17681b17e053e20c98dc6ea5365980f3d0eaff9065.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2702,
+      "audio_duration_ms": [
+        2703
+      ]
+    },
+    {
+      "id": "c7c57e07b7a1ee4ef9e2df26",
+      "label": "궁극기 컷신",
+      "label_source": "table",
+      "cue": "vo_leila@ult-timeline",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7b927052d77eae2fff5b619301674989ff45cbe4d2b5735befc1244a86cdea0c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3703,
+      "audio_duration_ms": [
+        3704
+      ]
+    },
+    {
+      "id": "88bee3c0aecb0ede7dad8359",
+      "label": "궁극기 사용 1",
+      "label_source": "table",
+      "cue": "vo_leila@ult1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/981d25286c5d8b3628ef3d83e493baddc00146972c1a4ca723006985b06b5f3b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2836,
+      "audio_duration_ms": [
+        2836
+      ]
+    },
+    {
+      "id": "a8e8a9ca7088e392610c8435",
+      "label": "궁극기 사용 2",
+      "label_source": "table",
+      "cue": "vo_leila@ult2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d178dd39a7a56bbf441941ed2b8755947b84ae2fd45af8741d5d1d974f20427e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3970,
+      "audio_duration_ms": [
+        3971
+      ]
+    },
+    {
+      "id": "b542da935197c5d18fce4a79",
+      "label": "전투 승리 1",
+      "label_source": "table",
+      "cue": "vo_leila@victory1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/c7fea60a3d7a9b388312608249aac6ddd0964ea335aceafaa2054707ccc72c10.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2836,
+      "audio_duration_ms": [
+        2836
+      ]
+    },
+    {
+      "id": "58629e2f77bfd6824a56ec84",
+      "label": "전투 승리 2",
+      "label_source": "table",
+      "cue": "vo_leila@victory2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/de75e41569b1b0521134d08da31020d5a4352dec576c5841a60405dbb00e879b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3370,
+      "audio_duration_ms": [
+        3370
+      ]
+    },
+    {
+      "id": "9a2e6957f3ab33b22e7fb74d",
+      "label": "전투 승리 3",
+      "label_source": "table",
+      "cue": "vo_leila@victory3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/1646d06e42dac84724238c9770ef744554bb2ac31de5c96184cad895b00fd96a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4704,
+      "audio_duration_ms": [
+        4705
+      ]
+    },
+    {
+      "id": "d1534e4fb289de83f364f4bc",
+      "label": "획득",
+      "label_source": "purpose",
+      "cue": "vo_leila@gacha",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/1647496c8ca62b43baa68856207b38c87061628f19fe9686268eea2a39670431.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2435,
+      "audio_duration_ms": [
+        2436
+      ]
+    },
+    {
+      "id": "d8fb5c54580d8d50157f6803",
+      "label": "캐릭터 획득",
+      "label_source": "table",
+      "cue": "vo_leila@gachainfo",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/b260494482db039fb9fc01d6ac707deff18571f01fbcebe59bb14e7c0e2435e5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5171,
+      "audio_duration_ms": [
+        5172
+      ]
+    },
+    {
+      "id": "3cb4869fced455a55259ba93",
+      "label": "레벨 상승",
+      "label_source": "purpose",
+      "cue": "vo_leila@levelup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/9d540a1c902b22bda840641ea5daed29719358648a9ef44e54532bfabb8100be.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3303,
+      "audio_duration_ms": [
+        3303
+      ]
+    },
+    {
+      "id": "7c3ee043faaf0bd131a8df6d",
+      "label": "플러그인 1",
+      "label_source": "purpose",
+      "cue": "vo_leila@plugin1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/b93eb92586275e2dfc085901052bb75b60e5049e389d00d08bbe087c7ed72ddf.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2736,
+      "audio_duration_ms": [
+        2736
+      ]
+    },
+    {
+      "id": "150927cd2012517e68ecc4f8",
+      "label": "플러그인 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@plugin2",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/63f2d968962727118a564194d94627ccb54f212513258f8c75b0024ee7d038b0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3336,
+      "audio_duration_ms": [
+        3337
+      ]
+    },
+    {
+      "id": "f2b25a904fdadd145757e6c3",
+      "label": "플러그인 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@plugin3",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/99b5a86f3cfb02b0201c51374a0f7d9bc6d5ca5a376be8200dade6e9db76e3aa.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2802,
+      "audio_duration_ms": [
+        2803
+      ]
+    },
+    {
+      "id": "d44404da338027f2bbc8684c",
+      "label": "스킬 1 사용 1",
+      "label_source": "table",
+      "cue": "vo_leila@skill1-1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/b050b8ffe69c95495976d6f29bd771f662b7bb4f55a5b2120b05e51ff2082cf2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1668,
+      "audio_duration_ms": [
+        1668
+      ]
+    },
+    {
+      "id": "e06902061063cf98756a96b2",
+      "label": "스킬 성장",
+      "label_source": "purpose",
+      "cue": "vo_leila@skillup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/e46f1422261355d23e38675dcc286bbb594d54bd99b1b75847f0a2dad59c9efe.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2602,
+      "audio_duration_ms": [
+        2603
+      ]
+    },
+    {
+      "id": "4a38a3419a38ef182b1a298e",
+      "label": "화남 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@anger01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/39f09db05c53a12e47395a20e900028df5ecbb47317086fdc859b17e5366f17b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1368,
+      "audio_duration_ms": [
+        1368
+      ]
+    },
+    {
+      "id": "daa713bc6f6199a8c7738085",
+      "label": "화남 02",
+      "label_source": "purpose",
+      "cue": "vo_leila@anger02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/1879fad5d6b96ae5ef4b4efe975570810fb0691a2633d0b4e76a4f92fd02cefd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2235,
+      "audio_duration_ms": [
+        2236
+      ]
+    },
+    {
+      "id": "959ee010448b8ac4f6158360",
+      "label": "화남 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@anger02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/6b3c38c7949aca8921c7eb63961d6e9290dcbef8b837172bd7eebf264bac7af6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2135,
+      "audio_duration_ms": [
+        2135
+      ]
+    },
+    {
+      "id": "a9790a650a79e475bbbdca47",
+      "label": "화남 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@anger02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ec23e6d5d7b57d19f61d2ef2e76a97f7a2131ee3469ddbbd724936d0b416a6a9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1668,
+      "audio_duration_ms": [
+        1668
+      ]
+    },
+    {
+      "id": "a6eb20da4dea74b7ecfa35dd",
+      "label": "기쁨 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@happy01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/03ff63ecefee7ce077b3b41785ba0372cfb31ad4c179d7f33e1a597f0d384d01.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1935,
+      "audio_duration_ms": [
+        1935
+      ]
+    },
+    {
+      "id": "069fbe53fbab351f3e594e3a",
+      "label": "기쁨 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@happy01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/270c5285e23d19ca50db9c78a301b2c8ffc9ae40ea7c160b7b9f92d26a828d99.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2168,
+      "audio_duration_ms": [
+        2169
+      ]
+    },
+    {
+      "id": "780e28d14e4ee901d39edb0d",
+      "label": "기쁨 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@happy01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/6eb1426833bc6b946e4b8a677250fcd16ac71a90ad8a45164a51bf3f9da7ca23.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1368,
+      "audio_duration_ms": [
+        1368
+      ]
+    },
+    {
+      "id": "f8502c8a3ef6d7bfcf4fb1bb",
+      "label": "웃음 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@laugh01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/388ce4721e983c31bc266d7f039a4aec9ae60bd309597f51b88aba1459a791e0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "ac27250fcff40414e582865e",
+      "label": "웃음 02",
+      "label_source": "purpose",
+      "cue": "vo_leila@laugh02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/68e4fcfdded15fe2d053e187f9d192faa9e926d79e09a3e63079d63271ad0688.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2168,
+      "audio_duration_ms": [
+        2169
+      ]
+    },
+    {
+      "id": "881806a94c121318ba177ad2",
+      "label": "웃음 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@laugh02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d9b6c74356c579d5f557791673bb072d73d6f755eea7dcc499a635d4144ece4d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1901,
+      "audio_duration_ms": [
+        1902
+      ]
+    },
+    {
+      "id": "46e844df879feb0c48db871b",
+      "label": "웃음 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@laugh02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/faf096ce13bbd3f55660a949ab29819b2bf51f65b0589de440561d1a3f4dbbf4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1935,
+      "audio_duration_ms": [
+        1935
+      ]
+    },
+    {
+      "id": "882136bd8421f6990855a739",
+      "label": "부정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@negative01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d681d7ff432c249c4d73792a2a5dec655ff07fe64d4af512d401232ba2a0ba48.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1501,
+      "audio_duration_ms": [
+        1502
+      ]
+    },
+    {
+      "id": "303ef6b6c2fad3186e7a3e11",
+      "label": "부정 반응 02",
+      "label_source": "purpose",
+      "cue": "vo_leila@negative02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/fc440b5f5bebbec0a0bbeb4dd44e90614809c6c0b5fa649b6aa5fe20a78b392b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 934,
+      "audio_duration_ms": [
+        934
+      ]
+    },
+    {
+      "id": "afbe19e5e3744d72fbd8bcda",
+      "label": "부정 반응 03",
+      "label_source": "purpose",
+      "cue": "vo_leila@negative03",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/8afef4adadb4c888d14579418dfa74a0fab8912bb99e2912bebbd96600264c1d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1434,
+      "audio_duration_ms": [
+        1435
+      ]
+    },
+    {
+      "id": "233732801f9ec4ba90d5da9a",
+      "label": "부정 반응 04",
+      "label_source": "purpose",
+      "cue": "vo_leila@negative04",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0733382ea11c8271f8c201fde6c657076d06bd7f7fb29579327d36b744a361b9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1468,
+      "audio_duration_ms": [
+        1468
+      ]
+    },
+    {
+      "id": "5372bea33692114f9a33c075",
+      "label": "긍정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/492bfd2d181bcd870c1c955eec0a8a47c9850eb254316630f92f37975f428feb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 800,
+      "audio_duration_ms": [
+        801
+      ]
+    },
+    {
+      "id": "22f247942f4fb3f4b8bd2b83",
+      "label": "긍정 반응 02",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/1158423104d17ee91aff63e8c2b094f4a7c7beb198d636ac7621d2c0e386d74a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1334,
+      "audio_duration_ms": [
+        1335
+      ]
+    },
+    {
+      "id": "aa1f23913eab211552c1c0cd",
+      "label": "긍정 반응 03",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive03",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/36d560fa17df90f29ade50f28839495f45598d4b544ee80de6258cecec0591e9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2035,
+      "audio_duration_ms": [
+        2035
+      ]
+    },
+    {
+      "id": "52d2a6d8e8438159fb972326",
+      "label": "긍정 반응 04",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive04",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/78df0e58c15653b1b6c6f3ebff2c1ac068dc02c5e4bacc160438fb15479d9676.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1601,
+      "audio_duration_ms": [
+        1602
+      ]
+    },
+    {
+      "id": "9e0c62ad64ce46cc57af292c",
+      "label": "긍정 반응 05",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive05",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/557abfab9eae760826072c8eeb17f4f20941156000ddc9edc11cb9cf2823375a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "d39652264b2ca765fa6bbec1",
+      "label": "긍정 반응 05 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive05_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/4fdf179bb7478092a95469c62468054066bcfce1b0bac06807e0323b8021d074.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1668,
+      "audio_duration_ms": [
+        1668
+      ]
+    },
+    {
+      "id": "ae242e57bb22e0cdf681a190",
+      "label": "긍정 반응 05 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@positive05_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/3fb4fe29c6a7df73377260d09b1650f62b67d0dc6db903215c44389a7b5c8d91.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 867,
+      "audio_duration_ms": [
+        868
+      ]
+    },
+    {
+      "id": "a980d73fa0a58e024dc4277d",
+      "label": "질문 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@question01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/3d1129aab2cb5c12362894abc07af1e1958070dc2ff3a80a2f443eea98b86f78.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1468,
+      "audio_duration_ms": [
+        1468
+      ]
+    },
+    {
+      "id": "b26c37d20c32de748e995000",
+      "label": "질문 02",
+      "label_source": "purpose",
+      "cue": "vo_leila@question02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/2c9e891aba6db2e3112acf60c5dcda2ab326698ab1523210899eec126ca18eb4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 901,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "62e36cbd305dbedb8046097b",
+      "label": "질문 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@question02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d5ef5cbc173dfe63ad07114fa141cbb8b600525f501848730a25ed990f69975d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1034,
+      "audio_duration_ms": [
+        1034
+      ]
+    },
+    {
+      "id": "c197c8096e5c6ff8298af366",
+      "label": "질문 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@question02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5ba3cca50b31bcd7f6c959ddea480308338f91f162b8cfd290b1efd6a8d41be1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1401,
+      "audio_duration_ms": [
+        1401
+      ]
+    },
+    {
+      "id": "ee11c3934a09956b39d70fca",
+      "label": "슬픔 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@sad01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/47b3b66ba288ce5ba574163ec0f7d78bfb589826f941d6ec6b01aca82216c2c8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1968,
+      "audio_duration_ms": [
+        1969
+      ]
+    },
+    {
+      "id": "d7079a00590684c67aa130c1",
+      "label": "슬픔 02",
+      "label_source": "purpose",
+      "cue": "vo_leila@sad02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c127e298bca4d74f257c0ca8c1614ed533f280f1e1aef02bc0ad0c41d30902f9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1468,
+      "audio_duration_ms": [
+        1468
+      ]
+    },
+    {
+      "id": "2fb4939748c1236fe60d8480",
+      "label": "슬픔 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@sad02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/921602a781d71deddce748234689537e3781d3858e1aa75f53a7cd9c1e28853e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2635,
+      "audio_duration_ms": [
+        2636
+      ]
+    },
+    {
+      "id": "f83b47c277f5bb3be9f7b02d",
+      "label": "슬픔 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@sad02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/75c9a745cfa99b40980a2baf72b8a0901ec20f2ccde2d8786865cccce4adcabc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3670,
+      "audio_duration_ms": [
+        3670
+      ]
+    },
+    {
+      "id": "287dd7415b6e915f4ad05b16",
+      "label": "부끄러움 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@shame01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/54e03f51884ab324e37a7c4ab2f006bc9efb69e561ef1ab3e1918bb5fd5e633f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1935,
+      "audio_duration_ms": [
+        1935
+      ]
+    },
+    {
+      "id": "a2d48c07629ae61184eab1d6",
+      "label": "부끄러움 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@shame01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/f46e0236dd3da69a7c4aa4295e013d79408ea81c444f002be8cba7aaca679ebd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2235,
+      "audio_duration_ms": [
+        2236
+      ]
+    },
+    {
+      "id": "bc9192ac1361ee5c131292b5",
+      "label": "부끄러움 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@shame01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/29047c56cbea896421182b23ada70e2aad933160a234ca5ac26732cdfeb27830.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1901,
+      "audio_duration_ms": [
+        1902
+      ]
+    },
+    {
+      "id": "11d77a07b428290ed1013cb5",
+      "label": "사과",
+      "label_source": "purpose",
+      "cue": "vo_leila@sorry",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/4e583ffb84496194128dfec23bec7db8ecbc928adc4ecd14b2058a3cce4a557e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6439,
+      "audio_duration_ms": [
+        6440
+      ]
+    },
+    {
+      "id": "9592d88d5e078d590be2ab1d",
+      "label": "놀람 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@surprise01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d6cde77daa5a50b8e73edebd0ddaec9b8f11011ea5e81d5da84d96da74efc0f5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "c2dff3268f47e189cce9ee2d",
+      "label": "놀람 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@surprise01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5330e3279ef01def375b9557eba0209e484a8429dd83dbfd1ff6d36534772567.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1601,
+      "audio_duration_ms": [
+        1602
+      ]
+    },
+    {
+      "id": "23dba9eca9925521e65b6c59",
+      "label": "놀람 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@surprise01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9795a8b56277b42c365aa86d7872aaa4a53ced72719681c758edbec7728fe5e0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1134,
+      "audio_duration_ms": [
+        1134
+      ]
+    },
+    {
+      "id": "ea8fddd4ff75589519513e43",
+      "label": "감사 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@thanks01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/54160aba32fead7f72ab1e5b257e46c2cc1262821d45645bb0f18f58711c0eed.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2767,
+      "audio_duration_ms": [
+        2768
+      ]
+    },
+    {
+      "id": "08ada6014e38b48b332661e4",
+      "label": "생각 01",
+      "label_source": "purpose",
+      "cue": "vo_leila@think01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/8ac7360c49680ec4de3c93a843a4bdb98c34b284abf27170ba3d27c941444721.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2135,
+      "audio_duration_ms": [
+        2135
+      ]
+    },
+    {
+      "id": "625bd99ef691c77bf5a30714",
+      "label": "생각 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@think01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/02bcba6da076ee0a8222a0630a56e3a3835386325ecb9f2e0afe34d11a9adc09.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1968,
+      "audio_duration_ms": [
+        1969
+      ]
+    },
+    {
+      "id": "fd5d5593c50e9ca687be4d43",
+      "label": "생각 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@think01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d6876aca882b0802cac7c643467fb04cf9607ab137d8320bb5e416a35c63c5e0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1701,
+      "audio_duration_ms": [
+        1702
+      ]
+    },
+    {
+      "id": "16c7705bcd056977ada83340",
+      "label": "기타 보이스 · snsmovie1",
+      "label_source": "cue",
+      "cue": "vo_leila@snsmovie1",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8480a6a3278e1b0f4213c9cfc2de6ea3588d994006b16b77e1dcace8af454cfb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3803,
+      "audio_duration_ms": [
+        3804
+      ]
+    },
+    {
+      "id": "4419e224fc7c07d24d6360e1",
+      "label": "기타 보이스 · snsmovie2",
+      "label_source": "cue",
+      "cue": "vo_leila@snsmovie2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/83eabd3eafdbfef6e82fd44d0e1e71fffcd590bb3c997e00f9c6d9b0ec758e55.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3737,
+      "audio_duration_ms": [
+        3737
+      ]
+    },
+    {
+      "id": "8128b95cdd0c0e10ff2e157a",
+      "label": "기타 보이스 · snsmovie3",
+      "label_source": "cue",
+      "cue": "vo_leila@snsmovie3",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0619e3d0f37bda7968a3f4526bc6c23973de14a28d97ef7dbf9c30da32fd2143.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3603,
+      "audio_duration_ms": [
+        3604
+      ]
+    },
+    {
+      "id": "ca6dfb7534de37d6a40fdb55",
+      "label": "기타 보이스 · snsmovie4",
+      "label_source": "cue",
+      "cue": "vo_leila@snsmovie4",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e914be24809f5a80eb8ac3b60a3257cb41bf1579a748cb8949da05cd78c22eae.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3036,
+      "audio_duration_ms": [
+        3036
+      ]
+    },
+    {
+      "id": "d59dfc2cb74e387f278f7cb0",
+      "label": "기타 보이스 · snsmovie5",
+      "label_source": "cue",
+      "cue": "vo_leila@snsmovie5",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/30d391cad44301d39275b5dcb071337ad3524ad28c1f84f3bc470c18b1a26cce.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2535,
+      "audio_duration_ms": [
+        2536
+      ]
+    },
+    {
+      "id": "8448f2d891c8518b48dbfe59",
+      "label": "타이틀",
+      "label_source": "purpose",
+      "cue": "vo_leila@titlecall",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/719ed3df0c038dec3365fa91f422892b991a1f7e1eebdfe6a770577b7144b68e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "9bf8d243be24d2a0880223f0",
+      "label": "타이틀 2",
+      "label_source": "purpose",
+      "cue": "vo_leila@titlecall2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6f81db6a09ecdb765484ac09c7b642f514905c32a747ddcde057da208a95097c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2902,
+      "audio_duration_ms": [
+        2903
+      ]
+    },
+    {
+      "id": "4f41efcc5bd49d15a2e8d437",
+      "label": "타이틀 3",
+      "label_source": "purpose",
+      "cue": "vo_leila@titlecall3",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3503f3ed91e402194eb65ab3207f50c07335d704dd558fb0695fb3699258a1e6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2969,
+      "audio_duration_ms": [
+        2970
+      ]
+    },
+    {
+      "id": "67f2a0fb3256cbad655016a5",
+      "label": "타이틀 4",
+      "label_source": "purpose",
+      "cue": "vo_leila@titlecall4",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e0d5a13b2ea8b3755923dd00426d2cddf4786f0c3405236fe68d500b28e60e2b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2635,
+      "audio_duration_ms": [
+        2636
+      ]
+    },
+    {
+      "id": "d8adb30e5f9c2ce5f6527014",
+      "label": "타이틀 5",
+      "label_source": "purpose",
+      "cue": "vo_leila@titlecall5",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9b31ef3e7e7446120ba9e11270328160ec32f7685a5540b522a67ecaf6874d43.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2869,
+      "audio_duration_ms": [
+        2870
+      ]
+    }
+  ],
+  "excluded_event_only": 0,
+  "total": 109,
+  "playable": 109,
+  "clip_count": 109,
+  "categories": [
+    {
+      "id": "idle",
+      "label": "대기",
+      "count": 13
+    },
+    {
+      "id": "touch",
+      "label": "터치",
+      "count": 10
+    },
+    {
+      "id": "battle",
+      "label": "전투",
+      "count": 27
+    },
+    {
+      "id": "growth",
+      "label": "획득·성장",
+      "count": 8
+    },
+    {
+      "id": "emotion",
+      "label": "감정·반응",
+      "count": 41
+    },
+    {
+      "id": "other",
+      "label": "기타",
+      "count": 10
+    }
+  ]
+}

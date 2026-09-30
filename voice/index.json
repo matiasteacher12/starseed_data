@@ -1,0 +1,557 @@
+{
+  "schema_version": 1,
+  "characters": [
+    {
+      "id": "adelie",
+      "name": "아델리",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "airen",
+      "name": "아이렌",
+      "total": 364,
+      "clip_count": 364
+    },
+    {
+      "id": "ambrosia",
+      "name": "앰브로시아",
+      "total": 142,
+      "clip_count": 142
+    },
+    {
+      "id": "amy",
+      "name": "에이미",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "angelica",
+      "name": "안젤리카",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "anne",
+      "name": "앤",
+      "total": 121,
+      "clip_count": 121
+    },
+    {
+      "id": "arcels",
+      "name": "아셀스",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "archphase",
+      "name": "아크페이즈",
+      "total": 107,
+      "clip_count": 108
+    },
+    {
+      "id": "ati",
+      "name": "아티",
+      "total": 109,
+      "clip_count": 109
+    },
+    {
+      "id": "aurora",
+      "name": "오로라",
+      "total": 221,
+      "clip_count": 221
+    },
+    {
+      "id": "balencia",
+      "name": "발렌시아",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "beatrice",
+      "name": "베아트릭스",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "belebeta",
+      "name": "베르베타",
+      "total": 111,
+      "clip_count": 112
+    },
+    {
+      "id": "belita",
+      "name": "벨리타",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "belle",
+      "name": "벨",
+      "total": 110,
+      "clip_count": 110
+    },
+    {
+      "id": "brynhild",
+      "name": "브륀힐데",
+      "total": 104,
+      "clip_count": 104
+    },
+    {
+      "id": "cathy",
+      "name": "캐시",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "chloe",
+      "name": "클로에",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "claudia",
+      "name": "클로디아",
+      "total": 111,
+      "clip_count": 111
+    },
+    {
+      "id": "comet",
+      "name": "코멧",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "crimson",
+      "name": "크림슨",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "damian",
+      "name": "다미안",
+      "total": 110,
+      "clip_count": 110
+    },
+    {
+      "id": "daria",
+      "name": "다리아",
+      "total": 109,
+      "clip_count": 109
+    },
+    {
+      "id": "diana",
+      "name": "다이아나",
+      "total": 105,
+      "clip_count": 105
+    },
+    {
+      "id": "echidna",
+      "name": "에키드나",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "ehrii",
+      "name": "에리",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "eiko",
+      "name": "에이코",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "elina",
+      "name": "엘리나",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "elodie",
+      "name": "엘로디",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "eradica",
+      "name": "에라디카",
+      "total": 114,
+      "clip_count": 115
+    },
+    {
+      "id": "erica",
+      "name": "에리카",
+      "total": 112,
+      "clip_count": 112
+    },
+    {
+      "id": "ermeil",
+      "name": "에르메일",
+      "total": 43,
+      "clip_count": 43
+    },
+    {
+      "id": "fei",
+      "name": "페이",
+      "total": 118,
+      "clip_count": 118
+    },
+    {
+      "id": "ferrel",
+      "name": "페렐",
+      "total": 114,
+      "clip_count": 114
+    },
+    {
+      "id": "frederica",
+      "name": "프레데리카",
+      "total": 117,
+      "clip_count": 119
+    },
+    {
+      "id": "freyja",
+      "name": "프레이야",
+      "total": 169,
+      "clip_count": 169
+    },
+    {
+      "id": "fuchsia",
+      "name": "퓨시아",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "gray",
+      "name": "그레이",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "hallona",
+      "name": "할로나",
+      "total": 118,
+      "clip_count": 118
+    },
+    {
+      "id": "hanel",
+      "name": "하넬",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "hellen",
+      "name": "헬렌",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "id",
+      "name": "이드",
+      "total": 118,
+      "clip_count": 118
+    },
+    {
+      "id": "iliana",
+      "name": "일리아나",
+      "total": 90,
+      "clip_count": 90
+    },
+    {
+      "id": "ino",
+      "name": "이노",
+      "total": 109,
+      "clip_count": 111
+    },
+    {
+      "id": "iolet",
+      "name": "이올렛",
+      "total": 43,
+      "clip_count": 43
+    },
+    {
+      "id": "iras",
+      "name": "아이라스",
+      "total": 116,
+      "clip_count": 116
+    },
+    {
+      "id": "isabella",
+      "name": "이사벨라",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "itus",
+      "name": "아이투스",
+      "total": 113,
+      "clip_count": 113
+    },
+    {
+      "id": "jacky",
+      "name": "재키",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "kaitoaile",
+      "name": "괴도 엘",
+      "total": 113,
+      "clip_count": 113
+    },
+    {
+      "id": "kanata",
+      "name": "카나타",
+      "total": 133,
+      "clip_count": 140
+    },
+    {
+      "id": "karen",
+      "name": "카렌",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "klairs",
+      "name": "클레아스",
+      "total": 107,
+      "clip_count": 108
+    },
+    {
+      "id": "leia",
+      "name": "레이아",
+      "total": 121,
+      "clip_count": 121
+    },
+    {
+      "id": "leila",
+      "name": "라일라",
+      "total": 109,
+      "clip_count": 109
+    },
+    {
+      "id": "lilian",
+      "name": "릴리안",
+      "total": 111,
+      "clip_count": 111
+    },
+    {
+      "id": "lue",
+      "name": "루",
+      "total": 43,
+      "clip_count": 43
+    },
+    {
+      "id": "luyten",
+      "name": "루이텐",
+      "total": 85,
+      "clip_count": 85
+    },
+    {
+      "id": "lydia",
+      "name": "리디아",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "lynette",
+      "name": "리네트",
+      "total": 110,
+      "clip_count": 110
+    },
+    {
+      "id": "machina",
+      "name": "마키나",
+      "total": 108,
+      "clip_count": 108
+    },
+    {
+      "id": "mana",
+      "name": "마나",
+      "total": 155,
+      "clip_count": 156
+    },
+    {
+      "id": "marillight",
+      "name": "마릴라이트",
+      "total": 255,
+      "clip_count": 254
+    },
+    {
+      "id": "mea",
+      "name": "메아",
+      "total": 112,
+      "clip_count": 112
+    },
+    {
+      "id": "melissa",
+      "name": "메리샤",
+      "total": 111,
+      "clip_count": 111
+    },
+    {
+      "id": "mika",
+      "name": "미카",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "nadine",
+      "name": "나딘",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "navis",
+      "name": "나비스",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "ollie",
+      "name": "올리",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "patricia",
+      "name": "패트리샤",
+      "total": 109,
+      "clip_count": 109
+    },
+    {
+      "id": "pharah",
+      "name": "파라",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "pollux",
+      "name": "폴럭스",
+      "total": 86,
+      "clip_count": 86
+    },
+    {
+      "id": "rachel",
+      "name": "레이첼",
+      "total": 114,
+      "clip_count": 114
+    },
+    {
+      "id": "rayhou",
+      "name": "레이호우",
+      "total": 165,
+      "clip_count": 165
+    },
+    {
+      "id": "reen",
+      "name": "린",
+      "total": 43,
+      "clip_count": 43
+    },
+    {
+      "id": "renas",
+      "name": "레나스",
+      "total": 120,
+      "clip_count": 120
+    },
+    {
+      "id": "rien",
+      "name": "리엔",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "rindel",
+      "name": "린델",
+      "total": 119,
+      "clip_count": 119
+    },
+    {
+      "id": "serapulsar",
+      "name": "세라펄사",
+      "total": 151,
+      "clip_count": 152
+    },
+    {
+      "id": "shale",
+      "name": "샤레",
+      "total": 123,
+      "clip_count": 123
+    },
+    {
+      "id": "shery",
+      "name": "쉐리",
+      "total": 107,
+      "clip_count": 108
+    },
+    {
+      "id": "sia",
+      "name": "시아",
+      "total": 121,
+      "clip_count": 121
+    },
+    {
+      "id": "siege",
+      "name": "시즈",
+      "total": 136,
+      "clip_count": 136
+    },
+    {
+      "id": "snopril",
+      "name": "스노프릴",
+      "total": 114,
+      "clip_count": 114
+    },
+    {
+      "id": "soleny",
+      "name": "솔레니",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "taina",
+      "name": "타이나",
+      "total": 109,
+      "clip_count": 109
+    },
+    {
+      "id": "taliafe",
+      "name": "탈리아페",
+      "total": 107,
+      "clip_count": 107
+    },
+    {
+      "id": "throaura",
+      "name": "트로오라",
+      "total": 0,
+      "clip_count": 0
+    },
+    {
+      "id": "urei",
+      "name": "유이",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "yume",
+      "name": "유메",
+      "total": 106,
+      "clip_count": 106
+    },
+    {
+      "id": "yuna",
+      "name": "유나",
+      "total": 119,
+      "clip_count": 119
+    },
+    {
+      "id": "yurizia",
+      "name": "유리지아",
+      "total": 128,
+      "clip_count": 129
+    }
+  ]
+}

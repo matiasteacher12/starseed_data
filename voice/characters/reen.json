@@ -1,0 +1,730 @@
+{
+  "character": "reen",
+  "name": "린",
+  "cues": [
+    {
+      "id": "8d04406b5a5965d16d2633f3",
+      "label": "기본 공격 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@attack1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/6e246d7a4e013322365539fdd5ec0b38d749a5e71166e94fc093de9ebd809d19.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 340,
+      "audio_duration_ms": [
+        340
+      ]
+    },
+    {
+      "id": "b8e7dfecfc76c33251e913be",
+      "label": "기타 보이스 · battlestart",
+      "label_source": "cue",
+      "cue": "JP_vo_reen@battlestart",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/6dd6deb3a4d6485625f1aba3a55ce565acba4f74a8ccd752af1f756d0f5ee6b1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1300,
+      "audio_duration_ms": [
+        1300
+      ]
+    },
+    {
+      "id": "aeb0644be7640f7677436aa2",
+      "label": "패배 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@defeat1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/69c12d4eeef0677c29cd35b3084e268231617ac7a39e7893385a1448b574f87b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1733,
+      "audio_duration_ms": [
+        1734
+      ]
+    },
+    {
+      "id": "c7dba8258f989d9adfd7ecb3",
+      "label": "피격 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@hit1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/a363276be68c4db4831dacf3538b88ee851e44e64835435cedc9b0affe38646f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 751,
+      "audio_duration_ms": [
+        751
+      ]
+    },
+    {
+      "id": "c4f4819503037c975377d593",
+      "label": "퇴각 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@retire1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7ab8f46ab62493bc63db0983f81b85f8f7e4d1221f0d716287d00eb5172e8897.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1255,
+      "audio_duration_ms": [
+        1256
+      ]
+    },
+    {
+      "id": "44f96f8dae694bbd89d7e18d",
+      "label": "기타 보이스 · setting",
+      "label_source": "cue",
+      "cue": "JP_vo_reen@setting",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/6825fa79f79c90d1efeda0fe0c9412665ff73eff904abfd49d3a1fe209a2d792.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1288,
+      "audio_duration_ms": [
+        1288
+      ]
+    },
+    {
+      "id": "1b758c1055c55c8e6665dc82",
+      "label": "스킬 1 · 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@skill1-1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/dadc39f8e87eaad2f81be43d6028d45ec36dfef7e4265f6792c7e5b9b77f6edd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 878,
+      "audio_duration_ms": [
+        878
+      ]
+    },
+    {
+      "id": "83d4f16ce9d72ac3d9094500",
+      "label": "전투 승리 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@victory1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/9343aa81f2badca51841b6fe9a5e3f3c365adeeebd583c1e9819f0b9d1cc3908.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1225,
+      "audio_duration_ms": [
+        1226
+      ]
+    },
+    {
+      "id": "88351d8e06fea2876ca525d0",
+      "label": "기본 공격 1",
+      "label_source": "purpose",
+      "cue": "vo_reen@attack1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/42b1d9fec9f187e057fabc68a8e96d477005ad3146456be1cb7d9fb00ceb280d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 734,
+      "audio_duration_ms": [
+        734
+      ]
+    },
+    {
+      "id": "3d9f5ef51dd32fb69546ffc7",
+      "label": "기타 보이스 · battlestart",
+      "label_source": "cue",
+      "cue": "vo_reen@battlestart",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/e5d4b5b41cba47e3d8c53bdc48435d1d0a0fa6df2520ca9fd7cbeb80f101bf78.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1468,
+      "audio_duration_ms": [
+        1468
+      ]
+    },
+    {
+      "id": "8c563b7066833395539dd232",
+      "label": "패배 1",
+      "label_source": "purpose",
+      "cue": "vo_reen@defeat1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/265d2489b76a3bb22591deb1f69a76d928b9304091147b35ef4907a84a32a301.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1534,
+      "audio_duration_ms": [
+        1535
+      ]
+    },
+    {
+      "id": "69de5d2dab15659ed65b95df",
+      "label": "피격 1",
+      "label_source": "purpose",
+      "cue": "vo_reen@hit1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/a677e87144fba7eb1ef8b2c1a0c274396698a130d85afab4a53229085f8da7be.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "5ede6e7a2ff524e5364c3be9",
+      "label": "퇴각 1",
+      "label_source": "purpose",
+      "cue": "vo_reen@retire1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/54bc7e006e322ec90149a69335c2162787a9ed7da3c7f69ab0f5a5728897b4d2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "f013a324ed7723dd549b65c8",
+      "label": "기타 보이스 · setting",
+      "label_source": "cue",
+      "cue": "vo_reen@setting",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/23c91c914e78996bbd0fdbd72bc855d0bd3b6dc67aba1dfd89871339a0b876d1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1301,
+      "audio_duration_ms": [
+        1301
+      ]
+    },
+    {
+      "id": "bc6a3aaa1c08ccb41ebca154",
+      "label": "스킬 1 · 1",
+      "label_source": "purpose",
+      "cue": "vo_reen@skill1-1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/e91a96a86aff0af2fb988c55f4d58a97f1d9aed5456ba11123ff641484f524ce.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1167,
+      "audio_duration_ms": [
+        1168
+      ]
+    },
+    {
+      "id": "f41a7bdb96e720f0bd274a9d",
+      "label": "전투 승리 1",
+      "label_source": "purpose",
+      "cue": "vo_reen@victory1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/e3ed847bed31e455c6c42466f3a8bf48ed2c948343d2c939c0b5927a2d77d612.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1034,
+      "audio_duration_ms": [
+        1034
+      ]
+    },
+    {
+      "id": "76dbfcc4502f92828f8611bb",
+      "label": "획득",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@gacha",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/a407256719bdf6e753da1d7f9d4a2057175c171e734b00f0b250af7e4f23f0b6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1500,
+      "audio_duration_ms": [
+        1500
+      ]
+    },
+    {
+      "id": "1038811f072ff13e680b22f7",
+      "label": "캐릭터 획득",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@gachainfo",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/5398fb048ef53102256447dec2ea692bf25edb2101fd9938b89d814b8e1c3d3f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2026,
+      "audio_duration_ms": [
+        2026
+      ]
+    },
+    {
+      "id": "a05e4da9733541b2662526f6",
+      "label": "레벨 상승",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@levelup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/c2f2a8fb50ffd83c0d8ca002115e499d247df8cd096299bf8ece2dee10a5c068.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1800,
+      "audio_duration_ms": [
+        1800
+      ]
+    },
+    {
+      "id": "3caa05a57fad2a371d4d2237",
+      "label": "획득",
+      "label_source": "purpose",
+      "cue": "vo_reen@gacha",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/763d2cd691c0f54adda0f9bc04dd8b52eea43f9d05d6811732eb2410e2062de1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1601,
+      "audio_duration_ms": [
+        1602
+      ]
+    },
+    {
+      "id": "1d5e5c456523dbc54b8f192c",
+      "label": "캐릭터 획득",
+      "label_source": "purpose",
+      "cue": "vo_reen@gachainfo",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/4514dcc1723b5a24ac3cdcc36229909732b85daaf59efeb69401c9dc948dc9ee.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2235,
+      "audio_duration_ms": [
+        2236
+      ]
+    },
+    {
+      "id": "2cab41d9a0cfec3f318148b9",
+      "label": "레벨 상승",
+      "label_source": "purpose",
+      "cue": "vo_reen@levelup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/e3bb8f2a14c83856a7013a04a7d25ba106e0d31ec8e8bf97b3f4a23d3ca88cb0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "8531ce277a7b3b77a23bad95",
+      "label": "화남 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@anger01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/dc2abe4d1a47e1374a71372fc35f64b203617fc7d31dd0270f6aced5e2895aa9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1441,
+      "audio_duration_ms": [
+        1441
+      ]
+    },
+    {
+      "id": "cee1237eb36503ae96e2d2e0",
+      "label": "화남 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@anger02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c0523d947e9670c644062d81c10d36bb2d9b0ad7eb50e92d936eb23c2db094a0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1037,
+      "audio_duration_ms": [
+        1038
+      ]
+    },
+    {
+      "id": "c37e90f6ff64655d112aba8c",
+      "label": "기쁨 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@happy01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0c750cc8d1add52793eee0921fa7e934b6b709aacf905f95bcc0534653c61b8d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1392,
+      "audio_duration_ms": [
+        1393
+      ]
+    },
+    {
+      "id": "92c2df3b2b1812047816beb6",
+      "label": "기쁨 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@happy02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9c5448c4f07a8bf98cdb9624e7ac330003cd89cf5d98138fa23cdbd8944291cd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1204,
+      "audio_duration_ms": [
+        1204
+      ]
+    },
+    {
+      "id": "bb379739a5389079cbb07261",
+      "label": "웃음 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@laugh01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/3a480727fa1a573ef618971ce9f82223e660b18fe7c5aab3e06bf3c1658ef484.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1362,
+      "audio_duration_ms": [
+        1363
+      ]
+    },
+    {
+      "id": "f2ca1fb6a67cdf3978f515a3",
+      "label": "웃음 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@laugh02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/87a979e0958ecc83807897c97784edb66852c03ff21fc21f8a49953e24f34bc3.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 825,
+      "audio_duration_ms": [
+        825
+      ]
+    },
+    {
+      "id": "d33cbbe0f2861f5b272f6f0f",
+      "label": "부정 반응 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@negative01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/31442c608b797e1b1a1bb7492083d590ffffe7f506d669d0f3130c9ac184c981.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1508,
+      "audio_duration_ms": [
+        1509
+      ]
+    },
+    {
+      "id": "465d3f74e52f43ab7fe96a0f",
+      "label": "부정 반응 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@negative02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0c96be941e18e830995295a0c52250cbf674d1cffbd2b432e9f19ec781ea03b5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 605,
+      "audio_duration_ms": [
+        605
+      ]
+    },
+    {
+      "id": "87fb1da7c79d597f940edb86",
+      "label": "긍정 반응 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@positive01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c1b7829ca3c4e01b0a3f3a44cb6163aed5f10848769d5150a0c3a4da523df032.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1467,
+      "audio_duration_ms": [
+        1467
+      ]
+    },
+    {
+      "id": "e3403db8dd36f988216c71dc",
+      "label": "긍정 반응 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@positive02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/66dfeb8c98f60249971203499aa99a958b474d75025b9882d2b781e4ef8ddf07.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 927,
+      "audio_duration_ms": [
+        928
+      ]
+    },
+    {
+      "id": "b6143cf5771fffafdf818941",
+      "label": "질문 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@question01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5f5fb542b47855cbd3e83f9e873949c44cebef592699ced4c14a6b3bf5f5ad99.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 689,
+      "audio_duration_ms": [
+        689
+      ]
+    },
+    {
+      "id": "18ff30980ac2f9f2f8710c95",
+      "label": "질문 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@question02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/efa1fdd47527e915a9439c184601f583b5d40603f18f233220db97d2db20b03c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1750,
+      "audio_duration_ms": [
+        1750
+      ]
+    },
+    {
+      "id": "9a294508ebabad213d7d4864",
+      "label": "슬픔 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@sad01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ad07d03c73f73a43056b7ba95a9cdb916689e3804cf87ccb2fc074e7b0260c4c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1309,
+      "audio_duration_ms": [
+        1310
+      ]
+    },
+    {
+      "id": "40b8f981cdfa75ca7a115cf3",
+      "label": "슬픔 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@sad02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/03661ac754d6216593c739a79eb7037e079069a626e90a7b57873c5aea47d358.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1467,
+      "audio_duration_ms": [
+        1468
+      ]
+    },
+    {
+      "id": "9c15a38bfaad1ea8da969697",
+      "label": "부끄러움 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@shame01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5f7a952d655d935c4469e57312783a446d431f5e95fa70a672e47de97a861464.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2210,
+      "audio_duration_ms": [
+        2210
+      ]
+    },
+    {
+      "id": "4bf9257efbb541d7429763d7",
+      "label": "부끄러움 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@shame02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/48f59815a495152ad2b95ea09db301cdbb98c06e5f6af8ff096a1421831d8573.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2156,
+      "audio_duration_ms": [
+        2156
+      ]
+    },
+    {
+      "id": "66d63b708a8dbd4cab0fa0e7",
+      "label": "놀람 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@surprise01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/30471d621039811be52327d22f42bf33f757548ba1fdcf25320416e6a4d02356.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1486,
+      "audio_duration_ms": [
+        1487
+      ]
+    },
+    {
+      "id": "efef01dd56e909308e93cc70",
+      "label": "놀람 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@surprise02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/4ef98983eb6fedfef26620b63f68db2f164a4d6dea27519651c1e8ec41a79ca1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1662,
+      "audio_duration_ms": [
+        1662
+      ]
+    },
+    {
+      "id": "8e9acd48252a5a17983b0144",
+      "label": "감사 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@thanks01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/b58cebb782e26223303d2c0d18eea55a085cf62a48210caf77d0be5abf8a7cdb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1350,
+      "audio_duration_ms": [
+        1350
+      ]
+    },
+    {
+      "id": "485f2b36e6cb743ebdea51e0",
+      "label": "생각 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@think01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/8ae150dae79f8b540fecd05aae800b62a8bfe30df98a12d937a13621d23b95e9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1551,
+      "audio_duration_ms": [
+        1552
+      ]
+    },
+    {
+      "id": "fb222b17885edceff01c7734",
+      "label": "생각 02",
+      "label_source": "purpose",
+      "cue": "JP_vo_reen@think02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/544e63ee3382a754ec18754be3b376aea340cf900d0f7b1fa43996c12ede8b6a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3043,
+      "audio_duration_ms": [
+        3044
+      ]
+    }
+  ],
+  "excluded_event_only": 0,
+  "total": 43,
+  "playable": 43,
+  "clip_count": 43,
+  "categories": [
+    {
+      "id": "idle",
+      "label": "대기",
+      "count": 0
+    },
+    {
+      "id": "touch",
+      "label": "터치",
+      "count": 0
+    },
+    {
+      "id": "battle",
+      "label": "전투",
+      "count": 16
+    },
+    {
+      "id": "growth",
+      "label": "획득·성장",
+      "count": 6
+    },
+    {
+      "id": "emotion",
+      "label": "감정·반응",
+      "count": 21
+    },
+    {
+      "id": "other",
+      "label": "기타",
+      "count": 0
+    }
+  ]
+}

@@ -1,0 +1,1930 @@
+{
+  "character": "hallona",
+  "name": "할로나",
+  "cues": [
+    {
+      "id": "5ac452bd0c11809b7395e83f",
+      "label": "생일 인사",
+      "label_source": "purpose",
+      "cue": "vo_hallona@birth",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/867db370ecd2e9cbdb890c725491d2b4c4a2ae7941c69e596239ef9da3d34224.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5472,
+      "audio_duration_ms": [
+        5472
+      ]
+    },
+    {
+      "id": "f13b98aadff1fd2b30f86e37",
+      "label": "호출",
+      "label_source": "table",
+      "cue": "vo_hallona@call01",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/2fc4bdc04524f304ddba1475e60a5cec8d60531f5dd584304d6347db7558844a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1067,
+      "audio_duration_ms": [
+        1068
+      ]
+    },
+    {
+      "id": "a5b68ef60b5fb77082faa128",
+      "label": "플레이어 호출",
+      "label_source": "table",
+      "cue": "vo_hallona@call02",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/fbbfb86bca38e32fc4dc3b9055bbf09de13a686c8b7f04da3e700f984c2f9721.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 967,
+      "audio_duration_ms": [
+        968
+      ]
+    },
+    {
+      "id": "aecd47ab4e785e010bbb8e77",
+      "label": "호출 03",
+      "label_source": "purpose",
+      "cue": "vo_hallona@call03",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/320fe1fd0f077e582d8de272e543a8e176923020b28cb950000720828fb7252e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1266,
+      "audio_duration_ms": [
+        1267
+      ]
+    },
+    {
+      "id": "870531b43920e9003272e32a",
+      "label": "일일 인사",
+      "label_source": "purpose",
+      "cue": "vo_hallona@daily",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/98278eab50d1490b4b2385957bc6e2fc020376cbee2e5e23372031afcd8fa221.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4637,
+      "audio_duration_ms": [
+        4638
+      ]
+    },
+    {
+      "id": "d9450d03575e49720d655211",
+      "label": "메인 로비 대기",
+      "label_source": "table",
+      "cue": "vo_hallona@leaving1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/2fe3c43f15ccb350120711af58ef3d93b1c717f3706bad649d4a945e459efc00.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5705,
+      "audio_duration_ms": [
+        5706
+      ]
+    },
+    {
+      "id": "17359c81c65403d4d5d646a2",
+      "label": "메인 로비 인사(메일)",
+      "label_source": "table",
+      "cue": "vo_hallona@mail",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7dad57fd5ea22962bcdd8d7e73f1990dd3dcf1cfc31e6b466ce47459774c3277.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3236,
+      "audio_duration_ms": [
+        3237
+      ]
+    },
+    {
+      "id": "d1b2d8bba32a4edf9b5a25fc",
+      "label": "소식",
+      "label_source": "purpose",
+      "cue": "vo_hallona@news",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4e4965400f54e42bf4bd58a943552ea8c11c4edf299d349fa9f6030663a75cdd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6306,
+      "audio_duration_ms": [
+        6306
+      ]
+    },
+    {
+      "id": "c542e2806ee4086ddcb2fe54",
+      "label": "메인 로비 인사(아침)",
+      "label_source": "table",
+      "cue": "vo_hallona@time1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/f019e2686415821cb392a13bef545e9b473e572629d803a5afbf0f94d5a8947c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3303,
+      "audio_duration_ms": [
+        3303
+      ]
+    },
+    {
+      "id": "5f1fe0169a6932e448149bdb",
+      "label": "메인 로비 인사(낮)",
+      "label_source": "table",
+      "cue": "vo_hallona@time2",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7570c0ec7bd3fa3ad7c841f2839475b2a9fda53eaa6036e8c244f1de55caca37.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7974,
+      "audio_duration_ms": [
+        7975
+      ]
+    },
+    {
+      "id": "47411219d7523874446547c4",
+      "label": "메인 로비 인사(저녁)",
+      "label_source": "table",
+      "cue": "vo_hallona@time3",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/8257db8089f96051951d2c7fc40a0ced14ba50eb18d3f8f21fd7e4e41cf2f384.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6639,
+      "audio_duration_ms": [
+        6640
+      ]
+    },
+    {
+      "id": "a7ed8fd9c9d9a329415ea2f0",
+      "label": "메인 로비 인사(밤)",
+      "label_source": "table",
+      "cue": "vo_hallona@time4",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/65e9d4ea18923e49f06a8efcb5b79eec6223b86c516c22238c9b551c53685434.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2666,
+      "audio_duration_ms": [
+        2666
+      ]
+    },
+    {
+      "id": "6fe21556b0a54565c4cc5b62",
+      "label": "메인 로비 터치 일반4",
+      "label_source": "table",
+      "cue": "vo_hallona@leaving2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/ce542079579f6b1820bb9735f2ff1e2f9b1ab9053421f974b88b258ac460149e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4270,
+      "audio_duration_ms": [
+        4271
+      ]
+    },
+    {
+      "id": "80930efe7e7f272353ba6ef0",
+      "label": "메인 로비 터치 일반1",
+      "label_source": "table",
+      "cue": "vo_hallona@lobby1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/9d32cb6019b4bd558d17ad877c5a0a539192ea7aab8903b68622716e64f87851.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7407,
+      "audio_duration_ms": [
+        7407
+      ]
+    },
+    {
+      "id": "0c451c7fff41f8aa85e91002",
+      "label": "메인 로비 터치 일반2",
+      "label_source": "table",
+      "cue": "vo_hallona@lobby2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/b93da4085f37ed33337a1cb2ad193201b0a8fde075c0aa029cea87f5ee97e801.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7907,
+      "audio_duration_ms": [
+        7908
+      ]
+    },
+    {
+      "id": "cf979ab68217b8e6685a0d56",
+      "label": "메인 로비 터치 일반3",
+      "label_source": "table",
+      "cue": "vo_hallona@lobby3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/37d92339d8a52684fd7d92ad8255e30ae1811579d60885b08ebd8ff3a6dbbba6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 9733,
+      "audio_duration_ms": [
+        9733
+      ]
+    },
+    {
+      "id": "e251615176666f34fdfca3aa",
+      "label": "로비 터치 4",
+      "label_source": "purpose",
+      "cue": "vo_hallona@lobby4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/0403a227a951b2c4e4069e6bb0111da18079cceb235c3eb211cf712fbcfc6e1d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5372,
+      "audio_duration_ms": [
+        5372
+      ]
+    },
+    {
+      "id": "98b350adc52ab09fc80ee598",
+      "label": "메인 로비 터치 특수1",
+      "label_source": "table",
+      "cue": "vo_hallona@lobbyS1-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/750e63329cc1379ec9d178c8d864911b496f4a560c3ffae7993e9af312bac591.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8641,
+      "audio_duration_ms": [
+        8642
+      ]
+    },
+    {
+      "id": "26ae677467320e015d670836",
+      "label": "메인 로비 터치 특수2",
+      "label_source": "table",
+      "cue": "vo_hallona@lobbyS1-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/721234473559d0939e3b7f376383b7b12df2f4eb1590bf8233aaf00f1da0f6dc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 12445,
+      "audio_duration_ms": [
+        12446
+      ]
+    },
+    {
+      "id": "a40aeba2aa10160c090f4a60",
+      "label": "메인 로비 터치 특수3",
+      "label_source": "table",
+      "cue": "vo_hallona@lobbyS2-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/feb2cc3f94a9d8369bf6e47dc0bd54770020a27b3895f95048ccd0a09abce8e4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 12345,
+      "audio_duration_ms": [
+        12346
+      ]
+    },
+    {
+      "id": "5587ede2eb25805cc1a2a601",
+      "label": "메인 로비 터치 특수4",
+      "label_source": "table",
+      "cue": "vo_hallona@lobbyS2-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/467adae954ebbd3c638eeee9265b0ddf4110ceb2952c28c7b16efac960240359.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 11444,
+      "audio_duration_ms": [
+        11445
+      ]
+    },
+    {
+      "id": "21479602c79b2395b5445fd5",
+      "label": "로비 터치 특수 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@lobbyS3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/69407eb0e42ee04a77bb19bb9fe824d1d6e2bdfc6fdbd85842dd7e3fd888925f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 20487,
+      "audio_duration_ms": [
+        20487
+      ]
+    },
+    {
+      "id": "140f4e1f180f84785453c105",
+      "label": "로비 터치 특수 4",
+      "label_source": "purpose",
+      "cue": "vo_hallona@lobbyS4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/cfd6e013135dd48e6d9035df8175a16ca9665bc61a2d127ec56d5d46d90af569.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 10443,
+      "audio_duration_ms": [
+        10444
+      ]
+    },
+    {
+      "id": "4bd190ff68847202de03aef2",
+      "label": "상점 터치 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shoptouch1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/1816dccfc5624871f98749092063593968e1ddf31927223a0b124cf8df871570.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3766,
+      "audio_duration_ms": [
+        3767
+      ]
+    },
+    {
+      "id": "bce7e2a59db19737e97555bc",
+      "label": "기본 공격 1",
+      "label_source": "table",
+      "cue": "vo_hallona@attack1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/a02fbe78f8166cfc172e117ab64c3293cd65e54b085cd329133d9a0616976b34.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1368,
+      "audio_duration_ms": [
+        1368
+      ]
+    },
+    {
+      "id": "9fffb38fc5dd2ed4672d519b",
+      "label": "기본 공격 2",
+      "label_source": "table",
+      "cue": "vo_hallona@attack2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/14c92ea7983ae8a1a83f60b42694b93d9b0a76ca3ead9948e8cfaadd38a52d1f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2135,
+      "audio_duration_ms": [
+        2135
+      ]
+    },
+    {
+      "id": "cffd77592413ece1e1b17245",
+      "label": "스킬 2 사용 1",
+      "label_source": "table",
+      "cue": "vo_hallona@attack3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/fb01bfab5a2fca99aa53c9557c098cb0e61961373bd9ee745aa419b92e07c19a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2268,
+      "audio_duration_ms": [
+        2269
+      ]
+    },
+    {
+      "id": "ef4aa4d2595ae60457a1bbba",
+      "label": "기본 공격 4",
+      "label_source": "purpose",
+      "cue": "vo_hallona@attack4",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/e8462135edcae57aa6d83038c398b5bf67fd048f5a516a9356f8a6d321deeb4d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 733,
+      "audio_duration_ms": [
+        733
+      ]
+    },
+    {
+      "id": "94a7a77ef09677a3adb58d82",
+      "label": "기본 공격 3",
+      "label_source": "table",
+      "cue": "vo_hallona@attack5",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4c1d2ad7231605933802b31cca40ca7b0964a4dcd21e6aadf9e548146a455996.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1000,
+      "audio_duration_ms": [
+        1000
+      ]
+    },
+    {
+      "id": "a462c73e96a5b901b89420ee",
+      "label": "기타 보이스 · battlestart",
+      "label_source": "cue",
+      "cue": "vo_hallona@battlestart",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/e2ea82185018fe59134934d5739482bfa1f63a096aa3bf0e992c80e762989d94.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1768,
+      "audio_duration_ms": [
+        1768
+      ]
+    },
+    {
+      "id": "fe38ab93149dfae1e62bf4e1",
+      "label": "위기 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@danger1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/0d3bf474b05ebcccbc6d9cd9098d17e2c8a190f48875621d5ad1671302583088.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2883,
+      "audio_duration_ms": [
+        2883
+      ]
+    },
+    {
+      "id": "7421c498281bcfc024dcc96e",
+      "label": "위기 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@danger2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/5b182cad024dda1245c4eaddf197d4389ae69a737cce5c3af024cee3f550e6e6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3916,
+      "audio_duration_ms": [
+        3917
+      ]
+    },
+    {
+      "id": "641e9a315c344a8d54ff05f8",
+      "label": "패배 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@defeat1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/b4e6ea0f307f7d330da0100bccd4aed4c4ac343c3c55bdb1cc9a739e87cb66b8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3069,
+      "audio_duration_ms": [
+        3070
+      ]
+    },
+    {
+      "id": "88063890cecb6f9a0fc14485",
+      "label": "피격 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@hit1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/44aaf33d32d7e79488547a5d3e5a2c2a6e7e988bc90625a62e1184239ba12a12.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2435,
+      "audio_duration_ms": [
+        2436
+      ]
+    },
+    {
+      "id": "491185f60d05d141c362cfac",
+      "label": "피격 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@hit2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/f75d74f236860c229adf90470782f197767e3c68511b63a4e7e4c192cf6e67e0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 800,
+      "audio_duration_ms": [
+        801
+      ]
+    },
+    {
+      "id": "4afa3d0325ddd428e817e111",
+      "label": "피격 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@hit3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/24f901205ff9edfb116d2cea76f1ec033cd2b93b46da6158d14661e69f6a4a1d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1083,
+      "audio_duration_ms": [
+        1083
+      ]
+    },
+    {
+      "id": "7d97d5bae99882fe99e48ef4",
+      "label": "피격 4",
+      "label_source": "purpose",
+      "cue": "vo_hallona@hit4",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/a5b00a86f6f479a421cdf4ceb51ad38217987fc6d4f13f9b76e4bcbb1f5fbbb7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1133,
+      "audio_duration_ms": [
+        1133
+      ]
+    },
+    {
+      "id": "30f722ea22e8699998be1f94",
+      "label": "웃음 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@laugh01",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3b3b5bc435c004f00272d78bfc1e3cec5fe55bd54b59cffd2e03b5e53a0304e0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1201,
+      "audio_duration_ms": [
+        1201
+      ]
+    },
+    {
+      "id": "6ebed89320a986e1ce5006e3",
+      "label": "웃음 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@laugh01",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3b3b5bc435c004f00272d78bfc1e3cec5fe55bd54b59cffd2e03b5e53a0304e0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1201,
+      "audio_duration_ms": [
+        1201
+      ]
+    },
+    {
+      "id": "901742322d64822cd4e90701",
+      "label": "긍정 반응 03",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive03",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/036274091fc7fd2eda5fe9aa44db61630ab9a9e24e3cbfa9304d9780acc459f5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 700,
+      "audio_duration_ms": [
+        701
+      ]
+    },
+    {
+      "id": "e4fe8aacabd6528110bf0091",
+      "label": "퇴각 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@retire1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/5ad2a6c12f28a16c59f0bdcb894b2788c9299a6ba324e14765912f7876f3723d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3670,
+      "audio_duration_ms": [
+        3670
+      ]
+    },
+    {
+      "id": "7b42caaaaf22d64094638579",
+      "label": "퇴각 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@retire2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/9844fbe115f3a15cfeb7bf23d06afcc6eb1ea89051d91778603a3981efce2167.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3233,
+      "audio_duration_ms": [
+        3233
+      ]
+    },
+    {
+      "id": "6953d4b197ebc4bb15249882",
+      "label": "편성 배치",
+      "label_source": "table",
+      "cue": "vo_hallona@setting",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/ec66bc26a8ba0a9a58c5e29bf767bebccc799e1614110142b06f2bd9ed228a18.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2736,
+      "audio_duration_ms": [
+        2736
+      ]
+    },
+    {
+      "id": "40d29f5791d52f9b7236aab3",
+      "label": "스킬 1 사용 2",
+      "label_source": "table",
+      "cue": "vo_hallona@skill1-2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/037aadd16cac7aa4016a7c91cb968d687c6959b9ab171bbbf2b860c5084f76d9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1434,
+      "audio_duration_ms": [
+        1435
+      ]
+    },
+    {
+      "id": "eb86d9246bd22d425555c648",
+      "label": "스킬 2 · 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@skill2-1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/878aac4eb8ff424a1fc941221e7695c33306b6c8dfeac93eb641945714dad485.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2202,
+      "audio_duration_ms": [
+        2202
+      ]
+    },
+    {
+      "id": "5aa23d11a2aa6e169eaeed66",
+      "label": "스킬 2 사용 2",
+      "label_source": "table",
+      "cue": "vo_hallona@skill2-2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3c62e6c949488adad2238931cc6ea4136114cab32f56604ad5af47768901b77b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "e23b4860c75489cf96e010c8",
+      "label": "궁극기 준비",
+      "label_source": "purpose",
+      "cue": "vo_hallona@ult-Ready",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/208bad4982f71fcd1546e0fbb6e58ae35a32158a51c4538498ea0d096eb791dc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2383,
+      "audio_duration_ms": [
+        2383
+      ]
+    },
+    {
+      "id": "04feeec79e4d29a8313461d3",
+      "label": "궁극기 짧게",
+      "label_source": "purpose",
+      "cue": "vo_hallona@ult-short",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/0fbb3ef9cdde0ee112034e33f0df9a5e9e61281545572099fa6e3a4baddd7c08.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2933,
+      "audio_duration_ms": [
+        2933
+      ]
+    },
+    {
+      "id": "a6bcbe48c8a0fc4a9127fa22",
+      "label": "궁극기 컷신",
+      "label_source": "table",
+      "cue": "vo_hallona@ult-timeline",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/c01a54602384462605950d87c1fc69b22b47d59d9cd827d1c6be68ac72a83536.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2740,
+      "audio_duration_ms": [
+        2740
+      ]
+    },
+    {
+      "id": "93103499b9920d6a0d2e3bdf",
+      "label": "궁극기 사용 1",
+      "label_source": "table",
+      "cue": "vo_hallona@ult1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/223ea716e2c72b2514177d0d8a4b06a763283754b76527187b776787fec5c3e8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3100,
+      "audio_duration_ms": [
+        3100
+      ]
+    },
+    {
+      "id": "1abf770fd956b09ea1d3c2af",
+      "label": "궁극기 사용 2",
+      "label_source": "table",
+      "cue": "vo_hallona@ult2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/87484533daa5863843b70819d584a0e095591fd8c484419bfae178fee949508c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2816,
+      "audio_duration_ms": [
+        2817
+      ]
+    },
+    {
+      "id": "c7b1f7b2502726f46fc039fb",
+      "label": "전투 승리 1",
+      "label_source": "table",
+      "cue": "vo_hallona@victory1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4a5c057ccaec16411643d45f5ac15b7c402bd1ab710b7eac1d019e274eb6864d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 12645,
+      "audio_duration_ms": [
+        12646
+      ]
+    },
+    {
+      "id": "9611ae35ca2bb7f7fe884089",
+      "label": "전투 승리 2",
+      "label_source": "table",
+      "cue": "vo_hallona@victory2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/15b89a89966a12edf298dd68dd283411d6b43b3e08208ffc2c4aa76771b84222.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 14300,
+      "audio_duration_ms": [
+        14300
+      ]
+    },
+    {
+      "id": "3119793bad24aef974753f55",
+      "label": "전투 승리 3",
+      "label_source": "table",
+      "cue": "vo_hallona@victory3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/2024d2c36ef87bc3bcf1f98a23be712853ae8940ff60ca72c17f41c623b88e27.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 15448,
+      "audio_duration_ms": [
+        15449
+      ]
+    },
+    {
+      "id": "6786d505dc0295bffdfea7e6",
+      "label": "획득",
+      "label_source": "purpose",
+      "cue": "vo_hallona@gacha",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/cf067662ca7486f89db337a33591266ac092baa72a95d9aac6dad6ec8232a7a0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3436,
+      "audio_duration_ms": [
+        3437
+      ]
+    },
+    {
+      "id": "dcbf23332f6c97743bcd065a",
+      "label": "캐릭터 획득",
+      "label_source": "table",
+      "cue": "vo_hallona@gachainfo",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/7ba86a52140ad56a9403776a4d1da864e03b36b8c16c5b083430d1508e183fcf.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 14647,
+      "audio_duration_ms": [
+        14648
+      ]
+    },
+    {
+      "id": "0cc8b3573f4029a6d2debe83",
+      "label": "레벨 상승",
+      "label_source": "purpose",
+      "cue": "vo_hallona@levelup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/340af91d38d76afacae6ebf3a2b836485b5511c99b15ff955891f531175a986f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4437,
+      "audio_duration_ms": [
+        4438
+      ]
+    },
+    {
+      "id": "7721191bd211d95b77f82173",
+      "label": "플러그인 1",
+      "label_source": "purpose",
+      "cue": "vo_hallona@plugin1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/c9720b3c3a225e787bc908ea56a8e50e60f95e077303739654568ae1d4e87781.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4183,
+      "audio_duration_ms": [
+        4183
+      ]
+    },
+    {
+      "id": "5ee409f153d06e3d89b3aece",
+      "label": "플러그인 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@plugin2",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/971545bffb35e089ff2e469244846e9cb4d9615b378a3a80b707dd9a31d72f52.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3400,
+      "audio_duration_ms": [
+        3400
+      ]
+    },
+    {
+      "id": "f602a2dc326143e7cc9e07bc",
+      "label": "플러그인 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@plugin3",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/fb36c6547c0d9e5941f6ba6cde3eb2f3794b9b8e64eeb928e1eab27489dcbc49.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4033,
+      "audio_duration_ms": [
+        4033
+      ]
+    },
+    {
+      "id": "073cc69ceeee2864767e37d2",
+      "label": "긍정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive01",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/ad77769ae612f506c4b7caa38c30b25c2314da88438f0e3f0729f0eb0921f21d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "e4969857b5535a6caa916eea",
+      "label": "긍정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive01",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/ad77769ae612f506c4b7caa38c30b25c2314da88438f0e3f0729f0eb0921f21d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "d352785f9c69eb20f2e74b3b",
+      "label": "스킬 1 사용 1",
+      "label_source": "table",
+      "cue": "vo_hallona@skill1-1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/0b135ca4baa2d9ab510f2cb28f6e16c57e006daf6ce8441ea6a12a72ec44858d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2233,
+      "audio_duration_ms": [
+        2233
+      ]
+    },
+    {
+      "id": "34bac103fbb44fd2fe73663b",
+      "label": "스킬 성장",
+      "label_source": "purpose",
+      "cue": "vo_hallona@skillup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/e8038fdc149b9f75171a86dc91c617f37637b465d8254aafc2c09d83f28aea29.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4337,
+      "audio_duration_ms": [
+        4338
+      ]
+    },
+    {
+      "id": "2a9b46eb8bd059f609a86952",
+      "label": "질문 02 · 3",
+      "label_source": "purpose",
+      "cue": "JP_vo_hallona@question02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/4a1e4717a74d11e3f4addbe458856a777768faed31c168c81708cbeb56297504.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2793,
+      "audio_duration_ms": [
+        2793
+      ]
+    },
+    {
+      "id": "1a9744e33fb5db7b5c7dc14e",
+      "label": "부끄러움 01 · 3",
+      "label_source": "purpose",
+      "cue": "JP_vo_hallona@shame01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c07b86895b25c55679be855566363f72ec019278b5736b5338d1a82c5573fdfa.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3631,
+      "audio_duration_ms": [
+        3631
+      ]
+    },
+    {
+      "id": "989bc6a6d8a4f79f989899ac",
+      "label": "생각 01",
+      "label_source": "purpose",
+      "cue": "JP_vo_hallona@think01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/a3bf496625e497ae19923bf26688efc1a2177b70b3c975d24aaf95cee9ab2a02.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3631,
+      "audio_duration_ms": [
+        3631
+      ]
+    },
+    {
+      "id": "54de486f19a91b86455ffb2e",
+      "label": "화남 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@anger01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/2cf65fc25ffd3d7368eaa2e9acf54c79b3fea2a830a091963b29d487b3f2c46d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2402,
+      "audio_duration_ms": [
+        2402
+      ]
+    },
+    {
+      "id": "6be132b5cadaee0b4e1bbc77",
+      "label": "화남 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@anger02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/480f0bd0707e937fb070c0c962c69512a47d6b825d43d94c933fe7ce6a71d66e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2083,
+      "audio_duration_ms": [
+        2083
+      ]
+    },
+    {
+      "id": "04b742fa1525595f6f228d45",
+      "label": "화남 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@anger02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/a632febfb7588f0cf64ccebc59498a8cc9c9d175ef35819abac564427f9417c5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1383,
+      "audio_duration_ms": [
+        1383
+      ]
+    },
+    {
+      "id": "ad05926fa3ed82379ef31902",
+      "label": "화남 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@anger02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d76a62791ea8be4e4e6069812b6daa2e0bfdaeffdc61a721ea70ac890966ec1e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1083,
+      "audio_duration_ms": [
+        1083
+      ]
+    },
+    {
+      "id": "88321af7f54ec4dfa07cfcad",
+      "label": "기쁨 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@happy01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ba4dddb0851347b4f66de52f1a1df5ce7538495dad8b6ba9ad0579830bbf97c9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1700,
+      "audio_duration_ms": [
+        1700
+      ]
+    },
+    {
+      "id": "871c62d860bf4c015fff26b7",
+      "label": "기쁨 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@happy01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9274a21af24e22f473c3cb4914b5b9c0dd5b9bc1ab29d66629ac0d4794731088.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 933,
+      "audio_duration_ms": [
+        933
+      ]
+    },
+    {
+      "id": "9ce0621097d0fcd2dfa4be5c",
+      "label": "기쁨 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@happy01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/b3087c898fbb943e1cabb205a9c8cb2cbc8dac592dae4a0195ec2e4da24d986c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1250,
+      "audio_duration_ms": [
+        1250
+      ]
+    },
+    {
+      "id": "5aecd097332116a80cf8f0e6",
+      "label": "웃음 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@laugh02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/e2c1b8bc55363f8b6f2d92a7236a558154630430c9b64ff1fe51f7173144e0f3.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1366,
+      "audio_duration_ms": [
+        1367
+      ]
+    },
+    {
+      "id": "589c4611960deac317ede9a1",
+      "label": "웃음 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@laugh02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/f1380ce0a46ec85fa1f0e0f741bcd0648ee3aa443fbe3f8c06c2f50e5a14b83d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1183,
+      "audio_duration_ms": [
+        1183
+      ]
+    },
+    {
+      "id": "ab4ac4c57b9433aa4ee9861e",
+      "label": "웃음 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@laugh02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/fdd0c852886fc383b72b8532c7b04e7716299509adecb45ca4f6d1cee57e41d7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1050,
+      "audio_duration_ms": [
+        1050
+      ]
+    },
+    {
+      "id": "931e8b6b8c37241947dd24d3",
+      "label": "부정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@negative01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5d2645061d025708585134818658fced2e757e573c3e5a6c3652525460104b80.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2135,
+      "audio_duration_ms": [
+        2135
+      ]
+    },
+    {
+      "id": "4e1a31f21d34365cdf8d972b",
+      "label": "부정 반응 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@negative02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ee921a820fb9c255bb21deb3945fc56620ced8e0b402eab0be15696d0eeaad9f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1668,
+      "audio_duration_ms": [
+        1668
+      ]
+    },
+    {
+      "id": "dda3ce966bfcc8fe28c33d7c",
+      "label": "부정 반응 03",
+      "label_source": "purpose",
+      "cue": "vo_hallona@negative03",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/e7a7afa0fd2e5fa1600ec5ba059de358709ffe6633c498ab7e8601f75653a36c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1334,
+      "audio_duration_ms": [
+        1335
+      ]
+    },
+    {
+      "id": "9fa65c20c63cc636a45152ad",
+      "label": "부정 반응 04",
+      "label_source": "purpose",
+      "cue": "vo_hallona@negative04",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/1f116b7f20544a723f606b376ce0d50bc71395c04e335c0be96cd23c7a90272d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1350,
+      "audio_duration_ms": [
+        1350
+      ]
+    },
+    {
+      "id": "6c00020ae30cb1ea716495fc",
+      "label": "부정 반응 04 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@negative04_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9040dddfb3683a0d9c2b11927b2c31a4286f8a4b4a86999193cfcedf324e94a7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1616,
+      "audio_duration_ms": [
+        1617
+      ]
+    },
+    {
+      "id": "9ffc153ebfbbba90cff1a415",
+      "label": "부정 반응 04 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@negative04_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ddbf4d44c78cd276868041a4fcfac2bbffa7e5efc665956b23d9287ad5532430.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1633,
+      "audio_duration_ms": [
+        1633
+      ]
+    },
+    {
+      "id": "687263cba9313813883fc468",
+      "label": "긍정 반응 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0b690a0e527359e2e6b2da2c1f86de1e8634ea944b0b24e2220824be33632e8f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "b886ad13377b51cd38614c8f",
+      "label": "긍정 반응 04",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive04",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9485eeea99bcb9ac6f7246b8634fc2ccf666df0f0ee969fa08bd94eaf0dbb76e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1034,
+      "audio_duration_ms": [
+        1034
+      ]
+    },
+    {
+      "id": "b0f2f57c3184af3aee3a6c55",
+      "label": "긍정 반응 05",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive05",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/bc8da7425290b25a156031ef6d9818924392739d80a248a04dc04944b9262228.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1233,
+      "audio_duration_ms": [
+        1233
+      ]
+    },
+    {
+      "id": "32995fefe1c5d7eb1aeadee2",
+      "label": "긍정 반응 05 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive05_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/21a00c9a81f6044f9a88cd723197e790af6d68cc7b1f1c8e52e04f6ec5a618f2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 750,
+      "audio_duration_ms": [
+        750
+      ]
+    },
+    {
+      "id": "f81ce063898620c9a66f7c09",
+      "label": "긍정 반응 05 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@positive05_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ec044b3939be7b29dd77cf16fbfa4c1b379bc873fc13c88aa9cb4758e476d531.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 800,
+      "audio_duration_ms": [
+        800
+      ]
+    },
+    {
+      "id": "b3f8266ada367c81c4d7f3f9",
+      "label": "질문 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@question01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/1b30dc39601c1af4c824520488408ef88c4bc67362982fd4c64873ad5294f9fd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1034,
+      "audio_duration_ms": [
+        1034
+      ]
+    },
+    {
+      "id": "2e109dc5158cec8b34398034",
+      "label": "질문 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@question02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d09669628d899337f5dca270f7a12d7bebfe1cf2ad906c6489fb80a5b3016858.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 950,
+      "audio_duration_ms": [
+        950
+      ]
+    },
+    {
+      "id": "08e281e97abd851b3f2d8b27",
+      "label": "질문 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@question02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/7adcaf7875156cef335c7ceab48057635500e5a40580a03c381bca0060751a27.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1233,
+      "audio_duration_ms": [
+        1233
+      ]
+    },
+    {
+      "id": "138324ff250b391040f98469",
+      "label": "질문 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@question02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/2eeaa6c47e33cc844fab8b040a055fe9d2a5de72d91a290e6113c15525b315d6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1083,
+      "audio_duration_ms": [
+        1083
+      ]
+    },
+    {
+      "id": "586cb7e2b6dabd917f11e716",
+      "label": "슬픔 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@sad01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5f35bed213de12436884cd68f2fbee6560b1da507a2352d69ac172f8084a9fec.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1534,
+      "audio_duration_ms": [
+        1535
+      ]
+    },
+    {
+      "id": "108e77ee438cc313942f63ae",
+      "label": "슬픔 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@sad02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5914286fff90f5d6dd9931be30127566cb2c6669385c7de9bef56473c35867be.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1316,
+      "audio_duration_ms": [
+        1317
+      ]
+    },
+    {
+      "id": "686a4ab4cd897efb645534f5",
+      "label": "슬픔 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@sad02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/097e48d0568f8d2b861c664e305f240146f6d16383a934ef9a6130beda52d6e9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1250,
+      "audio_duration_ms": [
+        1250
+      ]
+    },
+    {
+      "id": "a604e27fc05b906dcc958afc",
+      "label": "슬픔 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@sad02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/7a1a106eccdf297c7726d5b945351aca430630f645f3d3ca0e08f79889162e3c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1916,
+      "audio_duration_ms": [
+        1917
+      ]
+    },
+    {
+      "id": "3a1fa64cfa3e02e11ad0824a",
+      "label": "부끄러움 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shame01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c9a86cd9d81d3d08630bc20ec884df3f7d6aed62076e8d4ba1a8ca6c7c0f26b8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1550,
+      "audio_duration_ms": [
+        1550
+      ]
+    },
+    {
+      "id": "388ea70a6c69a9f21c1a04bc",
+      "label": "부끄러움 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shame01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/752d6799e12767f7e987a39f25de20cee77611511444bff91c6f10be63991c4e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1550,
+      "audio_duration_ms": [
+        1550
+      ]
+    },
+    {
+      "id": "d1991263cdd4d56c695ad550",
+      "label": "부끄러움 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shame01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/30acef9bd8b2b92f28be7dd5669c1ccdc92e55c8a116e59cd6c9ff1783f2f720.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1950,
+      "audio_duration_ms": [
+        1950
+      ]
+    },
+    {
+      "id": "2482909971d6083e73806b7b",
+      "label": "사과",
+      "label_source": "purpose",
+      "cue": "vo_hallona@sorry",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c7677e20cc3ba294d9adaaac999d96b7694788376875602b576a5d0324e4090d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8216,
+      "audio_duration_ms": [
+        8217
+      ]
+    },
+    {
+      "id": "b1f6c4ac1e9f5eabb743434b",
+      "label": "놀람 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@surprise01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ee7b11b44be1c03f2077a65280536526539c8ea4277aaf3ee9beaefc2a28fed2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 850,
+      "audio_duration_ms": [
+        850
+      ]
+    },
+    {
+      "id": "200fe0d393b36d64f573b728",
+      "label": "놀람 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@surprise01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/433392888e328b4bcfe7f302e079a7706eee4b4637532e895fe5c57e22eb1957.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1066,
+      "audio_duration_ms": [
+        1067
+      ]
+    },
+    {
+      "id": "c71ed07f4f462305bc3d246e",
+      "label": "놀람 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@surprise01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/8e34f1b0a53536485f7bf1f17ded76af4def8dce375b45406a497ead614070f2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1150,
+      "audio_duration_ms": [
+        1150
+      ]
+    },
+    {
+      "id": "a36c3bf2e1154b018799ccb5",
+      "label": "감사 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@thanks01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5bec0c73425998a67a51ffd5085b25588a5ccfba5020abfbceb224405a28c7b7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1134,
+      "audio_duration_ms": [
+        1134
+      ]
+    },
+    {
+      "id": "e3c08fe449fcfb3a99b0598e",
+      "label": "생각 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@think01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/902f647d06ee211fb435518ca7a1d0603da977300e7615dfc5690cfd8804aa81.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1950,
+      "audio_duration_ms": [
+        1950
+      ]
+    },
+    {
+      "id": "ade2ed7d69e7712285d02530",
+      "label": "생각 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@think01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/63580b3d7b86afa1d95660c3caf362bea317fa387c2ebaa20ed68fc48df28b86.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2133,
+      "audio_duration_ms": [
+        2133
+      ]
+    },
+    {
+      "id": "966125cbee8c8dcae72c4b77",
+      "label": "생각 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@think01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/a65fa218d8f6987bd1e43b9215054971e4c08d535d8367322267327df7592243.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1716,
+      "audio_duration_ms": [
+        1717
+      ]
+    },
+    {
+      "id": "8b0ceb89212f7b97267b6f71",
+      "label": "상점 구매 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shopbuy01",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3ca97d1f2a643411460a3264d5ed29d3f49b5a1cbff001225046904d0b4cf750.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3216,
+      "audio_duration_ms": [
+        3217
+      ]
+    },
+    {
+      "id": "5579f24f76fef2da7e375c1c",
+      "label": "상점 구매 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shopbuy02",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e9d07b80257fac0eb6e2548d851e34a82ebc74526b34671096f375e219c715a1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4750,
+      "audio_duration_ms": [
+        4750
+      ]
+    },
+    {
+      "id": "8b36b67bedfc9dd14f75e7ac",
+      "label": "상점 종료 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shopender01",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f836b4304fbce4ad13a2e51579f2cc27081ba245ccffa3612ff639d2a16f89c8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6150,
+      "audio_duration_ms": [
+        6150
+      ]
+    },
+    {
+      "id": "8dbfe52ec635232510273509",
+      "label": "상점 종료 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shopender02",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ba9473ce3d5d9a76d0cc61be355c98e25882488b8db9efa6b981b03345a65fd5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4316,
+      "audio_duration_ms": [
+        4317
+      ]
+    },
+    {
+      "id": "36094d3f91804583a71d06a7",
+      "label": "상점 안내 01",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shopinfo01",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9944b88ff409354a00905bf695331fbb6275c9d2fcf41811189f95d0093a1cdb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3650,
+      "audio_duration_ms": [
+        3650
+      ]
+    },
+    {
+      "id": "3816ce4447d5a78d2a803903",
+      "label": "상점 안내 02",
+      "label_source": "purpose",
+      "cue": "vo_hallona@shopinfo02",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d38530b8afc46d6bf922beee6b73b7a4b5431bc8fb65ee6ee45ce54b172f74c3.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4000,
+      "audio_duration_ms": [
+        4000
+      ]
+    },
+    {
+      "id": "9edfd79da959a3995094f913",
+      "label": "타이틀",
+      "label_source": "purpose",
+      "cue": "vo_hallona@titlecall",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/628c419b5105c88c9c4cf28fc9fc6d56cfd84a9ab79273211c2f2e50145a3b61.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1685,
+      "audio_duration_ms": [
+        1686
+      ]
+    },
+    {
+      "id": "01e6a472b6147bab5300edfd",
+      "label": "타이틀 2",
+      "label_source": "purpose",
+      "cue": "vo_hallona@titlecall2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/fcf8d327db044078ad6b55a264a03b2f7691ff3f9c8b7e609010ce5d16efa1ae.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3700,
+      "audio_duration_ms": [
+        3700
+      ]
+    },
+    {
+      "id": "2ab792cb2b71608522e9de78",
+      "label": "타이틀 3",
+      "label_source": "purpose",
+      "cue": "vo_hallona@titlecall3",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d3bbe29c7a362a487fdf2edccb924f84ed9728c766efbba2b6128510e052cfa2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3616,
+      "audio_duration_ms": [
+        3617
+      ]
+    },
+    {
+      "id": "7b41c20bba3376b073a8e63f",
+      "label": "타이틀 4",
+      "label_source": "purpose",
+      "cue": "vo_hallona@titlecall4",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/645776431b982e2e2b9ac5ea72a023c307e4f0e6595394a0f6976fd80ec45083.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2862,
+      "audio_duration_ms": [
+        2862
+      ]
+    },
+    {
+      "id": "5e4b1044b357307a32259a2b",
+      "label": "타이틀 5",
+      "label_source": "purpose",
+      "cue": "vo_hallona@titlecall5",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1ad6ea382d1d6ab0b3c82dec5c03cef36e599b167d2202282e95695fa92f2cb0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3366,
+      "audio_duration_ms": [
+        3367
+      ]
+    }
+  ],
+  "excluded_event_only": 0,
+  "total": 118,
+  "playable": 118,
+  "clip_count": 118,
+  "categories": [
+    {
+      "id": "idle",
+      "label": "대기",
+      "count": 12
+    },
+    {
+      "id": "touch",
+      "label": "터치",
+      "count": 12
+    },
+    {
+      "id": "battle",
+      "label": "전투",
+      "count": 30
+    },
+    {
+      "id": "growth",
+      "label": "획득·성장",
+      "count": 10
+    },
+    {
+      "id": "emotion",
+      "label": "감정·반응",
+      "count": 43
+    },
+    {
+      "id": "other",
+      "label": "기타",
+      "count": 11
+    }
+  ]
+}

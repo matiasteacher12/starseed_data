@@ -1,0 +1,41 @@
+{
+  "character": "mika",
+  "name": "미카",
+  "cues": [],
+  "excluded_event_only": 0,
+  "total": 0,
+  "playable": 0,
+  "clip_count": 0,
+  "categories": [
+    {
+      "id": "idle",
+      "label": "대기",
+      "count": 0
+    },
+    {
+      "id": "touch",
+      "label": "터치",
+      "count": 0
+    },
+    {
+      "id": "battle",
+      "label": "전투",
+      "count": 0
+    },
+    {
+      "id": "growth",
+      "label": "획득·성장",
+      "count": 0
+    },
+    {
+      "id": "emotion",
+      "label": "감정·반응",
+      "count": 0
+    },
+    {
+      "id": "other",
+      "label": "기타",
+      "count": 0
+    }
+  ]
+}

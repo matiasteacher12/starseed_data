@@ -1,0 +1,5866 @@
+{
+  "character": "airen",
+  "name": "아이렌",
+  "cues": [
+    {
+      "id": "9b37cd2785dd9f99c0f94dad",
+      "label": "생일 인사",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@birth",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/753bc23c24132ca505194b34014caf4616f350ee893391ed51ee2503a9728486.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 17301,
+      "audio_duration_ms": [
+        17301
+      ]
+    },
+    {
+      "id": "01e77126dcd5a2feb31f9c70",
+      "label": "일일 인사",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@daily",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/f4c9f97226b0193b8af1614030f8a26907689b3c3655c233236333793bb84da2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8688,
+      "audio_duration_ms": [
+        8689
+      ]
+    },
+    {
+      "id": "58bda32749b9674d38f3d109",
+      "label": "로비 대기 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@leaving1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7c5d037f69feb348dde5a2e5bb0c091b1ed21168000c896549895f70c6c9d7ea.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7673,
+      "audio_duration_ms": [
+        7674
+      ]
+    },
+    {
+      "id": "6b9426f5c97596a35c928a1c",
+      "label": "우편 알림",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@mail",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/95b148278cf990933b211bd892aa8d85e956a406c439ae3b291438703a21460b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3764,
+      "audio_duration_ms": [
+        3764
+      ]
+    },
+    {
+      "id": "bac786d73250bce31d56d3ee",
+      "label": "소식",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@news",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/295c6e20e53e2180e12575c4b82b464f30600d0286f8e351d38ea55247eb70b4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3623,
+      "audio_duration_ms": [
+        3624
+      ]
+    },
+    {
+      "id": "8ffc548fd49d907783012ba4",
+      "label": "시간대 인사 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@time1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/351ef3966d6a47963d0f489c4d17a7fab8b211b531f1b37579f4ff1217e3056d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4695,
+      "audio_duration_ms": [
+        4695
+      ]
+    },
+    {
+      "id": "b1f4cbd7bff61a2c57393ece",
+      "label": "시간대 인사 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@time2",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/cf3cf26b4dbe13ac8da4fe29dbd1ffb91683c5823050fae969244c2287267f8e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5232,
+      "audio_duration_ms": [
+        5233
+      ]
+    },
+    {
+      "id": "28eb8275575c5eedbafe1905",
+      "label": "시간대 인사 3",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@time3",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d0dcc5292ed89dfb47f35a05d1bb493ae9a14a8abe585f1c3ed375ff8ab77759.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3868,
+      "audio_duration_ms": [
+        3868
+      ]
+    },
+    {
+      "id": "f0ad2d2347830ba236263223",
+      "label": "시간대 인사 4",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@time4",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4993bd84324eb0b399eff070c56de312bc6750d3fd859d2d0b1f2643c128a552.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 9872,
+      "audio_duration_ms": [
+        9873
+      ]
+    },
+    {
+      "id": "5581accc37bb50d64178bc4b",
+      "label": "생일 인사",
+      "label_source": "purpose",
+      "cue": "vo_airen@birth",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/05027d59c76c1573ffceac0e89e44090c711031ec37cdb6e50daff9c5af45785.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 18318,
+      "audio_duration_ms": [
+        18318
+      ]
+    },
+    {
+      "id": "25fcc03e48327a96d1a11fd1",
+      "label": "호출",
+      "label_source": "table",
+      "cue": "vo_airen@call01",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4ec3afe9a38330fdc300ee9dbd322d34a3c5414c457241f058d5d26794317c81.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 867,
+      "audio_duration_ms": [
+        868
+      ]
+    },
+    {
+      "id": "995e15cc80a9d12af358be89",
+      "label": "플레이어 호출",
+      "label_source": "table",
+      "cue": "vo_airen@call02",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/450f69a7b0dc40141a4aeade2f1de866eaec61e0e35b2b6114b21af8af914a09.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "95cc0160065f1bbf5d03b0b3",
+      "label": "호출 03",
+      "label_source": "purpose",
+      "cue": "vo_airen@call03",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d35ec0a7935a264ea7ec4d343494f66dde210690f5f1c7d126bee19638a74d9d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "1d4666adb19918de3a339637",
+      "label": "일일 인사",
+      "label_source": "purpose",
+      "cue": "vo_airen@daily",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4d1682b327b589d57fcb2f35a5ae8b9728e252a04c0b017abff78a66259e9ff9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 10735,
+      "audio_duration_ms": [
+        10736
+      ]
+    },
+    {
+      "id": "22f615507b1808006f658716",
+      "label": "로비 대기 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@leaving1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/dd7eaaa5c602a6c29c062c06fe65a8416a93326256259bf414eeb8ac741a69de.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 12645,
+      "audio_duration_ms": [
+        12646
+      ]
+    },
+    {
+      "id": "36a7b23f1ad5be765069d509",
+      "label": "메인 로비 대기",
+      "label_source": "table",
+      "cue": "vo_airen@leaving2",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/b5bb90ae615615a8d10322bc5ea2ae3d9bf698e0077d5bf483b9272b84fc253e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8541,
+      "audio_duration_ms": [
+        8542
+      ]
+    },
+    {
+      "id": "f5ed05d52f7fbfe695d9c200",
+      "label": "메인 로비 인사(메일)",
+      "label_source": "table",
+      "cue": "vo_airen@mail",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/16117432b7938e48352499ee54cb417255ea8eb60e86bbf2844f817a6f414913.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7240,
+      "audio_duration_ms": [
+        7241
+      ]
+    },
+    {
+      "id": "e736df68b149e3cd943a0047",
+      "label": "소식",
+      "label_source": "purpose",
+      "cue": "vo_airen@news",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/1dff974482631b7074a278d749602bcf85597b71cf286e98e65948866421e2a2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7140,
+      "audio_duration_ms": [
+        7140
+      ]
+    },
+    {
+      "id": "8a44a1d3bf25821df9d8b9fd",
+      "label": "메인 로비 인사(아침)",
+      "label_source": "table",
+      "cue": "vo_airen@time1",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/45f12642f1c0b401f57b62c5c5ae5db5e15ae32742121962df5e3c5c48ea7764.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8426,
+      "audio_duration_ms": [
+        8426
+      ]
+    },
+    {
+      "id": "8c5903e4dcc512df0fe5de6f",
+      "label": "메인 로비 인사(낮)",
+      "label_source": "table",
+      "cue": "vo_airen@time2",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/05c4f12647226b47865b4e197130f9051b9d0b0b03892f5057b8c41a40a43224.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5505,
+      "audio_duration_ms": [
+        5506
+      ]
+    },
+    {
+      "id": "ea482496528fee542ab03985",
+      "label": "메인 로비 인사(저녁)",
+      "label_source": "table",
+      "cue": "vo_airen@time3",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/f2c50fde44fc045c64611318567d2221d5b7c8c2c7e41c977a7ba0c3dea1394b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6525,
+      "audio_duration_ms": [
+        5542
+      ]
+    },
+    {
+      "id": "ce7b015c6ccc640524377c8a",
+      "label": "메인 로비 인사(밤)",
+      "label_source": "table",
+      "cue": "vo_airen@time4",
+      "category": "idle",
+      "playable": true,
+      "audio_urls": [
+        "audio/fc8d70c9e89635d17c9429b81e9bb83ad6a4228c7b925fd8a55bba42483e272e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 9943,
+      "audio_duration_ms": [
+        9943
+      ]
+    },
+    {
+      "id": "0272db1495f4477965f8190c",
+      "label": "로비 터치 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobby1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/98017666c9e3681a97d21e7e3df74696383e570c70e8d17a45994a46b65b6809.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4092,
+      "audio_duration_ms": [
+        4093
+      ]
+    },
+    {
+      "id": "0f9fa36b859d8018fba3f1b2",
+      "label": "로비 터치 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobby2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/8a5815137cf3ca46f62caf90bf9b1d60a77e6905c34261a288fc82d707b9da18.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2608,
+      "audio_duration_ms": [
+        2608
+      ]
+    },
+    {
+      "id": "b0a2c6e3e58c052093d44e64",
+      "label": "로비 터치 3",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobby3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/714d6f3a98b525bbc5bb666b58e60fa019aac3ecd5cddb659d6e5ab906925631.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6671,
+      "audio_duration_ms": [
+        6672
+      ]
+    },
+    {
+      "id": "0b2790581a392b6e7f1e1210",
+      "label": "로비 터치 4",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobby4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/f8c16ce589dc3f7bbd096a8514899d4a86a242328cd6f54efeba1ea528bf2483.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 10270,
+      "audio_duration_ms": [
+        10271
+      ]
+    },
+    {
+      "id": "2616135ac48da7bdd296469d",
+      "label": "로비 터치 특수 1 · 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobbyS1-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/7c5bd0c763c55c4d1e1683fa0043ce22bc267cbe56692a32d50675b2f80cb9d7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7497,
+      "audio_duration_ms": [
+        7497
+      ]
+    },
+    {
+      "id": "980ac367717ce1c2cef3cabe",
+      "label": "로비 터치 특수 1 · 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobbyS1-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/5c007d41190c360f20b6313f5a117a3995673c49293f57211b55337c8a729ed9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6373,
+      "audio_duration_ms": [
+        6374
+      ]
+    },
+    {
+      "id": "e5a2cfafadcd7c5a9d71a6da",
+      "label": "로비 터치 특수 2 · 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobbyS2-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/ffcc9019080a89f752238bb054c16b71d13969765cb84d47b5e765a2d1cf03d3.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 12982,
+      "audio_duration_ms": [
+        12983
+      ]
+    },
+    {
+      "id": "01b71a9a6838fbcf839a12b4",
+      "label": "로비 터치 특수 2 · 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobbyS2-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/f8ab7e93468ea315d80d57fcb93d2b39caaf8ca436f1768fdc54c2dc62d46323.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 9545,
+      "audio_duration_ms": [
+        9546
+      ]
+    },
+    {
+      "id": "86567119af130453cc0bb719",
+      "label": "로비 터치 특수 3",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobbyS3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/e34b83f7ebbf7190a183edf918dc8dd8bf6e6554690c6a3aa47f77505293f191.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 10494,
+      "audio_duration_ms": [
+        10494
+      ]
+    },
+    {
+      "id": "080a4ff8b3db0c547b9cda03",
+      "label": "로비 터치 특수 4",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@lobbyS4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/fd4599ce010e2c89051a4304bea0c5f6d111e7700a3a91a8a81f264cf560ca94.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 18612,
+      "audio_duration_ms": [
+        18613
+      ]
+    },
+    {
+      "id": "31705e96c229b40d8e3f4b3f",
+      "label": "메인 로비 터치 일반1",
+      "label_source": "table",
+      "cue": "vo_airen@lobby1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/b7f705e10de2b9f5bff573ce8c09516e633e0574445958017c93785066f24f5c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4404,
+      "audio_duration_ms": [
+        4404
+      ]
+    },
+    {
+      "id": "12c4feea4fa9737f7d62e22e",
+      "label": "메인 로비 터치 일반2",
+      "label_source": "table",
+      "cue": "vo_airen@lobby2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/01214844caf5c6e3870e8b9c7497811931d2e6125fcc1913e27314e84702216f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4504,
+      "audio_duration_ms": [
+        4505
+      ]
+    },
+    {
+      "id": "18543799758bf52b6498d106",
+      "label": "메인 로비 터치 일반3",
+      "label_source": "table",
+      "cue": "vo_airen@lobby3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/ea543902f285565b8c56718832c93d3eee2c70ebb32ab6efc18c7fef28d394c7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7674,
+      "audio_duration_ms": [
+        7674
+      ]
+    },
+    {
+      "id": "356a073a5cc6b41dfa4985bb",
+      "label": "메인 로비 터치 일반4",
+      "label_source": "table",
+      "cue": "vo_airen@lobby4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/41466400ec0f0c51ab1a6fcd921849e1eaa98f256c4ede782713386a143b78e5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8775,
+      "audio_duration_ms": [
+        8775
+      ]
+    },
+    {
+      "id": "c3c8d3012288dae9a44b371e",
+      "label": "로비 터치 특수 1 · 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@lobbyS1-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/56d7dc905055acb74af5f9555325fa3672ae5c1381ffc646515b1c8ba04522d2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7407,
+      "audio_duration_ms": [
+        7407
+      ]
+    },
+    {
+      "id": "0ff376f4649dcb242deced8e",
+      "label": "로비 터치 특수 1 · 1 · 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@lobbyS1-1_01",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/d519c73629dafbcd6277f2aaf383341be7469dc1d65b4327d4fd9514d7600d68.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1707,
+      "audio_duration_ms": [
+        1707
+      ]
+    },
+    {
+      "id": "7db76b8c7129ebaed156e991",
+      "label": "로비 터치 특수 1 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@lobbyS1-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/0e9a20b77f37c2bdac21012bc9c917ccd4e34e5a5be1a49723e2968fdcfb778f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7774,
+      "audio_duration_ms": [
+        7774
+      ]
+    },
+    {
+      "id": "cdb74cf8ba326a3c3e30f75c",
+      "label": "메인 로비 터치 특수3",
+      "label_source": "table",
+      "cue": "vo_airen@lobbyS2-1",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/72bda6893ee898c62889090abef6a385cd52b0634852aff3ba8e0f8d76746abe.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 10452,
+      "audio_duration_ms": [
+        10452
+      ]
+    },
+    {
+      "id": "a36189509e65f7aa0ad61614",
+      "label": "메인 로비 터치 특수4",
+      "label_source": "table",
+      "cue": "vo_airen@lobbyS2-2",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/5842d241ddd3db6f5432a4f56ef75737705e2720fb33df9ea0f5e5d7cf04492d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7040,
+      "audio_duration_ms": [
+        7040
+      ]
+    },
+    {
+      "id": "e6b64369cfcf24d846ebd493",
+      "label": "메인 로비 터치 특수1",
+      "label_source": "table",
+      "cue": "vo_airen@lobbyS3",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/f4d67b87346c764c3df681019d8041bf065a277aa4ad2429999102e082145f18.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 9276,
+      "audio_duration_ms": [
+        9277
+      ]
+    },
+    {
+      "id": "f562d3913f1a9b5349ab81de",
+      "label": "메인 로비 터치 특수2",
+      "label_source": "table",
+      "cue": "vo_airen@lobbyS4",
+      "category": "touch",
+      "playable": true,
+      "audio_urls": [
+        "audio/71a710bb798b59b8ccebafae794f8980b29005cf23a1f92cae3ba298ea13ac6f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 19953,
+      "audio_duration_ms": [
+        19953
+      ]
+    },
+    {
+      "id": "924bbc38ffd4b35c7357c605",
+      "label": "기타 보이스 · battlestart",
+      "label_source": "cue",
+      "cue": "JP_vo_airen@battlestart",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/16afdf4ec97148d6f0bf35996997aeae11eed6fc370bbf253fd3ec7ccb7f8727.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1413,
+      "audio_duration_ms": [
+        1414
+      ]
+    },
+    {
+      "id": "b1b221af6776f1033d994d2e",
+      "label": "위기 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@danger2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3372966c08d83856d30cfed446762865b5ea9bb7ecb8464feefeb68ac77d7cd7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3214,
+      "audio_duration_ms": [
+        3215
+      ]
+    },
+    {
+      "id": "4fc17281260d4da66098fb43",
+      "label": "패배 1",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@defeat1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/0ec81d7fdbfb83527584d4075a03605f932f8192b06a2d57f542e77669331622.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3524,
+      "audio_duration_ms": [
+        3524
+      ]
+    },
+    {
+      "id": "1deacbbba62c59d64b90055b",
+      "label": "퇴각 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@retire2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/109e5a21c12705f8219c08bb48d41326b811fd9da02c27d5e010d0f2b60d15ec.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3246,
+      "audio_duration_ms": [
+        3246
+      ]
+    },
+    {
+      "id": "b57726a4afca98650b9028a8",
+      "label": "전투 승리 2",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@victory2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d2909e0b947f7528225587f220f8958e5f29a9d5546ac120185b045fd2c14e8c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1823,
+      "audio_duration_ms": [
+        1823
+      ]
+    },
+    {
+      "id": "360e3d8195734408ca1b32b6",
+      "label": "전투 승리 3",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@victory3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/2d7c0fe1242f2862bfb8a7d821af53e4e6e825d4b895451cf8b1d466f6f0b2b2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4308,
+      "audio_duration_ms": [
+        4309
+      ]
+    },
+    {
+      "id": "99caa1592b095cea0eb07ab5",
+      "label": "기본 공격 1",
+      "label_source": "table",
+      "cue": "vo_airen@attack1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/325a6c1653724a2034af31d6f9e41528c8af477868594235d39143fe93fa5d3e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 467,
+      "audio_duration_ms": [
+        467
+      ]
+    },
+    {
+      "id": "791717ea9fb69272e4766a51",
+      "label": "기본 공격 2",
+      "label_source": "table",
+      "cue": "vo_airen@attack2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/423409fef67faa64b0044dfa2bc0a2696703eca9cea6ad3423e67c0f0d3adb8f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "8d3b1dfdb92354cd33a0c7f6",
+      "label": "기본 공격 3",
+      "label_source": "table",
+      "cue": "vo_airen@attack3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d46a6267743b238047a418b6480d752f5f0b3eda4d4ca64c6fd695fbbe005b18.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 633,
+      "audio_duration_ms": [
+        634
+      ]
+    },
+    {
+      "id": "1a2ec8740eed1432f9c4a287",
+      "label": "기본 공격 4",
+      "label_source": "purpose",
+      "cue": "vo_airen@attack4",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7fecfdbebc277c5e22bd39db818edf2f81cc0fa893592d938cf2febee3165c62.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 433,
+      "audio_duration_ms": [
+        434
+      ]
+    },
+    {
+      "id": "ed61742c0e16064b1a361391",
+      "label": "기본 공격 5",
+      "label_source": "purpose",
+      "cue": "vo_airen@attack5",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/7cbb57e49a4d434285074f7b2b0728652c9a71f6f9e6823cec3eb7ee7249945f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 600,
+      "audio_duration_ms": [
+        601
+      ]
+    },
+    {
+      "id": "33b8a5754db38a4ce85fc37b",
+      "label": "기타 보이스 · battlestart",
+      "label_source": "cue",
+      "cue": "vo_airen@battlestart",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/56f9bbc99f78609399781111e6e753501696059c5ef85193dec3a713fdc939db.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1935,
+      "audio_duration_ms": [
+        1935
+      ]
+    },
+    {
+      "id": "57dbedb65945d81b5178a63f",
+      "label": "위기 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@danger1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/c4e614b1f797cd448b7cfbd6dcef82777600edc50e2643960e9a67864c767d28.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2347,
+      "audio_duration_ms": [
+        2347
+      ]
+    },
+    {
+      "id": "f47d22a7b8ee41ae317624fc",
+      "label": "위기 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@danger2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/76810db4e24c2173e07e53cc7f1399816cb9202635900c8eae15a77544882aca.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2569,
+      "audio_duration_ms": [
+        2569
+      ]
+    },
+    {
+      "id": "6e585f21003ff1f46d9b3e0b",
+      "label": "패배 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@defeat1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/6edc7eec4628ef66147d41876bb6de48b146f18c0974b206a976ae52dd39978d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4504,
+      "audio_duration_ms": [
+        4505
+      ]
+    },
+    {
+      "id": "aecf56a16954ddfce829e7d4",
+      "label": "피격 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@hit1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/118b5da355efc3c581ff715f20570c7c10960e35f786274befbcdf04d568c429.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 400,
+      "audio_duration_ms": [
+        400
+      ]
+    },
+    {
+      "id": "be38307a573d616acc828374",
+      "label": "피격 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@hit1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/118b5da355efc3c581ff715f20570c7c10960e35f786274befbcdf04d568c429.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 400,
+      "audio_duration_ms": [
+        400
+      ]
+    },
+    {
+      "id": "af7974a8bf4e46f018d7607e",
+      "label": "피격 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@hit2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/3495ab3fa098de24ab999f4a6bf8f293b9cd8765138f8e27bb716825dc8b53bb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1301,
+      "audio_duration_ms": [
+        1301
+      ]
+    },
+    {
+      "id": "0636bb0b89bc972241221f9b",
+      "label": "피격 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@hit3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/158a945feb3f38fdc1b9ad03a515cb0b87d5c2cba90b3c042ce3432969ba0590.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 600,
+      "audio_duration_ms": [
+        601
+      ]
+    },
+    {
+      "id": "39de2b60a1e8ff92b79be33a",
+      "label": "피격 4",
+      "label_source": "purpose",
+      "cue": "vo_airen@hit4",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d4f6bb7e4c4cb6a75920e0fad815488cb9605f3c2f39ba4c2e95a56756c9c389.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "acdfddb017c483942ae66de1",
+      "label": "퇴각 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@retire1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/a2ee3e1cb931cf0dfd4b8b5c8d986a8b122febc3e1cb5e8df31e5bb00dc38e8f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3103,
+      "audio_duration_ms": [
+        3103
+      ]
+    },
+    {
+      "id": "b3b67d294bdd58281cb07e5d",
+      "label": "퇴각 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@retire2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/84b7503636357ad87fd3639878ed2cb7a6ee6ac1c395f0ccf4e53c4eda2fea86.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4137,
+      "audio_duration_ms": [
+        4137
+      ]
+    },
+    {
+      "id": "bdff85c2524741fc786c0281",
+      "label": "편성 배치",
+      "label_source": "table",
+      "cue": "vo_airen@setting",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/89c195d716093ff84b9f85cc7440f850b17401df0936c2d04380c0b915fb1a3a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1401,
+      "audio_duration_ms": [
+        1401
+      ]
+    },
+    {
+      "id": "637f38445d6cae1a61290e60",
+      "label": "스킬 1 사용 2",
+      "label_source": "table",
+      "cue": "vo_airen@skill1-2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/335735098322422000afe844c09b3fe3f793f86b8d9d37c70828372737f9d20b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1201,
+      "audio_duration_ms": [
+        1201
+      ]
+    },
+    {
+      "id": "5192503ff7a25f3abe4ccc3d",
+      "label": "스킬 2 사용 1",
+      "label_source": "table",
+      "cue": "vo_airen@skill2-1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/67e8dee0cd91f8192659fdfdf712e9355872d9debbbca2927b3efb2aba008319.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2002,
+      "audio_duration_ms": [
+        2002
+      ]
+    },
+    {
+      "id": "3551072e4c482a7fafd28ed1",
+      "label": "스킬 2 사용 2",
+      "label_source": "table",
+      "cue": "vo_airen@skill2-2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/f91e3266ef8dc6f9969ce74c1281ea961942f445787d3cd263c556e7135c388d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1301,
+      "audio_duration_ms": [
+        1301
+      ]
+    },
+    {
+      "id": "4f9363071780c7c4c58f3f26",
+      "label": "궁극기 준비",
+      "label_source": "purpose",
+      "cue": "vo_airen@ult-Ready",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/51fc4fca1d9db42e1f13dab612ef215951953696c97cfce4f9c1f2e897cf3a9c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2002,
+      "audio_duration_ms": [
+        2002
+      ]
+    },
+    {
+      "id": "a10c022b8e88f2520be40286",
+      "label": "궁극기 짧게",
+      "label_source": "purpose",
+      "cue": "vo_airen@ult-short",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/31f4e24f07450df4e84013704e58356a76d912bc09318774a960f70e8996c30b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1755,
+      "audio_duration_ms": [
+        1756
+      ]
+    },
+    {
+      "id": "a3a6152aa453a11a64a5cc7d",
+      "label": "궁극기 컷신",
+      "label_source": "table",
+      "cue": "vo_airen@ult-timeline",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/d34decfb4211f3f1e5781020c37da3c24089aa6b62026ff81614f2546b408319.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3837,
+      "audio_duration_ms": [
+        3837
+      ]
+    },
+    {
+      "id": "6c99a5f9359cb0192593ea38",
+      "label": "궁극기 사용 1",
+      "label_source": "table",
+      "cue": "vo_airen@ult1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/4c2dee43bb7e7e9256040e11c8ee09e09659abe8e70d990dd685e769e430cffc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1034,
+      "audio_duration_ms": [
+        1034
+      ]
+    },
+    {
+      "id": "a0d063224309821b8df8df8f",
+      "label": "궁극기 사용 2",
+      "label_source": "table",
+      "cue": "vo_airen@ult2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/2792ea950d59356370365c0052de928c88d1c59dfaacd0d49f6f021531cc9fe6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2502,
+      "audio_duration_ms": [
+        2503
+      ]
+    },
+    {
+      "id": "990d589f7c3159555aee39b7",
+      "label": "전투 승리 1",
+      "label_source": "table",
+      "cue": "vo_airen@victory1",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/c6e20f6a3fdad69f84e962a261106940c811bbf84a78dd401c076f9c80be6e79.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3670,
+      "audio_duration_ms": [
+        3670
+      ]
+    },
+    {
+      "id": "52f4d6a6650a605e5a4fee1a",
+      "label": "전투 승리 2",
+      "label_source": "table",
+      "cue": "vo_airen@victory2",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/1b3dce4ed84f4bf3fc49f554cd6840852a278e4aaf697f877704a10611ca8e45.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3203,
+      "audio_duration_ms": [
+        3203
+      ]
+    },
+    {
+      "id": "95f5f25f578650f7d9427a49",
+      "label": "전투 승리 3",
+      "label_source": "table",
+      "cue": "vo_airen@victory3",
+      "category": "battle",
+      "playable": true,
+      "audio_urls": [
+        "audio/69c42c895854dcc588526fcb90a1a1d8df5aed9214cd421ce855ceb566f05d25.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5372,
+      "audio_duration_ms": [
+        5372
+      ]
+    },
+    {
+      "id": "aa3217cfdcd4b830a72516cb",
+      "label": "획득",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@gacha",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/c71ccf80cbbc23f6e57bf7d02d9c46c8848ef28da29fe9a84b2cee92a2da5155.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1203,
+      "audio_duration_ms": [
+        1204
+      ]
+    },
+    {
+      "id": "d30ba6099c0baff8922b67e8",
+      "label": "캐릭터 획득",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@gachainfo",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/48e551164399704c2e12232de51b918d4021e21c0d464a00c46f652a634386e1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5761,
+      "audio_duration_ms": [
+        5761
+      ]
+    },
+    {
+      "id": "a97278bb94e82988aa341bdc",
+      "label": "플러그인 4",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@plugin4",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/894f7f507cf21d131af97659776aa2c15767310715508490baee8d4f9a05595f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5626,
+      "audio_duration_ms": [
+        5627
+      ]
+    },
+    {
+      "id": "f82976bc89bd720e9ac35fad",
+      "label": "획득",
+      "label_source": "purpose",
+      "cue": "vo_airen@gacha",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/db66bc1c45d686f0da023316e611b6f5043c14770db947eabcab609e45089d88.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2769,
+      "audio_duration_ms": [
+        2769
+      ]
+    },
+    {
+      "id": "6b3511d660a9971d74df2839",
+      "label": "캐릭터 획득",
+      "label_source": "table",
+      "cue": "vo_airen@gachainfo",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/88bd2c61ce375b3f807d4b6dcc3d305b50a22afce5426cecf7d3f79ba87c15a6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7340,
+      "audio_duration_ms": [
+        7341
+      ]
+    },
+    {
+      "id": "e41588e4d98a3029d3ed3e15",
+      "label": "레벨 상승",
+      "label_source": "purpose",
+      "cue": "vo_airen@levelup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/cfe872fcb7a3668e85068ab5341aa6111dc53d03a449698595515fdb51fd9545.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2235,
+      "audio_duration_ms": [
+        2236
+      ]
+    },
+    {
+      "id": "e373b0e4453a7c2f8634a917",
+      "label": "플러그인 1",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/060a75279264f56e11003b34d3fec969a371a154f0d9e1952f6067c9095f69c6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3670,
+      "audio_duration_ms": [
+        3670
+      ]
+    },
+    {
+      "id": "87d87871001e80d61116221c",
+      "label": "플러그인 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin2",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/b8c16d69c4fcc395f93330c76c5380ac7f5542e04e63fd82805023236f3faa79.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3837,
+      "audio_duration_ms": [
+        3837
+      ]
+    },
+    {
+      "id": "1b756f8cbe0020894f0788e7",
+      "label": "플러그인 2 · 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin2_01",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/2f37cca6ff321e972757ad19561eb81307257308b3bb9408c0692c02bb940476.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1448,
+      "audio_duration_ms": [
+        1448
+      ]
+    },
+    {
+      "id": "39020e9819e8c05fe328b8ee",
+      "label": "플러그인 2 · 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin2_02",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/8d36e3a76fa775fb56f81c2668d33f9642fd4573f1d2a5129e40cd8bddb230a9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2389,
+      "audio_duration_ms": [
+        2389
+      ]
+    },
+    {
+      "id": "e53a7ac24bbb1cff10186674",
+      "label": "플러그인 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin3",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/212deaaf46295c7b073410f4b1de7f7e36eca66edbb02b60b61708b43fc6afc9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2102,
+      "audio_duration_ms": [
+        2102
+      ]
+    },
+    {
+      "id": "893a6da01518a13d28975671",
+      "label": "플러그인 4",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin4",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/1b3b33fc5c3302c5ecf043e97cc6824155b49500030d688f15fc58aeb052abd5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4692,
+      "audio_duration_ms": [
+        4692
+      ]
+    },
+    {
+      "id": "59a7ad988f01aa3d567c83c2",
+      "label": "플러그인 5",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin5",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/d80fe263a54e24bedebad83188eb4f0f4915266a6a1617d303d5267c8dede5da.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "dcdb7bcf86bcbe085bfd931a",
+      "label": "플러그인 6",
+      "label_source": "purpose",
+      "cue": "vo_airen@plugin6",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/88b8f8e1c715c11f8c490aa4788b0e5f05c4f8250b50ab9a621eba6a4b2041e7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2402,
+      "audio_duration_ms": [
+        2402
+      ]
+    },
+    {
+      "id": "05d31a83d44482f27dc3e3b0",
+      "label": "스킬 1 사용 1",
+      "label_source": "table",
+      "cue": "vo_airen@skill1-1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/620b6a3838920450ca3449fb5ee516e94cebac14d7aecfc6553281c2e49e60a6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1835,
+      "audio_duration_ms": [
+        1835
+      ]
+    },
+    {
+      "id": "75e290338f9e4a882e153893",
+      "label": "스킬 1 사용 1",
+      "label_source": "table",
+      "cue": "vo_airen@skill1-1",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/620b6a3838920450ca3449fb5ee516e94cebac14d7aecfc6553281c2e49e60a6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1835,
+      "audio_duration_ms": [
+        1835
+      ]
+    },
+    {
+      "id": "6b2c8f1ffc6a81ba34dd3990",
+      "label": "스킬 성장",
+      "label_source": "purpose",
+      "cue": "vo_airen@skillup",
+      "category": "growth",
+      "playable": true,
+      "audio_urls": [
+        "audio/c97d771537c9191af93c72edff1b0ab019ba4f99653afc861b70fe7249f171b9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3036,
+      "audio_duration_ms": [
+        3036
+      ]
+    },
+    {
+      "id": "98a8c7bbbb7aa547adb0da3f",
+      "label": "사과",
+      "label_source": "purpose",
+      "cue": "JP_vo_airen@sorry",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/567622f862e331887cb50762a2ffe3a247a35af4084abef115266e22f139c74c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4794,
+      "audio_duration_ms": [
+        4795
+      ]
+    },
+    {
+      "id": "941ad1a5b5d7749b13523403",
+      "label": "화남 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@anger01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/354511ec1bf1c9a16caef4a341018f748c082ea0aacb4a00b7dcb8a2eec03912.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "c4d6c1f1dff71fba38b36c25",
+      "label": "화남 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@anger01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/354511ec1bf1c9a16caef4a341018f748c082ea0aacb4a00b7dcb8a2eec03912.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "3c912f3d67598ffa941499c2",
+      "label": "화남 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@anger02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ff66fdcde32af54869a9c6fa3f3dc8c4e733d49bfef90834299d240a88a27040.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1468,
+      "audio_duration_ms": [
+        1468
+      ]
+    },
+    {
+      "id": "0f032f5ed8ede538e235b250",
+      "label": "화남 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@anger02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9349455ff7481dccbe94315cf1ee33bd4a934100b2af4185f83e6e724e0a4f13.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1067,
+      "audio_duration_ms": [
+        1068
+      ]
+    },
+    {
+      "id": "24a19c9e66e7b9a1f6c34093",
+      "label": "화남 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@anger02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/28ef3ad89e9b5cd0a4138393822d6e9cf4463ed357aa33ee56c6f74f92fdd8af.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 934,
+      "audio_duration_ms": [
+        934
+      ]
+    },
+    {
+      "id": "ba04a08fa4c015fdd19f5889",
+      "label": "기쁨 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@happy01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c6f779a5a0d837e8230f369e92588ad7af4784ab6cb342585091a81f8fe45740.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "26adf8fefab122e6b55be96b",
+      "label": "기쁨 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@happy01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/c024dba387d57ae5c17c2bc3594194b4d7c56cc2da715ca5a8ab2898d99617da.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1501,
+      "audio_duration_ms": [
+        1502
+      ]
+    },
+    {
+      "id": "2a00f052f8096f1851f888d7",
+      "label": "기쁨 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@happy01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/d21607ef7538dcfc1a7f000ab8c299c551364617f3ce89e9264d4e09d2fd4308.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1601,
+      "audio_duration_ms": [
+        1602
+      ]
+    },
+    {
+      "id": "8690b385214062666be3ca25",
+      "label": "웃음 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@laugh01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/76570540a6d00e286c43049dc458f4e88d0040775caced6f53f03b0aed9cfadb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "af4cdcfa21d5328c9d580f50",
+      "label": "웃음 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@laugh02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9ca4d0fb284a04aed666c20495f8903940f7ab4571f0a02da031c21accc50dc9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1301,
+      "audio_duration_ms": [
+        1301
+      ]
+    },
+    {
+      "id": "faa5085c72737f0710616eab",
+      "label": "웃음 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@laugh02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/bb9965d29f7edcd42962bc9cb71fb2b7630aff2eb77814550a8bd0ff1951bf58.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 600,
+      "audio_duration_ms": [
+        601
+      ]
+    },
+    {
+      "id": "97be0d3f7ef986ea779ee153",
+      "label": "웃음 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@laugh02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/68ab30d40fb8a2c50dc3a0e029c1a86682d779fe7e947e1dd8e8acb1e584c23a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1001,
+      "audio_duration_ms": [
+        1001
+      ]
+    },
+    {
+      "id": "d3fbaa7cf6986d36151704c3",
+      "label": "부정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@negative01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/490c01eb5fd9c0f5440ab0ca9f027a355a98ef6bf0ab324ddb8385dabfb75185.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 734,
+      "audio_duration_ms": [
+        734
+      ]
+    },
+    {
+      "id": "6a41ea278be906b94169bdec",
+      "label": "부정 반응 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@negative02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/b56c65d69102752ee4bab358e4424f8a689397bfdd7426c8178f3bbf54267b67.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 934,
+      "audio_duration_ms": [
+        934
+      ]
+    },
+    {
+      "id": "0eccc556980eea1893b9febe",
+      "label": "부정 반응 03",
+      "label_source": "purpose",
+      "cue": "vo_airen@negative03",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/5248100ffe657083eff71654f840b9b76683d957963c5476dc30a2b63ba992a2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 700,
+      "audio_duration_ms": [
+        701
+      ]
+    },
+    {
+      "id": "4f3acc1e2f9c42b7936f5aac",
+      "label": "부정 반응 04",
+      "label_source": "purpose",
+      "cue": "vo_airen@negative04",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/2dbabfeefcaada2793acffc79af6dd723de13a6c9c1c4f2e0b26000fbf6c9243.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 700,
+      "audio_duration_ms": [
+        701
+      ]
+    },
+    {
+      "id": "dd413b7c04f804780b74de13",
+      "label": "부정 반응 04 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@negative04_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/54f9333a0a7632b41b8fbcef23779c9bdbd4ed867e877f181d41eb036a845a78.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "20c7c0e1667bb1d142899e02",
+      "label": "부정 반응 04 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@negative04_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ee116c64e366952f04fc8493e9ef75fae205c2607b954595884e1ccc578903ef.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1400,
+      "audio_duration_ms": [
+        1400
+      ]
+    },
+    {
+      "id": "9e1cb465e0a15230c2761f3e",
+      "label": "긍정 반응 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0ccd19f84e3d8b458a08da49013d47660956a30756fa75672780b025fb3859bc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 600,
+      "audio_duration_ms": [
+        601
+      ]
+    },
+    {
+      "id": "3175f2aef692b354123cb833",
+      "label": "긍정 반응 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/10912493c9e03fad3869dfd2413e82383d48e8946378efa6f4a8bd8cfbf34168.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "a2eb85b43c929472c660969d",
+      "label": "긍정 반응 03",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive03",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/8ab949ff484f1b043ec0d5ac2a824243ad174368e211a5e27223ca224f44fa45.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 500,
+      "audio_duration_ms": [
+        501
+      ]
+    },
+    {
+      "id": "d3ee9745cd814561ef91a1e5",
+      "label": "긍정 반응 04",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive04",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/6210c206c672e34b3125ac3f3a6c9945bdbd571e0ae4912a01366e839b88380a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 900,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "6e892e171873fd48cd69542f",
+      "label": "긍정 반응 05",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive05",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/2f200d7fde32125816200995850bdf885e98615b2de4a73d1a8ae434e92518eb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "27696a82191944eb17430944",
+      "label": "긍정 반응 05 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive05_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/b3339b4b5b44b41eab345bd1d5aa879750b05f9c87de94224463bc8ce076c167.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "89a26cfb9ce27294b2540c3d",
+      "label": "긍정 반응 05 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive05_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/11c7a12b61fd4b4563468a1d350ed5e565cfe63aae65c78755bc7e6deac2fd11.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1201,
+      "audio_duration_ms": [
+        1201
+      ]
+    },
+    {
+      "id": "74ed3effb24f3ebacd5d6e08",
+      "label": "질문 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@question01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/e67a602af19192464602f3225ee813be6fa3783a3a361c096a05bd4a18a68486.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 900,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "86d2782c1da7eacedcc46b79",
+      "label": "질문 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@question01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/e67a602af19192464602f3225ee813be6fa3783a3a361c096a05bd4a18a68486.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 900,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "c624bba8b3416efd26ef27be",
+      "label": "질문 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@question02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/08b8e382e657bfe2df98972b7f11945781f374edc6fa1060d3907cbe4432733b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 633,
+      "audio_duration_ms": [
+        634
+      ]
+    },
+    {
+      "id": "0fa333833c77760975dd1144",
+      "label": "질문 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@question02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/7f3eb7411f1b4750ad0a3a0134e8bb3fbbe0c1178d702030a0d597ca02593928.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 934,
+      "audio_duration_ms": [
+        934
+      ]
+    },
+    {
+      "id": "b840a6900ae4b013ceea866a",
+      "label": "질문 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@question02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/1e4393f360753c7d824570d54f8f796bae50ca0ce90ffc348c985488297d49cd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1434,
+      "audio_duration_ms": [
+        1435
+      ]
+    },
+    {
+      "id": "cb3bb37a4e917454582d6904",
+      "label": "슬픔 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@sad01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/544c66a1c5a1a062097f88ad5b883f5de41d2100aad96dfb3b3112743fa0bdc0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 800,
+      "audio_duration_ms": [
+        801
+      ]
+    },
+    {
+      "id": "d8a2ff0ff6164e1b968bf1a4",
+      "label": "슬픔 02",
+      "label_source": "purpose",
+      "cue": "vo_airen@sad02",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ad3bfc09a191dc30313f78dc1156421c415afe9427a3d204af5cb44543be5d23.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 900,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "606239d2273c56ddbe1c1b76",
+      "label": "슬픔 02 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@sad02_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/91fa1a63ab0c2712f4eb9230c4fcf838bd7ff24595e12cb9b115e5527a1d261d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1500,
+      "audio_duration_ms": [
+        1500
+      ]
+    },
+    {
+      "id": "01adeb6c27b2592490cbf904",
+      "label": "슬픔 02 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@sad02_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/bce636090cdfe12f68f66d9fdb80f3341d72ca4377fa62ef01648c8a176d23ae.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1109,
+      "audio_duration_ms": [
+        1110
+      ]
+    },
+    {
+      "id": "c991570dfa06e24464fd1d6a",
+      "label": "부끄러움 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@shame01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/4c1b922cb0247d1a0b3b5bf06bcca7ba125be82ca7564039f104ef8a0fafedd9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "d296ee157e123ba02fee61ce",
+      "label": "부끄러움 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@shame01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/e6fe5724244014051031fa76677adfe066963c4bc6bfd86fcd6a6890238685c2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2035,
+      "audio_duration_ms": [
+        2035
+      ]
+    },
+    {
+      "id": "90aff566f142a892c628a776",
+      "label": "부끄러움 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@shame01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0ef02dc6b2d0cd97f91eeed3f898c6f39d4b5691154e189ef3cebef74806385a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "dd8cb51cbe15f093b4b95989",
+      "label": "사과",
+      "label_source": "purpose",
+      "cue": "vo_airen@sorry",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/959c2bc86471d878352a726cf5f83b28e4197cec4713b5f6dc1161790bfae37a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5138,
+      "audio_duration_ms": [
+        5138
+      ]
+    },
+    {
+      "id": "739c5cbcf4163d99a593b5d8",
+      "label": "놀람 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@surprise01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/918f5ac6fa561f96c88646f02bfcb88f1b74d1f85b909ccdff0d28a2eff999dd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "7da3ba8458a8659f8a0edaec",
+      "label": "놀람 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@surprise01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/67a6d2c6b9cfa6c5c1687df6197a2c9496f9d0d87d3052d2af3a1ebb8d5ad3c6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 734,
+      "audio_duration_ms": [
+        734
+      ]
+    },
+    {
+      "id": "c5c5a6e51b486dd1a888a074",
+      "label": "놀람 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@surprise01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/ae6ae0e372b0a2abeff04dbb0eed3fccec7ff79aa7cf64f51f5b75733497a72d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1868,
+      "audio_duration_ms": [
+        1869
+      ]
+    },
+    {
+      "id": "6043c52e1ec82720be7dea7e",
+      "label": "감사 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@thanks01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/3bd6fe5d81d5f1f9b957d65aed44093f586bbf6fab5bd46d11812049c1b4acfe.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1334,
+      "audio_duration_ms": [
+        1335
+      ]
+    },
+    {
+      "id": "1f47cc1fdc62a8d70124a533",
+      "label": "생각 01",
+      "label_source": "purpose",
+      "cue": "vo_airen@think01",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/9a83d396b0b2f938916f61c56b7854c51326ab9e9934c2406696a789b65d2c10.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "3ca589dae3a516dc72c79524",
+      "label": "생각 01 · 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@think01_2",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/524ed8d546df847ba71ec462c55a49b0c8214954e2acbc2579076a5287034e16.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1835,
+      "audio_duration_ms": [
+        1835
+      ]
+    },
+    {
+      "id": "4a5fb9cac12955f0849e3732",
+      "label": "생각 01 · 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@think01_3",
+      "category": "emotion",
+      "playable": true,
+      "audio_urls": [
+        "audio/0b2fb081bf1d84c8fd530d0eb9fef65b8fa061a4873805916896a774e220af92.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1534,
+      "audio_duration_ms": [
+        1535
+      ]
+    },
+    {
+      "id": "4c0bf6a05e5c21ddb6dc8cec",
+      "label": "기타 보이스 · JP_Chapter1.5_2_001",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_001",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/33f50cc13974e69ad3353d0f8bb3ed6cb3bf5cc8c375133c70bb4828d6abee00.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1121,
+      "audio_duration_ms": [
+        1121
+      ]
+    },
+    {
+      "id": "975442e283f61c7650574a71",
+      "label": "기타 보이스 · JP_Chapter1.5_2_002",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_002",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/613ea40a2e7ca4167c35fdc568fc60ab2c576adb23cd74245377e20b918bfd0d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2657,
+      "audio_duration_ms": [
+        2658
+      ]
+    },
+    {
+      "id": "b01c70793918fb474e180de0",
+      "label": "기타 보이스 · JP_Chapter1.5_2_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7f7805141cc3fee4e647772811d42dcee7499fe5889e7223b31d35c85f35b15a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4987,
+      "audio_duration_ms": [
+        4987
+      ]
+    },
+    {
+      "id": "b137287b2701ebdcad58988d",
+      "label": "기타 보이스 · JP_Chapter1.5_2_020",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_020",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6d57c781a10140a71ce68486613952451bc199a984ab37cf14883a4eb823ffcb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3559,
+      "audio_duration_ms": [
+        3560
+      ]
+    },
+    {
+      "id": "81f743d4f2a96f777edda0b9",
+      "label": "기타 보이스 · JP_Chapter1.5_2_028",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_028",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8104d8f9a8476a21c9aa01361181016c1781773302e29bbfbfaa51fda5dd050b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3900,
+      "audio_duration_ms": [
+        3900
+      ]
+    },
+    {
+      "id": "1ec39047bc3f9206e2490ea5",
+      "label": "기타 보이스 · JP_Chapter1.5_2_029",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_029",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ec6ce33de61ddda35c274e880f648216868409c685ba103f857ccf096b003f9f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4769,
+      "audio_duration_ms": [
+        4769
+      ]
+    },
+    {
+      "id": "e2559f5e4e4ed1a31b11adf3",
+      "label": "기타 보이스 · JP_Chapter1.5_2_030",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_030",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/4da5ef39d170784a853a5d295850d0da2c0b3f403d1deceace82c6d4ff783626.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5969,
+      "audio_duration_ms": [
+        5969
+      ]
+    },
+    {
+      "id": "5132c18cc554ce8c3957e868",
+      "label": "기타 보이스 · JP_Chapter1.5_2_033",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_033",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/bea367a2fa98659aa1d95ebdf4446d4c1c82bd988061171ebeb4750d35d9db74.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2600,
+      "audio_duration_ms": [
+        2600
+      ]
+    },
+    {
+      "id": "d6d04b0784125342a0e285a6",
+      "label": "기타 보이스 · JP_Chapter1.5_2_036",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_036",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/26a6b734b8525f29d11cc7a836477d16920c0986740df9e4b2855e5b3d282ee6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2675,
+      "audio_duration_ms": [
+        2675
+      ]
+    },
+    {
+      "id": "c93083b320726eeca99db293",
+      "label": "기타 보이스 · JP_Chapter1.5_2_037",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_037",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7da9b04bed6961bb024efe16348da3fce20f0c77a2ee654061f25ace49605afa.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2569,
+      "audio_duration_ms": [
+        2569
+      ]
+    },
+    {
+      "id": "132e122df80c120505671a07",
+      "label": "기타 보이스 · JP_Chapter1.5_2_038",
+      "label_source": "cue",
+      "cue": "JP_Chapter1.5_2_038",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/4a828b0cbb527fdbacc6afe95f1d30f04d999d1f677daded3d102c6591ddab5f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3803,
+      "audio_duration_ms": [
+        3804
+      ]
+    },
+    {
+      "id": "86131b448262087bf910362f",
+      "label": "기타 보이스 · JP_Chapter1_10_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_10_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8017c286e75fab5239669321236f0ab4a43273f4b32a96873c4b0c379a6e674a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2186,
+      "audio_duration_ms": [
+        2186
+      ]
+    },
+    {
+      "id": "1668806962f884c26f3ae4b3",
+      "label": "기타 보이스 · JP_Chapter1_10_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_10_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/4c4dd2f2b7d6af4d2f65108f178bc4626493034228c0defdd263499c69b908f1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1800,
+      "audio_duration_ms": [
+        1800
+      ]
+    },
+    {
+      "id": "42f68358699ce5860ea9d51e",
+      "label": "기타 보이스 · JP_Chapter1_10_024",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_10_024",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/dccb42900de6d37284309aa7a46f53c27a531430c53c0b3df77673a173adedce.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1446,
+      "audio_duration_ms": [
+        1447
+      ]
+    },
+    {
+      "id": "af56b70dfceba9ff8d653f29",
+      "label": "기타 보이스 · JP_Chapter1_11_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_11_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/efa32bc7ed4153d3738fc6868075d1ab0f828c4658f28a67decbb92d72c2a11a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3001,
+      "audio_duration_ms": [
+        3002
+      ]
+    },
+    {
+      "id": "e19df9a117f946e75526ea91",
+      "label": "기타 보이스 · JP_Chapter1_11_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_11_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/899feabfb58ec1e85f7e6d13d98f550f35ed18cb7b974adedc3c629f8750cf42.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6053,
+      "audio_duration_ms": [
+        6054
+      ]
+    },
+    {
+      "id": "c47034cce6aa0375e4955ca8",
+      "label": "기타 보이스 · JP_Chapter1_11_012",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_11_012",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/48d090bee1f2dbdfe4984d84147fedfd1e0c568494cf321af448fec4cbd27dbc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1781,
+      "audio_duration_ms": [
+        1782
+      ]
+    },
+    {
+      "id": "e43ce2dbd61b05b3e36ea36e",
+      "label": "기타 보이스 · JP_Chapter1_12_001",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_001",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/2c97a6054b9573fbe9547798a8f4c3099de80f1e494a6cdaa7efcfa167f9d456.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1550,
+      "audio_duration_ms": [
+        1550
+      ]
+    },
+    {
+      "id": "77b21e745088840f1a2d0d3c",
+      "label": "기타 보이스 · JP_Chapter1_12_002",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_002",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b8297bbac5120f8ef62f8818da0e6d05d3f338d7278562b5c2f7c9a7ef6e5268.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3713,
+      "audio_duration_ms": [
+        3714
+      ]
+    },
+    {
+      "id": "3de6decf76e55991627ab163",
+      "label": "기타 보이스 · JP_Chapter1_12_003",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_003",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b06a7f5570c5278650df2b282e8b9458682345adb3a20c1964586ceabede136b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5286,
+      "audio_duration_ms": [
+        5286
+      ]
+    },
+    {
+      "id": "ddf6d0666a5a35d82ef66ce5",
+      "label": "기타 보이스 · JP_Chapter1_12_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ebb6fe04f1d100537a14d4eee7afd73bc3cb01de4e2e811d088682f5795f38c2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6443,
+      "audio_duration_ms": [
+        6443
+      ]
+    },
+    {
+      "id": "41db979553e5d7e629c37eae",
+      "label": "기타 보이스 · JP_Chapter1_12_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/41707cfdc8fed197defbf1358870a0ea11eb97f5158ce8d69785579b5d23e2b7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 8580,
+      "audio_duration_ms": [
+        8581
+      ]
+    },
+    {
+      "id": "5bec9eaf8b93a1c5aff0825f",
+      "label": "기타 보이스 · JP_Chapter1_12_008",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_008",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9ec9f3819f8dbcd39ce2cd744514a338ef59e6b82128a34b6d105b578ebca482.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2325,
+      "audio_duration_ms": [
+        2325
+      ]
+    },
+    {
+      "id": "59bb8a8ac8b4a5549b74afbe",
+      "label": "기타 보이스 · JP_Chapter1_12_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/dadcd7af29f519a9d9eb9def1c25e62cbeb551f2e91a97108194019e55ed038d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3117,
+      "audio_duration_ms": [
+        3118
+      ]
+    },
+    {
+      "id": "3553910be1fe91281038cc22",
+      "label": "기타 보이스 · JP_Chapter1_12_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/5e502359cb9bce66f8ce5c95866a982e544914bf630c00acca01de8028ad7d68.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4005,
+      "audio_duration_ms": [
+        4005
+      ]
+    },
+    {
+      "id": "78141d67d9ccf62b9daf9f70",
+      "label": "기타 보이스 · JP_Chapter1_12_017",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_017",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/61c7c8c1a2499f85660f456e7c99acf23309df9a62da419d8c7c537008cb9cbd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2920,
+      "audio_duration_ms": [
+        2921
+      ]
+    },
+    {
+      "id": "ea2a7f1768eb2967c1fb2892",
+      "label": "기타 보이스 · JP_Chapter1_12_020",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_020",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/c1b55f9f8a0377f6884b570fb55fed9db822651eb3d5b95129666a46079c9fd8.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4688,
+      "audio_duration_ms": [
+        4688
+      ]
+    },
+    {
+      "id": "ec3c5a75e906fdc6dff04795",
+      "label": "기타 보이스 · JP_Chapter1_12_024",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_12_024",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/102b45aea725b6895601124f6df08c73043c23006a10de2aa479104c6fd90bf0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3732,
+      "audio_duration_ms": [
+        3732
+      ]
+    },
+    {
+      "id": "2e2c81fa80dfc6f6db07748d",
+      "label": "기타 보이스 · JP_Chapter1_14_001",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_14_001",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b69065e55de3289c29423636e14634dce22d010a288910717e9e38f41a9dde3d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3255,
+      "audio_duration_ms": [
+        3256
+      ]
+    },
+    {
+      "id": "feeb606e1b12911ba305e9fc",
+      "label": "기타 보이스 · JP_Chapter1_14_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_14_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9390db34aaa81057fb27a52bdc4cf0812c8c2e739c1e6dca93dfccc88fe1eb11.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5350,
+      "audio_duration_ms": [
+        5350
+      ]
+    },
+    {
+      "id": "1c37803bc4055b7f6e99f890",
+      "label": "기타 보이스 · JP_Chapter1_14_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_14_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9db933f22439360b60533e0c070705b1e1feccc38fd7f630db4e4489195fe51f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3502,
+      "audio_duration_ms": [
+        3503
+      ]
+    },
+    {
+      "id": "d48d24d9b149f14ce0aa6f8f",
+      "label": "기타 보이스 · JP_Chapter1_14_008",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_14_008",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e4d2abd8e2ff84519a5afc4b155c24195e5ecaf31773302c83b51dc553dadf9b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4236,
+      "audio_duration_ms": [
+        4236
+      ]
+    },
+    {
+      "id": "dbab821f2429c3e1219dad53",
+      "label": "기타 보이스 · JP_Chapter1_14_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_14_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/51061d155ef8c8e87bed80b9abc53fb780a37c4283c7f740d54bcc8c23f60c51.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2863,
+      "audio_duration_ms": [
+        2864
+      ]
+    },
+    {
+      "id": "fa09b645ef13f75df67349f5",
+      "label": "기타 보이스 · JP_Chapter1_14_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_14_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/2381b273a23aaf31acf10be648b8a57121aea82647dc73ba5d59b4be67836c3d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2652,
+      "audio_duration_ms": [
+        2652
+      ]
+    },
+    {
+      "id": "9aa0cb678af9cf4baeb86324",
+      "label": "기타 보이스 · JP_Chapter1_15_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_15_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/758a6674bd20032c2721bd96d1709542aeaedae2d60b5d12352a3e994b9f597c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3744,
+      "audio_duration_ms": [
+        3745
+      ]
+    },
+    {
+      "id": "8de81caa8e4e6cb79bb5f7ab",
+      "label": "기타 보이스 · JP_Chapter1_15_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_15_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ce523a2ab5aa5ac089da84061a80085cbbc0884b0e9b2e546ba9b1697fe8c08b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2148,
+      "audio_duration_ms": [
+        2148
+      ]
+    },
+    {
+      "id": "214ecfb87ee5a7d81c62ee45",
+      "label": "기타 보이스 · JP_Chapter1_16_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/5943ff6a7be29b58e6dde03f308c003aea38c5f6625c3ac1b920466b9bf8de11.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6375,
+      "audio_duration_ms": [
+        6376
+      ]
+    },
+    {
+      "id": "36e7f783d92fdb90f4209002",
+      "label": "기타 보이스 · JP_Chapter1_16_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0190083000bfb66a2f316667480f185d48f411159a06d8d851a4d8cec02abc79.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 896,
+      "audio_duration_ms": [
+        897
+      ]
+    },
+    {
+      "id": "1862084f1b17866cfe6a3de0",
+      "label": "기타 보이스 · JP_Chapter1_16_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/5069b1ffefcea622620b110a791815d5177e025bf1a75911b66fb6f8c0940c24.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5922,
+      "audio_duration_ms": [
+        5923
+      ]
+    },
+    {
+      "id": "4b48c1088308e7d079bbda28",
+      "label": "기타 보이스 · JP_Chapter1_16_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/a3dec2ac6b633ee369ee13c51a7bac471b0d860a157a3b385d1c9a7543a0897e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4071,
+      "audio_duration_ms": [
+        4072
+      ]
+    },
+    {
+      "id": "683ee0f2c774aea9a8dd1b66",
+      "label": "기타 보이스 · JP_Chapter1_16_013",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_013",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3a48bb262fbda5ddd897ca2aaffb6e0daddd14ac5ca6a4f830d2768b8d5dc37a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2235,
+      "audio_duration_ms": [
+        2236
+      ]
+    },
+    {
+      "id": "a5065d19c2c19de8299b5bf1",
+      "label": "기타 보이스 · JP_Chapter1_16_015",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_015",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9fc3e2012b30ab05d2ff06b0c501ad5ffee37910c43ad5a02fddd710056aed22.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 425,
+      "audio_duration_ms": [
+        425
+      ]
+    },
+    {
+      "id": "a3c47968bcd2c9a1ccfed9bd",
+      "label": "기타 보이스 · JP_Chapter1_16_016",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_16_016",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/2172b478e971329402ef755b7cd2aebd4ec660d2e90940db46811a33b8f5d6bd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 589,
+      "audio_duration_ms": [
+        589
+      ]
+    },
+    {
+      "id": "9d95f8c36291dead0a241002",
+      "label": "기타 보이스 · JP_Chapter1_17_002",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_17_002",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7a533f615b33fd8abcffefda0bb0d2c7c4e6d8aa6245dde80f4ea4644ad85775.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2614,
+      "audio_duration_ms": [
+        2615
+      ]
+    },
+    {
+      "id": "e9ed130ba2b152902a4589bb",
+      "label": "기타 보이스 · JP_Chapter1_17_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_17_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6f704dd867cca69d3b1b00aef7b83e1e1fd811291c2f72b6b5a874e077b0ab07.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1807,
+      "audio_duration_ms": [
+        1807
+      ]
+    },
+    {
+      "id": "a7a28ca43e37b9a953287629",
+      "label": "기타 보이스 · JP_Chapter1_18_012",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_18_012",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/961b81a412a179419c85f8bd29825dde67e938630b706bb5ac20273e228f0c0f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3137,
+      "audio_duration_ms": [
+        3138
+      ]
+    },
+    {
+      "id": "7d81d84a2c4eaecd6e62d88c",
+      "label": "기타 보이스 · JP_Chapter1_19_003",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_19_003",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d77669275f528fb0147353f33061d34bca4c97c3c59479745949485fc9160b65.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2673,
+      "audio_duration_ms": [
+        2673
+      ]
+    },
+    {
+      "id": "32444039cc9d26664601bb1b",
+      "label": "기타 보이스 · JP_Chapter1_19_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_19_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/26cb0f220a0e5f2d9e987a7b15e12576211c1fef01a021f6a50bb85502688717.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4111,
+      "audio_duration_ms": [
+        4112
+      ]
+    },
+    {
+      "id": "f8801a097c89b9b67d7a9f77",
+      "label": "기타 보이스 · JP_Chapter1_19_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_19_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7c07bd6b4986e962ffaeb309318ef30f8d6004d6a8218b035a92a8ba131cec89.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3283,
+      "audio_duration_ms": [
+        3284
+      ]
+    },
+    {
+      "id": "daeb96236988ccd91e053228",
+      "label": "기타 보이스 · JP_Chapter1_19_013",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_19_013",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ca752a8495971afd7f80c19057d9d5f763db97e16d437af6ba212af19428af12.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3043,
+      "audio_duration_ms": [
+        3043
+      ]
+    },
+    {
+      "id": "dc9d450e3c27dbf3e5a6306c",
+      "label": "기타 보이스 · JP_Chapter1_19_017",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_19_017",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/30375514dcbc3e223024e0a6d0311ca601404e828427d81e4f7f32654e4a3c54.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3258,
+      "audio_duration_ms": [
+        3258
+      ]
+    },
+    {
+      "id": "1c589810bd3dc91fe7f5a2fc",
+      "label": "기타 보이스 · JP_Chapter1_19_018",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_19_018",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9c2872b4dcad908e9d3206059cf6f9f4a4401408b9243b89ebffd4cdee78dab6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5773,
+      "audio_duration_ms": [
+        5773
+      ]
+    },
+    {
+      "id": "db223c999dbc3edb5ffca669",
+      "label": "기타 보이스 · JP_Chapter1_1_060",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_060",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9f0bea57df1e2a9bf7eedf440c3506e1d2bbfa99563f582e5dac54faadbecabd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5915,
+      "audio_duration_ms": [
+        5915
+      ]
+    },
+    {
+      "id": "9abe5b66d8493dd23d8725ea",
+      "label": "기타 보이스 · JP_Chapter1_1_061",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_061",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f7baf148617508b2bd52614382f3e58a6ac1edf725459195e95137cfae030fb5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3644,
+      "audio_duration_ms": [
+        3645
+      ]
+    },
+    {
+      "id": "603b273a1546ebd2009762d2",
+      "label": "기타 보이스 · JP_Chapter1_1_062",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_062",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/bb8d1e73aad5fa1ef8758f92751cf5e526248bc093141741b187f162d491ec1d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6088,
+      "audio_duration_ms": [
+        6089
+      ]
+    },
+    {
+      "id": "aa6bc4d642d359fe5facb2e8",
+      "label": "기타 보이스 · JP_Chapter1_1_065",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_065",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/58d40166f2538ccc3b0fd0bbec0a363f56b5e8573aa1c2facfd2aac5f703ebca.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1003,
+      "audio_duration_ms": [
+        1003
+      ]
+    },
+    {
+      "id": "6daba95b31450bc38959c82a",
+      "label": "기타 보이스 · JP_Chapter1_1_069",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_069",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/22ba0ec83b986d91d80305a401c4beb90020bf58f69edee8b851a71404f48ec2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 808,
+      "audio_duration_ms": [
+        808
+      ]
+    },
+    {
+      "id": "07e6a63b8e3158888b55594a",
+      "label": "기타 보이스 · JP_Chapter1_1_070",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_070",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/be6e01a9fc96cc240e5381e8768294e116a5ce48c2c815fc7ad872cef52ff9b6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 874,
+      "audio_duration_ms": [
+        874
+      ]
+    },
+    {
+      "id": "440392bb5d3e460ca499e8b0",
+      "label": "기타 보이스 · JP_Chapter1_1_071",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_071",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b91f0e1bf9320f8216300ff5fa5b9de9268bed25dfb4f3595614aa1372c7b3fa.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1999,
+      "audio_duration_ms": [
+        2000
+      ]
+    },
+    {
+      "id": "416ec1be09989f0a0c8a5ee1",
+      "label": "기타 보이스 · JP_Chapter1_1_073",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_073",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/bab5b4af0af1e3cb7538b7dc271d8613dca01c5c90cb8cff14131b9eff0b0405.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4711,
+      "audio_duration_ms": [
+        4711
+      ]
+    },
+    {
+      "id": "c00b5235f671a24688b0d67e",
+      "label": "기타 보이스 · JP_Chapter1_1_076",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_076",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/607d7e79e986f55411bc5553fe947c9bb5d54ba905bd651b8e9ccbd5266f5e75.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3353,
+      "audio_duration_ms": [
+        3354
+      ]
+    },
+    {
+      "id": "7a7e2a307f296fa0e2e7a00d",
+      "label": "기타 보이스 · JP_Chapter1_1_092",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_092",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/cabefe26cead675acc0eef9c4db3c24cc38510fefd23ec4f346391d814d147fd.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 805,
+      "audio_duration_ms": [
+        805
+      ]
+    },
+    {
+      "id": "7e92568a8c6ae0f26ddebc11",
+      "label": "기타 보이스 · JP_Chapter1_1_094",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_094",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/cec736ee762170114a78e5a45d065148b83976a3f0d1bfb81fc9c43ab5ee9cf0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2544,
+      "audio_duration_ms": [
+        2545
+      ]
+    },
+    {
+      "id": "42812bf8d1c9963c7cf09bb9",
+      "label": "기타 보이스 · JP_Chapter1_1_096_n1",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_096_n1",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8cbc422458c6c1189bf5c4ae25313e1dbaf321b9281c3812f4b85813eec768d6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3643,
+      "audio_duration_ms": [
+        3644
+      ]
+    },
+    {
+      "id": "c7ce27c92c0fc96c8088c5ab",
+      "label": "기타 보이스 · JP_Chapter1_1_096_n2",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_096_n2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7232893fec2cc5351af97d2134595d9e08992168c3c83dc85af9da2089a79398.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1061,
+      "audio_duration_ms": [
+        1062
+      ]
+    },
+    {
+      "id": "14cca7967698496fe5c0166a",
+      "label": "기타 보이스 · JP_Chapter1_1_097",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_097",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/276e0a69a3f24f13ca3b3cb97b827ef033c4e1aed6c8e3c7c7bd52e6950e9289.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4909,
+      "audio_duration_ms": [
+        4910
+      ]
+    },
+    {
+      "id": "e759ebef6289cb9e7f61603e",
+      "label": "기타 보이스 · JP_Chapter1_1_098",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_098",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f296a1186892fb13cc8ce33e8fb38656f77341678b2936a17b6b6fdf29bb7b4a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1430,
+      "audio_duration_ms": [
+        1431
+      ]
+    },
+    {
+      "id": "8dd195cf2a10e9e86d21cb20",
+      "label": "기타 보이스 · JP_Chapter1_1_099",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_099",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/66cd76d6fab9237943dcf256c03c3b94227e45847c2b5978e7f2ec003aafc489.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6249,
+      "audio_duration_ms": [
+        6249
+      ]
+    },
+    {
+      "id": "cfb56f16bc04ed8f89d6978b",
+      "label": "기타 보이스 · JP_Chapter1_1_100",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_100",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ded76efc2a506bf1990e9b559809c1d50c1e56df5a738b3847aa4ed2107b70ba.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6733,
+      "audio_duration_ms": [
+        6734
+      ]
+    },
+    {
+      "id": "d607553cd4dec6989f79f489",
+      "label": "기타 보이스 · JP_Chapter1_1_101",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_101",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/20076a5ec44875a214922129cf9166273675d761a0cf7330d1fdab5647db66b4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5281,
+      "audio_duration_ms": [
+        5282
+      ]
+    },
+    {
+      "id": "02a14786a2c220173972d5f1",
+      "label": "기타 보이스 · JP_Chapter1_1_102",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_102",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/228e9c39d700abab29ae1a88622ab920666643b3d902ba4c4937219810964206.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7585,
+      "audio_duration_ms": [
+        7586
+      ]
+    },
+    {
+      "id": "5462f72cf9ed929888148429",
+      "label": "기타 보이스 · JP_Chapter1_1_106",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_106",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ab846df93cf3eff187884102ea22e8e1c63e6c0d42b9fa373ea178060653118b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2006,
+      "audio_duration_ms": [
+        2006
+      ]
+    },
+    {
+      "id": "82968345d1ea4d7ea3288c46",
+      "label": "기타 보이스 · JP_Chapter1_1_107",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_1_107",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b6c601b28d3f84b7f425ac52263b8dc386b3db16fc673950c96069f76963cd93.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1245,
+      "audio_duration_ms": [
+        1245
+      ]
+    },
+    {
+      "id": "2eb7065ed35248d772b053c2",
+      "label": "기타 보이스 · JP_Chapter1_20_001",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_20_001",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/affc9a7b1dfde42c8bd05f16c79e42ee439f3255eb39c40aa02ef209587ae46f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2053,
+      "audio_duration_ms": [
+        2053
+      ]
+    },
+    {
+      "id": "a80fad68284fe4faaa21ce99",
+      "label": "기타 보이스 · JP_Chapter1_20_002_n1",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_20_002_n1",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/cc640d9a860def296a95894cf53d319b17296140f1179be32ed48998e8bd4fee.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2151,
+      "audio_duration_ms": [
+        2152
+      ]
+    },
+    {
+      "id": "b7f3a92801d0db880a950108",
+      "label": "기타 보이스 · JP_Chapter1_20_002_n2",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_20_002_n2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/5e724eeb6bcbc9d0f75adf6cc671339d8481ad5fb5790b1579d27671124a7428.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1638,
+      "audio_duration_ms": [
+        1639
+      ]
+    },
+    {
+      "id": "ce071ce0f6cedceeb3331808",
+      "label": "기타 보이스 · JP_Chapter1_20_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_20_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/80fd08813b29735861c266b04be3c0c38ab9b9a331cf7ed881383e8327b06fb6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2921,
+      "audio_duration_ms": [
+        2921
+      ]
+    },
+    {
+      "id": "3d44a22414ea0f65e4d30b8b",
+      "label": "기타 보이스 · JP_Chapter1_20_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_20_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/c9ebe061f54ad0ae5c5d2df195d38be9f34dc4b4862169e86daf73b3b51724ee.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2407,
+      "audio_duration_ms": [
+        2407
+      ]
+    },
+    {
+      "id": "8cef5b5d24c699a537ab4cca",
+      "label": "기타 보이스 · JP_Chapter1_20_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_20_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6c3d41d035e45d2d9283fc0427a06821fc147183cba2132e0bef094f956c99fa.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4745,
+      "audio_duration_ms": [
+        4746
+      ]
+    },
+    {
+      "id": "5affb5dc5e6f87c296b6c2c3",
+      "label": "기타 보이스 · JP_Chapter1_21_002",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_002",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8109850268d57c3db59dc94c98f450efe1cc649d1e88aeeada3367279babc336.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4639,
+      "audio_duration_ms": [
+        4639
+      ]
+    },
+    {
+      "id": "5a2e49461fded0cb9b627c67",
+      "label": "기타 보이스 · JP_Chapter1_21_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0ab736d072c4d23ea9773d91c54cce9326dd362ea8de41f0fa5112dcd4f17058.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 753,
+      "audio_duration_ms": [
+        754
+      ]
+    },
+    {
+      "id": "d7c2d18f650f548a6da5ec53",
+      "label": "기타 보이스 · JP_Chapter1_21_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0d446bd54ed602c4a5e8faeebae9bec466c866b50c24f5acbe1279130d1de2d2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3546,
+      "audio_duration_ms": [
+        3547
+      ]
+    },
+    {
+      "id": "ae64524cad195f76fa849d54",
+      "label": "기타 보이스 · JP_Chapter1_21_016",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_016",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f18bef94aa90478f8c7d50cf739762d1e3922a284962dbe42893d5e03d1fd58d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5173,
+      "audio_duration_ms": [
+        5173
+      ]
+    },
+    {
+      "id": "e041450347a9334a68107efe",
+      "label": "기타 보이스 · JP_Chapter1_21_017",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_017",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/72a9b5d4a067789a966c9ac4c98201bc713f0436e191e492f39491dfa33ddacc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5296,
+      "audio_duration_ms": [
+        5297
+      ]
+    },
+    {
+      "id": "15457010f6b301b2df542c1d",
+      "label": "기타 보이스 · JP_Chapter1_21_018",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_018",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1cd4d4e3175d7d1fd1322afc975c69a2e134c2fa54668e7edd3c4e87084e2d52.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7717,
+      "audio_duration_ms": [
+        7718
+      ]
+    },
+    {
+      "id": "8baa24c11dee971dd1921706",
+      "label": "기타 보이스 · JP_Chapter1_21_019",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_019",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/a04e2682478e95c5ae3a0a3d420163805bd77272706a1e1cfbd43f06838e027b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4859,
+      "audio_duration_ms": [
+        4860
+      ]
+    },
+    {
+      "id": "ca41ade99c1231f6748b5918",
+      "label": "기타 보이스 · JP_Chapter1_21_020",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_020",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e9f53e1d87cb43791819f7a4263fb33c7f9793d43fb3bbc2eccb1cbd66bd1d29.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4326,
+      "audio_duration_ms": [
+        4327
+      ]
+    },
+    {
+      "id": "bdb8048246b2073ebf1c5437",
+      "label": "기타 보이스 · JP_Chapter1_21_038",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_038",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ee246aefe2aa19beb8e31e5a97a8b0d204fb38507ea16ad1c9daecaea9b55e69.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2452,
+      "audio_duration_ms": [
+        2453
+      ]
+    },
+    {
+      "id": "ef5e7c32c472443b229d9e7d",
+      "label": "기타 보이스 · JP_Chapter1_21_039",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_039",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/aa1d957ac7834fadb457d3468a2b8f819b7edf7794dcf42a16389556ffd1d0a2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7518,
+      "audio_duration_ms": [
+        7519
+      ]
+    },
+    {
+      "id": "1dd68e86dc982f4cd76175a0",
+      "label": "기타 보이스 · JP_Chapter1_21_040",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_040",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/bbdbf63cd8e2aa12bea9c64bd0670ce4b17be0176b8152e36e64264ef6c46269.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5227,
+      "audio_duration_ms": [
+        5227
+      ]
+    },
+    {
+      "id": "ff58151c0e45a3b9353002d5",
+      "label": "기타 보이스 · JP_Chapter1_21_041",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_041",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9ad1f047fdc940c3fc6aa7f69fd5a3b465b11032d9ec68c625b29f25ae780f42.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5092,
+      "audio_duration_ms": [
+        5093
+      ]
+    },
+    {
+      "id": "8e83360b3cc6302be00feff8",
+      "label": "기타 보이스 · JP_Chapter1_21_042",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_042",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0924ee314e90e57483bf047f49d89f7d73fa7288725a965f360aabbfb94b6e16.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1260,
+      "audio_duration_ms": [
+        1260
+      ]
+    },
+    {
+      "id": "546ca85898a252d958b38286",
+      "label": "기타 보이스 · JP_Chapter1_21_043",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_21_043",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/4fca531a651de70bc14fc9d589440f6fb0c53694b93a146eeb526a936f3fb19c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7012,
+      "audio_duration_ms": [
+        7012
+      ]
+    },
+    {
+      "id": "29aa66b5db7508b801bd32a5",
+      "label": "기타 보이스 · JP_Chapter1_22_023",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_023",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/050245c563897ae89bcb4ca12b5c6f343615353155d8c2eb10ae7c4978d6265c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2291,
+      "audio_duration_ms": [
+        2292
+      ]
+    },
+    {
+      "id": "9c4e93e8c44cccfd9daf8d9f",
+      "label": "기타 보이스 · JP_Chapter1_22_024",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_024",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9584dfa8f9a95c6aac75f7a886d6c1a61db0a5e8fe72a2237406deb121417f6b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4063,
+      "audio_duration_ms": [
+        4063
+      ]
+    },
+    {
+      "id": "13e9e4bb49aaefda2164462b",
+      "label": "기타 보이스 · JP_Chapter1_22_025",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_025",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9c8e5cb1feaa5f35edbdfe6a66be9acf512717ec1e2ed1fa7cb24a45ee79ecb9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4014,
+      "audio_duration_ms": [
+        4014
+      ]
+    },
+    {
+      "id": "1ba0cf1c95ffd2589856b219",
+      "label": "기타 보이스 · JP_Chapter1_22_029",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_029",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/39d7e331a37e31f912e714203ccce3d4f3c9c35a15a906ebfbcb89827f690773.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3865,
+      "audio_duration_ms": [
+        3866
+      ]
+    },
+    {
+      "id": "0ef58ecac56d9e7687dbd829",
+      "label": "기타 보이스 · JP_Chapter1_22_032",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_032",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ecc3be94e28001f73b28d85832fd270aeef68d3c726c90951c27dcfec5b4dc47.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1153,
+      "audio_duration_ms": [
+        1154
+      ]
+    },
+    {
+      "id": "b81ef889c95eb943adb9dfd2",
+      "label": "기타 보이스 · JP_Chapter1_22_033",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_033",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/de72e55af1a580ebd1bf472c1706a5c3c4d8052a7198937f4424083079de47d9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3265,
+      "audio_duration_ms": [
+        3266
+      ]
+    },
+    {
+      "id": "7edf911776eab40f539c28f0",
+      "label": "기타 보이스 · JP_Chapter1_22_034",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_034",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f130eeac6d3f96b462c0c9d99906c11b4498da51b03c3c03292168c1018631ab.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6649,
+      "audio_duration_ms": [
+        6650
+      ]
+    },
+    {
+      "id": "48bdb69de1fa1e1cfdf1d25c",
+      "label": "기타 보이스 · JP_Chapter1_22_035",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_035",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/a7d45c3db96c154c58802bc3a9fef3cdde7f8492efbe34928da2e108e41a1f3b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3531,
+      "audio_duration_ms": [
+        3532
+      ]
+    },
+    {
+      "id": "40c143f56c972da9904447fb",
+      "label": "기타 보이스 · JP_Chapter1_22_036",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_036",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9c2c32093524d5d3482874170fb58245380299007954d3541f33e11d6c710e9b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1266,
+      "audio_duration_ms": [
+        1266
+      ]
+    },
+    {
+      "id": "68b6548cfbffa7d07fec6d1c",
+      "label": "기타 보이스 · JP_Chapter1_22_037",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_037",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d6440e1d4ad66e0d46ffa3e5c3a72fffbcc51699947544d72f621e04e5583427.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1218,
+      "audio_duration_ms": [
+        1218
+      ]
+    },
+    {
+      "id": "bfc14e7646d50da067b06ca2",
+      "label": "기타 보이스 · JP_Chapter1_22_038",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_22_038",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8ef0d5a0a84a4e411d8bb20f464de75be608ac6bb93e3fb09489b2465703ebf5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3440,
+      "audio_duration_ms": [
+        3440
+      ]
+    },
+    {
+      "id": "a34f3fc6a8c8bc3321a61178",
+      "label": "기타 보이스 · JP_Chapter1_23_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d75ccd078b5b7cb91b3157b35f1d91086ce558c900042db0f32ecb7bc3966056.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2357,
+      "audio_duration_ms": [
+        2357
+      ]
+    },
+    {
+      "id": "d7936dae3db7b5cb09b99ba5",
+      "label": "기타 보이스 · JP_Chapter1_23_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/2855712453691f5fda99018d949690c62f248fca3eb9a811f645f84eb29076dc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4257,
+      "audio_duration_ms": [
+        4257
+      ]
+    },
+    {
+      "id": "8689b71a642c8d546f0fd5db",
+      "label": "기타 보이스 · JP_Chapter1_23_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1828f458c08ebc17dcb07194ab12e50594ca75d5a4e264fd2507ad88dbfc4de2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6142,
+      "audio_duration_ms": [
+        6143
+      ]
+    },
+    {
+      "id": "469316c27d6967421f9e8ce4",
+      "label": "기타 보이스 · JP_Chapter1_23_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f2afea475d0186f1caf447f7228c0c84f892b942dc72b16c8e9fabde4b155552.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4781,
+      "audio_duration_ms": [
+        4782
+      ]
+    },
+    {
+      "id": "e9b307ac736e854564f28dc3",
+      "label": "기타 보이스 · JP_Chapter1_23_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/77bdf79ab77da868f84847037a2a6217adb2854335ef2e662654f82e2f13584a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1168,
+      "audio_duration_ms": [
+        1169
+      ]
+    },
+    {
+      "id": "146484333eb3944d44b54cb6",
+      "label": "기타 보이스 · JP_Chapter1_23_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/bdca7d911960e81fed51704497bc169d6366f73d281f9d150f5eee6f93dcef28.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4046,
+      "audio_duration_ms": [
+        4046
+      ]
+    },
+    {
+      "id": "28e4e1d4694d7f85c08a1b62",
+      "label": "기타 보이스 · JP_Chapter1_23_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0ea76e7b6009c55bf16277a5bbd51e5f1a5d2c4c2792d910e0830a424c76df5e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2068,
+      "audio_duration_ms": [
+        2069
+      ]
+    },
+    {
+      "id": "7031c610d2ad7c06ae5ee8dd",
+      "label": "기타 보이스 · JP_Chapter1_23_014",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_014",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/41a87ce162f7e610ba57e1d59bb8e714e0aef304a28c61d48f891cdbc2641fb0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1846,
+      "audio_duration_ms": [
+        1847
+      ]
+    },
+    {
+      "id": "323c7d432c50d80efb0f95db",
+      "label": "기타 보이스 · JP_Chapter1_23_015",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_015",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b4d3de4bb4cc46fa19cf62109638ade4757f299ef19770c68ae7223ed1b0ca88.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4984,
+      "audio_duration_ms": [
+        4985
+      ]
+    },
+    {
+      "id": "9e16ebbe6cf75defeedb9e7b",
+      "label": "기타 보이스 · JP_Chapter1_23_017",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_017",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/324f729cdfe13131c8f43432f2ec32827f31408ceab6f31ce69f160f3d3173a1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5394,
+      "audio_duration_ms": [
+        5394
+      ]
+    },
+    {
+      "id": "ba66434a4af57dadba2b653e",
+      "label": "기타 보이스 · JP_Chapter1_23_018",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_018",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1adc1e2b4e9bc8a4d4e144ec26cd5e1edfe71d961655b346c5d4a933e075b951.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 13103,
+      "audio_duration_ms": [
+        13103
+      ]
+    },
+    {
+      "id": "f713e71b4312b17bb3d063f4",
+      "label": "기타 보이스 · JP_Chapter1_23_019",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_019",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9c448fcf89b0874df98e0173f03fc485c80bc34c51a11e67c21fc335db917f8e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6544,
+      "audio_duration_ms": [
+        6544
+      ]
+    },
+    {
+      "id": "ae04d311a30c8740336b2b6a",
+      "label": "기타 보이스 · JP_Chapter1_23_022",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_022",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d25d683bde4b9b332dbe88e2bc03556e41e94730a8eb78f33a29577479862a57.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 609,
+      "audio_duration_ms": [
+        610
+      ]
+    },
+    {
+      "id": "9d4b7b56b2ef3391c563dddc",
+      "label": "기타 보이스 · JP_Chapter1_23_023",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_023",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9f53decb44c5f7ecd3a5645bd38081341d72efb31f68277b2d1c1cbfecdd148d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2513,
+      "audio_duration_ms": [
+        2513
+      ]
+    },
+    {
+      "id": "99e0c372434b4c04bb8e75a3",
+      "label": "기타 보이스 · JP_Chapter1_23_026",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_026",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8c121517b660739f512e9ea22cfccea6281731c138cd0e2a072dfef35d6ef1f4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2844,
+      "audio_duration_ms": [
+        2844
+      ]
+    },
+    {
+      "id": "a25182a425aa72e04bb95713",
+      "label": "기타 보이스 · JP_Chapter1_23_041",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_041",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/da28aada81920096c4b399623cff467c958e1a2f947de73cd2b61b71f2d28ff5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3313,
+      "audio_duration_ms": [
+        3313
+      ]
+    },
+    {
+      "id": "bac9c480da9e2d761caeae0c",
+      "label": "기타 보이스 · JP_Chapter1_23_055",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_055",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/fbe349ae7373943b9ee50d1de2a91080f81c0e484c53caf0227d4dd86aa94e17.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5300,
+      "audio_duration_ms": [
+        5300
+      ]
+    },
+    {
+      "id": "af67a7500fa0dda3216590eb",
+      "label": "기타 보이스 · JP_Chapter1_23_058",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_058",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/03627e51eb69c0ed061c54d36195a4c7b87ac2319d3ac4799a61ced880b56db0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2713,
+      "audio_duration_ms": [
+        2713
+      ]
+    },
+    {
+      "id": "dc587e30f05978282a2f6a71",
+      "label": "기타 보이스 · JP_Chapter1_23_062",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_062",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/128f3c5afef3522974e7c42656f0ee621fc7e9998572691dec358bf8528cf8f6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1491,
+      "audio_duration_ms": [
+        1492
+      ]
+    },
+    {
+      "id": "f83423a49b0faf75ed567766",
+      "label": "기타 보이스 · JP_Chapter1_23_063",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_063",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/066cfa45cb48efa957795985e8dad1aca312fa5970077e48afebc100ec2aa530.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4332,
+      "audio_duration_ms": [
+        4333
+      ]
+    },
+    {
+      "id": "72df3baeb7b6593dfe2ddb5b",
+      "label": "기타 보이스 · JP_Chapter1_23_064",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_23_064",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e8a3bc878c18237a0ad3f747d16c618e5085d0fe55fe14d2100562d4209165bc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4136,
+      "audio_duration_ms": [
+        4136
+      ]
+    },
+    {
+      "id": "1c622f4494875e21fa66fb21",
+      "label": "기타 보이스 · JP_Chapter1_2_2_001_n1",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_001_n1",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d484599d725bff94af64d7c8d15acca321b502ab89fde1ead41c4cffe7138304.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4857,
+      "audio_duration_ms": [
+        4857
+      ]
+    },
+    {
+      "id": "974b04e3b5a8290ff390e86c",
+      "label": "기타 보이스 · JP_Chapter1_2_2_001_n2",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_001_n2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/59962bab90b6c86cc24a5c3fd851fdfa1fb298cd2354496e16b66113a0b493f2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1082,
+      "audio_duration_ms": [
+        1083
+      ]
+    },
+    {
+      "id": "6b878a57b64cc5ae58f2c9dc",
+      "label": "기타 보이스 · JP_Chapter1_2_2_002",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_002",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/18ecd62c0d5edd5daddaa450900797e96d5f39333fda46a13d28e34c64339c33.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2810,
+      "audio_duration_ms": [
+        2811
+      ]
+    },
+    {
+      "id": "8b4f0b8682cff967c7d8b123",
+      "label": "기타 보이스 · JP_Chapter1_2_2_003",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_003",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/fec4002e78b52e3fdb3018848d7ae9dfcd4c2738736320e9912c740303f9c069.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5656,
+      "audio_duration_ms": [
+        5657
+      ]
+    },
+    {
+      "id": "227745515fdce8c14382b23c",
+      "label": "기타 보이스 · JP_Chapter1_2_2_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/fc957b9f33713fe77d7e7d8365582786c84061ca94160fc165209a4e91b3af30.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3650,
+      "audio_duration_ms": [
+        3650
+      ]
+    },
+    {
+      "id": "08622f58241082c384c2546e",
+      "label": "기타 보이스 · JP_Chapter1_2_2_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d38d7ecba57ad116e8b1ddff94de7e0cfc8e75391adf7f550758e2ff5d27eb3b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3496,
+      "audio_duration_ms": [
+        3497
+      ]
+    },
+    {
+      "id": "11a3c3f804448a8af84ea26d",
+      "label": "기타 보이스 · JP_Chapter1_2_2_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/c99f49ea5cada72b8f3c10f99ec8fae37c685c5dc07c9841ef01878ff0fd8ba2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1587,
+      "audio_duration_ms": [
+        1588
+      ]
+    },
+    {
+      "id": "4521e86344228fb3fc110ffa",
+      "label": "기타 보이스 · JP_Chapter1_2_2_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/cf61fe484dc75c188d8e7d2404ced6382d5f47a00c03b9c77a84e9c5334c5280.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5166,
+      "audio_duration_ms": [
+        5167
+      ]
+    },
+    {
+      "id": "160d41638c011cc443d362a2",
+      "label": "기타 보이스 · JP_Chapter1_2_2_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/532690eb8f80d2a2d77fc989d403f6b5c7a46300a76f0dc33bd16e0ff632b1ab.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2155,
+      "audio_duration_ms": [
+        2156
+      ]
+    },
+    {
+      "id": "a5f55904be03bcecd493067a",
+      "label": "기타 보이스 · JP_Chapter1_2_2_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ab2f07f63b925aea7ca7cc7803dc4d477500d5021d8c87c41258a9eaa8af56cc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2070,
+      "audio_duration_ms": [
+        2071
+      ]
+    },
+    {
+      "id": "836ba64b8da8fa81dae25a87",
+      "label": "기타 보이스 · JP_Chapter1_2_2_012",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_012",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7bb34a13f70a74916a6888ceeb10c2fd5682509b00b169cdf1ecbe1a7a462994.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2831,
+      "audio_duration_ms": [
+        2832
+      ]
+    },
+    {
+      "id": "2444c95f0a5ecf293ee5d75d",
+      "label": "기타 보이스 · JP_Chapter1_2_2_014",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_014",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7eb7fc57eead43d4b28045625627605742d4b9762f29aaa07c53e217d7fa8278.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2600,
+      "audio_duration_ms": [
+        2600
+      ]
+    },
+    {
+      "id": "b9fedde7e2571a013f93dc87",
+      "label": "기타 보이스 · JP_Chapter1_2_2_015",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_015",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/663ccab403b948335f902543174a744ca5be85009704ac895d4518808c59e4f5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4290,
+      "audio_duration_ms": [
+        4291
+      ]
+    },
+    {
+      "id": "de1df24bfb64746212362e32",
+      "label": "기타 보이스 · JP_Chapter1_2_2_016",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_016",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/eebd3d7948c7ef7a101f2cd5180bacf839df7dd3ce2a958ec26bd0c4a5c691a2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2576,
+      "audio_duration_ms": [
+        2577
+      ]
+    },
+    {
+      "id": "678cbc6cae8289364287d6bf",
+      "label": "기타 보이스 · JP_Chapter1_2_2_018",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_018",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1c8f14a26f63a60f80791cfc5d16698196e4800aa9386c86ecd7fee13cf36c14.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2744,
+      "audio_duration_ms": [
+        2744
+      ]
+    },
+    {
+      "id": "b5931a2a508b44c2f86b0a5c",
+      "label": "기타 보이스 · JP_Chapter1_2_2_019",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_019",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8736fc5c2c3bb821fa886ca05b7d78f0300ed982a9a050956b2d8a0ebfb675d2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7196,
+      "audio_duration_ms": [
+        7197
+      ]
+    },
+    {
+      "id": "2f0acfb62a3433732dbb7066",
+      "label": "기타 보이스 · JP_Chapter1_2_2_021",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_021",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/680c68bd84353803ba27f805cc2fc6b8aa5468dd28d7e7de9242a0bac6d5ac80.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1812,
+      "audio_duration_ms": [
+        1813
+      ]
+    },
+    {
+      "id": "47e09b279b9c42e4db018be7",
+      "label": "기타 보이스 · JP_Chapter1_2_2_023",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_023",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/decbdf691074ee5e570db779532cd1d314d14d7334302cd2a44df5795f541635.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2817,
+      "audio_duration_ms": [
+        2817
+      ]
+    },
+    {
+      "id": "17cc4fb713dfae31842d1ec5",
+      "label": "기타 보이스 · JP_Chapter1_2_2_026_n1",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_026_n1",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1b7eeeb4fab3ea4ed5cf4289d9d7b251bde46cff804fd7175f8c4b8246373519.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3802,
+      "audio_duration_ms": [
+        3803
+      ]
+    },
+    {
+      "id": "fa002f7643ec04417df8823c",
+      "label": "기타 보이스 · JP_Chapter1_2_2_026_n2",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_026_n2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e78f9aca57c2376d59ee418c41f2e3999a15a1e56e2aeeafb96db9f3257b6903.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1699,
+      "audio_duration_ms": [
+        1700
+      ]
+    },
+    {
+      "id": "2f55543bfa2fa11fdcb7eaca",
+      "label": "기타 보이스 · JP_Chapter1_2_2_028",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_028",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ebf41e566f69a0dd6a07828934385557a4374ee2d33cc0a4805406acdb16f3ff.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2962,
+      "audio_duration_ms": [
+        2963
+      ]
+    },
+    {
+      "id": "b3b05f15acd848069034d014",
+      "label": "기타 보이스 · JP_Chapter1_2_2_030",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_030",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/14c28a950b6b3dafee5a5cbfb3d666263eee84f13ac1ed067db95d36ea30ccd6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2925,
+      "audio_duration_ms": [
+        2926
+      ]
+    },
+    {
+      "id": "36dd009fa457e6a5c19181ff",
+      "label": "기타 보이스 · JP_Chapter1_2_2_031",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_2_2_031",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/796d5c7dd367d014284902432a63af0715ede9912a4a3f05058b7e833c434e5e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3259,
+      "audio_duration_ms": [
+        3259
+      ]
+    },
+    {
+      "id": "5f10ad0d1a58ed685b16eb53",
+      "label": "기타 보이스 · JP_Chapter1_3_001",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_3_001",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/1950362bd363801643a36a92ccfc1c16e1c8fc7f4d73f2dc137e1a8251676bf3.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2216,
+      "audio_duration_ms": [
+        2217
+      ]
+    },
+    {
+      "id": "f82c809fd982a38063aaa142",
+      "label": "기타 보이스 · JP_Chapter1_3_008",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_3_008",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/372a0fd9972abfa276b1504fd92a05d54aeac43560a0b14cdde7675c866d731d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3939,
+      "audio_duration_ms": [
+        3940
+      ]
+    },
+    {
+      "id": "b4d01b20b862662f2fc94d79",
+      "label": "기타 보이스 · JP_Chapter1_3_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_3_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/c4845c8bfcf0adbb285b530cfade1fa6edd465c342369249373fa48180093bc7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5101,
+      "audio_duration_ms": [
+        5101
+      ]
+    },
+    {
+      "id": "6e03c98a1ab69ea635b6ff14",
+      "label": "기타 보이스 · JP_Chapter1_4_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_4_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/94aeecd0b6b92b8b86e2a5ee73a048968c7ab5e7bd04a4f7e01f34e387c4b636.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2338,
+      "audio_duration_ms": [
+        2338
+      ]
+    },
+    {
+      "id": "21a0a2327676ade3a18f8fe9",
+      "label": "기타 보이스 · JP_Chapter1_4_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_4_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/4ac245e80983bbad84fbee8c51b1ccbe0d9652820aef57fd6d380f98123075c9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4325,
+      "audio_duration_ms": [
+        4326
+      ]
+    },
+    {
+      "id": "6778aeef4f5f2abe01a3049d",
+      "label": "기타 보이스 · JP_Chapter1_4_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_4_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/cdf92403538db2d1ab95df66cb1882ab28a894967bc49cc3947ea07085dbc323.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7789,
+      "audio_duration_ms": [
+        7790
+      ]
+    },
+    {
+      "id": "8a6d113b19fca3104a9fef40",
+      "label": "기타 보이스 · JP_Chapter1_4_012",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_4_012",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8130f7752397eef7e884e92404911846c99d29cd090a78273c5e13fc885a7e09.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 10395,
+      "audio_duration_ms": [
+        10395
+      ]
+    },
+    {
+      "id": "a67ee9c918aa470b24a5de03",
+      "label": "기타 보이스 · JP_Chapter1_4_014",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_4_014",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/df6e0eebb8f54d5f2a71a09e43390f5f7d773389fabdf2c06f7c98a5fd6f6422.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4307,
+      "audio_duration_ms": [
+        4308
+      ]
+    },
+    {
+      "id": "c74564fbb65297c31e8c0422",
+      "label": "기타 보이스 · JP_Chapter1_4_016",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_4_016",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/251479b2e15c093214e700534a6c7bd649b904be656d61ddd400546f5243f77b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3944,
+      "audio_duration_ms": [
+        3945
+      ]
+    },
+    {
+      "id": "18d3b786bd7702909ba1e1ea",
+      "label": "기타 보이스 · JP_Chapter1_5_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ee9b4ccd439853bc6fe345c679c0d064d0e6c85957631e7d79bc5bd1f1b06ba6.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4166,
+      "audio_duration_ms": [
+        4167
+      ]
+    },
+    {
+      "id": "9298228da0bb74081e6a8182",
+      "label": "기타 보이스 · JP_Chapter1_5_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/ec473c2d4f92e9b90b09a102b8d7f1b661f75453c9a16b72ce6be76ef039f963.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5784,
+      "audio_duration_ms": [
+        5785
+      ]
+    },
+    {
+      "id": "87b825f0a2b553c208c3287c",
+      "label": "기타 보이스 · JP_Chapter1_5_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7396d66f8b26e166e12a942819f6a8737f81867b377656971675a2fd6ddfceca.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3453,
+      "audio_duration_ms": [
+        3454
+      ]
+    },
+    {
+      "id": "cb2196082a2a9540433d2847",
+      "label": "기타 보이스 · JP_Chapter1_5_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/323cf96b3b3943cd69a9b66cb5713c1d0abfdb5180ba9f9969e178abcdcc11d7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2053,
+      "audio_duration_ms": [
+        2054
+      ]
+    },
+    {
+      "id": "515d694487bcc1cbb6f7f9e7",
+      "label": "기타 보이스 · JP_Chapter1_5_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/e255e4a13b4f30a9b52d99b0b00ac9f749505d89cade5545f9b9b3b6036bbca0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3859,
+      "audio_duration_ms": [
+        3860
+      ]
+    },
+    {
+      "id": "ee04fb5f0df4b469c20a7281",
+      "label": "기타 보이스 · JP_Chapter1_5_013",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_013",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/06c94c361d330416c8200ffeadccb41c94abce6c7fb1b8042b7c7d5eeffcfdbf.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3697,
+      "audio_duration_ms": [
+        3698
+      ]
+    },
+    {
+      "id": "cd4854ddec00b98f8d062695",
+      "label": "기타 보이스 · JP_Chapter1_5_014",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_014",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0d002768579a6e5d2c2a1da9c39c222b18581b698f65bd8a691f652ceb3e3ef4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1276,
+      "audio_duration_ms": [
+        1276
+      ]
+    },
+    {
+      "id": "df350615875b1c336462ff15",
+      "label": "기타 보이스 · JP_Chapter1_5_016",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_016",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/2b817d8ad719e74a55d598a848b9aadb850ee9f3f72683a88ff8c2e9731f97d4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5041,
+      "audio_duration_ms": [
+        5042
+      ]
+    },
+    {
+      "id": "e7e95365b582b4b35f553c3b",
+      "label": "기타 보이스 · JP_Chapter1_5_017",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_5_017",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f7306e75ff365cbb97bf3c532a77de174eab8dfb0b0b469232798d35621c4cc1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1356,
+      "audio_duration_ms": [
+        1357
+      ]
+    },
+    {
+      "id": "7ec9134c5e55597d501f0c15",
+      "label": "기타 보이스 · JP_Chapter1_6_002",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_002",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/169f32a992ff96761c623b4fe0993bdc2ac95223cbafd7cdcc73281822296520.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3046,
+      "audio_duration_ms": [
+        3046
+      ]
+    },
+    {
+      "id": "fee6e111475a9ce6e8b17880",
+      "label": "기타 보이스 · JP_Chapter1_6_003",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_003",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3af73f0adeb4083967ea28f4f6d48880cba3990387670b4a342ee67c3d0127f4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1584,
+      "audio_duration_ms": [
+        1584
+      ]
+    },
+    {
+      "id": "086c2401043bc52c84e016ff",
+      "label": "기타 보이스 · JP_Chapter1_6_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/22eeffebe458e83229f5f767ea54dcb1dfce51a875ee9a415685a0179bee7ef4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5734,
+      "audio_duration_ms": [
+        5735
+      ]
+    },
+    {
+      "id": "171201ee17e0523101f25b0d",
+      "label": "기타 보이스 · JP_Chapter1_6_008",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_008",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/c90eded60b866e880029eaa2a316a537085d888d725b3be242d15f21497cb47c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5147,
+      "audio_duration_ms": [
+        5148
+      ]
+    },
+    {
+      "id": "db7f8d3ccd163010534fc2e4",
+      "label": "기타 보이스 · JP_Chapter1_6_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/19d6d79abba9ecb14cd782df3a8c56fdddbf1fa1aea3288139cb36f6ab9578ff.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3590,
+      "audio_duration_ms": [
+        3590
+      ]
+    },
+    {
+      "id": "f3534907bb39b3f5b04d06e8",
+      "label": "기타 보이스 · JP_Chapter1_6_015",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_015",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/26339e0063195d7f34526401b99a1c3182c7b43a661bbdefe2e29f437bd35ed7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 804,
+      "audio_duration_ms": [
+        804
+      ]
+    },
+    {
+      "id": "9b87d564133dc8ad49ecd827",
+      "label": "기타 보이스 · JP_Chapter1_6_020",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_020",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8880e32afa96629554edd976b158c2b8d2036d44564c3f877a2febffcb1726bc.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 5033,
+      "audio_duration_ms": [
+        5033
+      ]
+    },
+    {
+      "id": "b0e110bc957fcd9651a749b9",
+      "label": "기타 보이스 · JP_Chapter1_6_022",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_022",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/dd831a6a33e919bb6a03ff0769e753808a4583ae7eb4d9724461f4b1c09a1aed.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1119,
+      "audio_duration_ms": [
+        1120
+      ]
+    },
+    {
+      "id": "927b21391f93ab3893bda21a",
+      "label": "기타 보이스 · JP_Chapter1_6_029",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_029",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0c02b6cc11d68f1f0916091f5f46a643621aab149634cc3d6761c100844ebd8c.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 876,
+      "audio_duration_ms": [
+        876
+      ]
+    },
+    {
+      "id": "0bb479f210d65f2d37cbb1a6",
+      "label": "기타 보이스 · JP_Chapter1_6_031",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_031",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/4a8494eb6026d275683558d236e4762c8dd449104840200bbd4ee8979284bd2f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2820,
+      "audio_duration_ms": [
+        2820
+      ]
+    },
+    {
+      "id": "df8dde17e561d28912765c5b",
+      "label": "기타 보이스 · JP_Chapter1_6_032",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_032",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8f1e6fe56cb3291338be9ab3cb4a6759d3711ea758ff52a156832b443773c2a3.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2974,
+      "audio_duration_ms": [
+        2975
+      ]
+    },
+    {
+      "id": "0ec3548ac81c24a808b491f7",
+      "label": "기타 보이스 · JP_Chapter1_6_033",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_033",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/703a0cc189077a6f9c1733eabfd2e607ec7c3ce202cb2e87667f5efb733dce23.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2563,
+      "audio_duration_ms": [
+        2563
+      ]
+    },
+    {
+      "id": "d7aaf386bb3bb8d0f3a56185",
+      "label": "기타 보이스 · JP_Chapter1_6_035",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_035",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0fd6e0dad237267fd9a71e2112123e17cb514a8253fc3fd5e6d2e4afed3122a7.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3203,
+      "audio_duration_ms": [
+        3203
+      ]
+    },
+    {
+      "id": "7ae3523053467a029ac42561",
+      "label": "기타 보이스 · JP_Chapter1_6_036",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_036",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8bd8705f9e1feac635216a6a48ffc7aaf7819f12fe1ec07e21f935283faa5eb2.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7964,
+      "audio_duration_ms": [
+        7965
+      ]
+    },
+    {
+      "id": "8f633da0e5459d44f3d9d9e1",
+      "label": "기타 보이스 · JP_Chapter1_6_037",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_037",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/52c7e528c7f07b6c890f9343d6362204f88220fa5aea19886bc1558c14a06dbb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6685,
+      "audio_duration_ms": [
+        6686
+      ]
+    },
+    {
+      "id": "c2467a69b39521ca8bfcbb84",
+      "label": "기타 보이스 · JP_Chapter1_6_038",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_038",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f628fa496253428ad17d92d6a2d83137bcb7bc8079b35a138bb37a3e13093723.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 3180,
+      "audio_duration_ms": [
+        3180
+      ]
+    },
+    {
+      "id": "c81b05da448c45291d691288",
+      "label": "기타 보이스 · JP_Chapter1_6_041",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_041",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/40bfc1cda0188736ec57e90b8f0f5488053576fc80754546fb9bb5ed27e962fa.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 611,
+      "audio_duration_ms": [
+        611
+      ]
+    },
+    {
+      "id": "457cb2dae99f389315cc5246",
+      "label": "기타 보이스 · JP_Chapter1_6_042",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_042",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/a6797bf3672a99d1154845c867b85cd443bb4b47004c2e687773a34278e88c8a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4096,
+      "audio_duration_ms": [
+        4096
+      ]
+    },
+    {
+      "id": "988e612b974babb3b4c576f1",
+      "label": "기타 보이스 · JP_Chapter1_6_044",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_044",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/30861c51c974602ed881f1c8c987a52aa1bb47745229b699f87ac0429dbe6976.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1951,
+      "audio_duration_ms": [
+        1951
+      ]
+    },
+    {
+      "id": "4e1dc529a630cb2180820d56",
+      "label": "기타 보이스 · JP_Chapter1_6_045",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_6_045",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/47e7408badbb5a6d21f578714a6e764c6b63c747658331a7c5edd071343c9bb9.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1828,
+      "audio_duration_ms": [
+        1828
+      ]
+    },
+    {
+      "id": "ba36e5e3025aff91aaf76599",
+      "label": "기타 보이스 · JP_Chapter1_7_2_003",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_003",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8945b495afb5b63203b4c80296835338ad71695e76e93366f8628c3fc8a864f4.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2905,
+      "audio_duration_ms": [
+        2905
+      ]
+    },
+    {
+      "id": "7cf9928261f93b0cc1bd6093",
+      "label": "기타 보이스 · JP_Chapter1_7_2_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3098972c2b47e0ad30289c60422f6ff687a3537248f40d0303d6dbcc1e7d7929.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4616,
+      "audio_duration_ms": [
+        4616
+      ]
+    },
+    {
+      "id": "669ba1fd581bcc21ee21fb5c",
+      "label": "기타 보이스 · JP_Chapter1_7_2_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/19ec93ae4bd6e643c8c2fd9a2200aaf89a7c5a00abd191106b73127d7a26c9ca.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2844,
+      "audio_duration_ms": [
+        2845
+      ]
+    },
+    {
+      "id": "1bacd453666ae08092412760",
+      "label": "기타 보이스 · JP_Chapter1_7_2_007",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_007",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6450f922e5883df17d7d123023eba140c012186903d1daa5fbb13efa2c82d499.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6525,
+      "audio_duration_ms": [
+        6525
+      ]
+    },
+    {
+      "id": "20932e2151a503c4e0c08d34",
+      "label": "기타 보이스 · JP_Chapter1_7_2_008",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_008",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6ba93f489d5dcd568a2dbfc7f8f36f52c7427484e16375b2fe3bcde955a8e4e1.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 6270,
+      "audio_duration_ms": [
+        6270
+      ]
+    },
+    {
+      "id": "c4b670074b6b56924fe0a416",
+      "label": "기타 보이스 · JP_Chapter1_7_2_009",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_009",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/fd2e8f3cb972034ece73cc035111cdcc4cbeb5b38ce2355e41c36e9320021837.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7658,
+      "audio_duration_ms": [
+        7659
+      ]
+    },
+    {
+      "id": "35a4013e0189480de0ec46c5",
+      "label": "기타 보이스 · JP_Chapter1_7_2_010",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_010",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3dddef87733905f4b37e1685fc6cd5248cfeae8049b1a32a19b62f1fad1c67c5.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4571,
+      "audio_duration_ms": [
+        4571
+      ]
+    },
+    {
+      "id": "12eb50f51167e3123317a1b7",
+      "label": "기타 보이스 · JP_Chapter1_7_2_011",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_011",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0e81cac864c814fcaf86a13015a92f695faef40a16274d5467a82ea94eb03a88.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 7938,
+      "audio_duration_ms": [
+        7938
+      ]
+    },
+    {
+      "id": "ca0fedba08213421b8b3a2e6",
+      "label": "기타 보이스 · JP_Chapter1_7_2_012",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_012",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/41259c107796dbac4efead9f1418477c81ea4b1318de6ebf623e5b24fb91ac83.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4831,
+      "audio_duration_ms": [
+        4832
+      ]
+    },
+    {
+      "id": "025e03b138227e11c0edd8c5",
+      "label": "기타 보이스 · JP_Chapter1_7_2_014",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_7_2_014",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/01a81303c1e2ffef1c15c2b8c93b03dc5dced5dbfce9ee7f2e6421921fe09e8b.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2035,
+      "audio_duration_ms": [
+        2036
+      ]
+    },
+    {
+      "id": "dd569fdcc66dd5f272a24b0d",
+      "label": "기타 보이스 · JP_Chapter1_8_004",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_8_004",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/565464e8dfdf6a96c1fe04964679acd13fe71705a2365ab0bd523b89a519502d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4377,
+      "audio_duration_ms": [
+        4377
+      ]
+    },
+    {
+      "id": "dccd8e520c9d2e5a443a874b",
+      "label": "기타 보이스 · JP_Chapter1_8_005",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_8_005",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/545de0ae4f91c53f0ab29a75d6966f59fda6c41aa14455a1eda80b521618b006.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4729,
+      "audio_duration_ms": [
+        4730
+      ]
+    },
+    {
+      "id": "ef7b0ffed42d04b8be73648e",
+      "label": "기타 보이스 · JP_Chapter1_8_006",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_8_006",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/96cc20e446fd5f69476e704625ba3b7ca4a4dba547e5b64c466163b442c9e409.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 4867,
+      "audio_duration_ms": [
+        4868
+      ]
+    },
+    {
+      "id": "74de8aba2f1403b68381c8b0",
+      "label": "기타 보이스 · JP_Chapter1_9_012",
+      "label_source": "cue",
+      "cue": "JP_Chapter1_9_012",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/627f5e02a3796f92c6f82f03e8b45b07f33d02e35e9f7806a248051c51273363.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2331,
+      "audio_duration_ms": [
+        2331
+      ]
+    },
+    {
+      "id": "93941bf45aaa9ae2d1df3e20",
+      "label": "화남 01 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@anger01_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/354511ec1bf1c9a16caef4a341018f748c082ea0aacb4a00b7dcb8a2eec03912.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "1447f836a51fec85cda84312",
+      "label": "기본 공격 1 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@attack1_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/325a6c1653724a2034af31d6f9e41528c8af477868594235d39143fe93fa5d3e.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 467,
+      "audio_duration_ms": [
+        467
+      ]
+    },
+    {
+      "id": "58b7ae81baf4a491048109c2",
+      "label": "기본 공격 2 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@attack2_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/423409fef67faa64b0044dfa2bc0a2696703eca9cea6ad3423e67c0f0d3adb8f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "9f46ce0d4855b7b6c4bd6a59",
+      "label": "기본 공격 5 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@attack5_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/7cbb57e49a4d434285074f7b2b0728652c9a71f6f9e6823cec3eb7ee7249945f.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 600,
+      "audio_duration_ms": [
+        601
+      ]
+    },
+    {
+      "id": "584f60f7c36bd2217e0bdc61",
+      "label": "호출 02 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@call02_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/450f69a7b0dc40141a4aeade2f1de866eaec61e0e35b2b6114b21af8af914a09.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "d0578d7d16929baccdbb5290",
+      "label": "호출 03 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@call03_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d35ec0a7935a264ea7ec4d343494f66dde210690f5f1c7d126bee19638a74d9d.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1234,
+      "audio_duration_ms": [
+        1235
+      ]
+    },
+    {
+      "id": "33f91b4340e7f131de11d7f1",
+      "label": "기쁨 01 · 3 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@happy01_3_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/d21607ef7538dcfc1a7f000ab8c299c551364617f3ce89e9264d4e09d2fd4308.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1601,
+      "audio_duration_ms": [
+        1602
+      ]
+    },
+    {
+      "id": "a57a6af41152508d542def27",
+      "label": "기쁨 01 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@happy01_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/c6f779a5a0d837e8230f369e92588ad7af4784ab6cb342585091a81f8fe45740.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1267,
+      "audio_duration_ms": [
+        1268
+      ]
+    },
+    {
+      "id": "004584a80ec216118c1d753f",
+      "label": "피격 1 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@hit1_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/118b5da355efc3c581ff715f20570c7c10960e35f786274befbcdf04d568c429.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 400,
+      "audio_duration_ms": [
+        400
+      ]
+    },
+    {
+      "id": "b9c99cad2f259bf20f5d4418",
+      "label": "웃음 01 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@laugh01_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/76570540a6d00e286c43049dc458f4e88d0040775caced6f53f03b0aed9cfadb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "d5d2947b3f1d6b3315e53efe",
+      "label": "긍정 반응 02 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive02_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/10912493c9e03fad3869dfd2413e82383d48e8946378efa6f4a8bd8cfbf34168.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "9e034ed4a769cf241a7fd7a6",
+      "label": "긍정 반응 03 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive03_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/8ab949ff484f1b043ec0d5ac2a824243ad174368e211a5e27223ca224f44fa45.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 500,
+      "audio_duration_ms": [
+        501
+      ]
+    },
+    {
+      "id": "8c0b613e94b6b1ec880e4836",
+      "label": "긍정 반응 04 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive04_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/6210c206c672e34b3125ac3f3a6c9945bdbd571e0ae4912a01366e839b88380a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 900,
+      "audio_duration_ms": [
+        901
+      ]
+    },
+    {
+      "id": "fde7bc1d2ac53ad11aba7e13",
+      "label": "긍정 반응 05 · 2 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive05_2_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/b3339b4b5b44b41eab345bd1d5aa879750b05f9c87de94224463bc8ce076c167.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 767,
+      "audio_duration_ms": [
+        767
+      ]
+    },
+    {
+      "id": "1f58ba6b66f552d9221a8d81",
+      "label": "긍정 반응 05 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@positive05_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/2f200d7fde32125816200995850bdf885e98615b2de4a73d1a8ae434e92518eb.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 567,
+      "audio_duration_ms": [
+        567
+      ]
+    },
+    {
+      "id": "55bd5dfcf10da46e51d66669",
+      "label": "슬픔 01 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@sad01_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/544c66a1c5a1a062097f88ad5b883f5de41d2100aad96dfb3b3112743fa0bdc0.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 800,
+      "audio_duration_ms": [
+        801
+      ]
+    },
+    {
+      "id": "420ad50482029eb981f95b26",
+      "label": "감사 01 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@thanks01_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3bd6fe5d81d5f1f9b957d65aed44093f586bbf6fab5bd46d11812049c1b4acfe.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1334,
+      "audio_duration_ms": [
+        1335
+      ]
+    },
+    {
+      "id": "e4e6b8f56baad008221b3700",
+      "label": "생각 01 · 3 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@think01_3_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/0b2fb081bf1d84c8fd530d0eb9fef65b8fa061a4873805916896a774e220af92.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1534,
+      "audio_duration_ms": [
+        1535
+      ]
+    },
+    {
+      "id": "74f85e7587bdbbb46cff8ff8",
+      "label": "생각 01 · tuto",
+      "label_source": "purpose",
+      "cue": "vo_airen@think01_tuto",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/9a83d396b0b2f938916f61c56b7854c51326ab9e9934c2406696a789b65d2c10.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1735,
+      "audio_duration_ms": [
+        1735
+      ]
+    },
+    {
+      "id": "8d95686742ed8b09de37d6fb",
+      "label": "타이틀",
+      "label_source": "purpose",
+      "cue": "vo_airen@titlecall",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/88513e91f5605d558d71000d556b8e13fe227dda7e1bf921601bf33a47db8c99.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 1368,
+      "audio_duration_ms": [
+        1368
+      ]
+    },
+    {
+      "id": "8872070f9d977ea80ddfb504",
+      "label": "타이틀 2",
+      "label_source": "purpose",
+      "cue": "vo_airen@titlecall2",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/f536a9faff2fb847b6a80dfe8b060c10e2ae5cfe8c306216372f6f917400398a.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2969,
+      "audio_duration_ms": [
+        2970
+      ]
+    },
+    {
+      "id": "9c54b1b92be74f0269073329",
+      "label": "타이틀 3",
+      "label_source": "purpose",
+      "cue": "vo_airen@titlecall3",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/546e3e7eedff3dcf855757c386542a9c09b9130bac45a877203be3688a64be28.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2602,
+      "audio_duration_ms": [
+        2603
+      ]
+    },
+    {
+      "id": "2da3d90c1b65bb55bf1966ba",
+      "label": "타이틀 4",
+      "label_source": "purpose",
+      "cue": "vo_airen@titlecall4",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/656d4849d94c206a40bec5a6ce83c3628c41f564c3cbf3eb59c71a890d1eac13.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2502,
+      "audio_duration_ms": [
+        2503
+      ]
+    },
+    {
+      "id": "1f2886a1a884ab7f854d99a7",
+      "label": "타이틀 5",
+      "label_source": "purpose",
+      "cue": "vo_airen@titlecall5",
+      "category": "other",
+      "playable": true,
+      "audio_urls": [
+        "audio/3d0a4b84055af5f2b93b69d4e049e05e817f501591bd473e50af286467b1ce80.m4a"
+      ],
+      "wave_count": 1,
+      "duration_ms": 2635,
+      "audio_duration_ms": [
+        2636
+      ]
+    }
+  ],
+  "excluded_event_only": 3,
+  "total": 364,
+  "playable": 364,
+  "clip_count": 364,
+  "categories": [
+    {
+      "id": "idle",
+      "label": "대기",
+      "count": 22
+    },
+    {
+      "id": "touch",
+      "label": "터치",
+      "count": 21
+    },
+    {
+      "id": "battle",
+      "label": "전투",
+      "count": 34
+    },
+    {
+      "id": "growth",
+      "label": "획득·성장",
+      "count": 17
+    },
+    {
+      "id": "emotion",
+      "label": "감정·반응",
+      "count": 46
+    },
+    {
+      "id": "other",
+      "label": "기타",
+      "count": 224
+    }
+  ]
+}
